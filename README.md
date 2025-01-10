@@ -86,7 +86,7 @@ Filters for usenet sites.
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/usenet.txt
 ```
 
-# Video Media Adblock List 📺
+## Video Media Adblock List 📺
 
 Filters for video sites.
 
