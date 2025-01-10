@@ -11,9 +11,9 @@ I've created these lists to improve and cleanup sites I visit frequently. More f
 
 # Usage
 
-To use copy and paste any list you want from below.
+To use these lists copy and paste any list you want from below.
 
-For uBlock Origin: On the **Filter lists** tab, paste it into the **Import..** section and then press the **Apply changes** button at the top left of the page.
+For uBlock Origin: On the `Filter lists` tab, paste it into the `Import..` section and then press the `Apply changes` button at the top left of the page.
 
 # Copy and Paste
 
