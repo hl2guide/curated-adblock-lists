@@ -11,7 +11,7 @@ Recommended to be used in the [Mozilla Firefox](https://www.mozilla.org/en-US/fi
 
 To use copy and paste any list you want from below.
 
-For uBlock Origin: paste it into the **Import..** section on the **Filter lists** tab and press the **Apply changes** button at the top left of the page.
+For uBlock Origin: On the **Filter lists** tab, paste it into the **Import..** section and then press the **Apply changes** button at the top left of the page.
 
 # Copy and Paste
 
