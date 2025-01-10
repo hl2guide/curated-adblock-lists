@@ -4,74 +4,86 @@ Curated adblock lists for use in uBlock Origin or AdGuard browser extensions.
 
 Recommended to be used in the Mozilla Firefox browser with the uBlock Origin addon installed.
 
+- Last updated: 2025-01-10 23:54:25 +1100
+- Version: 1.0.0.0
+
 # Copy and Paste
 
 ## All 📦
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/australia.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/gaming.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/productivity.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/shopping.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/social-media.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/usenet.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/video-media.txt
 ```
 
 ## Allowed Adblock List ✅
 
-text
+Filters that allow or except sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
 ```
 
 ## Australia Adblock List 🦘
 
-text
+Filters for Australian sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/australia.txt
 ```
 
 ## Gaming Adblock List 🎮
 
-text
+Filters for Gaming sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/gaming.txt
 ```
 
 ## Productivity Adblock List ⚒️
 
-text
+Filters for Productivity sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/productivity.txt
 ```
 
 ## Shopping Adblock List 🛒
 
-text
+Filters for shopping sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/shopping.txt
 ```
 
 ## Social Media Adblock List ⚠️
 
-text
+Blocks social media sites.
+
+It's for people like me who dislike the time-wasting, invasive nature of social media sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/social-media.txt
 ```
 
 ## Usenet Adblock List 🎯
 
-text
+Filters for usenet sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/usenet.txt
 ```
 
 # Video Media Adblock List 📺
 
-text
+Filters for video sites.
 
 ```
-URL
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/video-media.txt
 ```
