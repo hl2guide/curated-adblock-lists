@@ -7,6 +7,8 @@ Recommended to be used in the [Mozilla Firefox](https://www.mozilla.org/en-US/fi
 - Last updated: 2025-01-11 00:02:34 +1100
 - Version: 1.0.0.0
 
+I've created these lists to improve and cleanup sites I visit frequently. More filters will be added during 2025.
+
 # Usage
 
 To use copy and paste any list you want from below.
