@@ -1,0 +1,28 @@
+[Adblock Plus 2.0]
+
+! Title: 🗃️ Curated Adblock List - Usenet
+! Description: A curated adblock list for usenet sites.
+! Last Modified: 2025-01-10 23:40:29 +1100
+! Version: 1.0.0.0
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Source: https://github.com/hl2guide/curated-adblock-lists
+! Source RAW:
+! Author: hl2guide
+! Copyright: hl2guide
+
+! nzbstars
+nzbstars.com###container > center:nth-child(8) > a:last-child > img
+nzbstars.com###container > center:nth-child(9) > a:last-child
+nzbstars.com###container > center:nth-child(9) > a:last-child > img
+nzbstars.com###filter > ul.filterlist.quicklinks:nth-child(2) > li > center:nth-child(4)
+nzbstars.com###filter > ul.filterlist.quicklinks:nth-child(2) > li > center:nth-child(5)
+nzbstars.com###filter > ul.filterlist.quicklinks:nth-child(2) > li > center:nth-child(7) > form > input:nth-child(2)
+nzbstars.com##center:nth-of-type(2)
+nzbstars.com##center:nth-of-type(3)
+nzbstars.com##center:nth-of-type(4)
+nzbstars.com##center:nth-of-type(5)
+nzbstars.com##center:nth-of-type(6)
+nzbstars.com##center:nth-of-type(7)
+! nzbstars.com - fix preview images not loading
+@@||nzbstars.com/?page=getimage&messageid=&image[height]=260&image[width]=260$image,1p

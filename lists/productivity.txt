@@ -1,0 +1,54 @@
+[Adblock Plus 2.0]
+
+! Title: ⚒️ Curated Adblock List - Productivity
+! Description: A curated adblock list for productivity sites.
+! Last Modified: 2025-01-10 23:37:30 +1100
+! Version: 1.0.0.0
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Source: https://github.com/hl2guide/curated-adblock-lists
+! Source RAW:
+! Author: hl2guide
+! Copyright: hl2guide
+
+! ads.js blocking - https://d3ward.github.io/toolz/adblock
+/pagead.js$domain=d3ward.github.io
+/widget/ads.
+
+! learn.microsoft.com fix (long load)
+js.monitor.azure.com
+wcpstatic.microsoft.com
+
+! inoreader.com fix (long load)
+js.braintreegateway.com
+
+! majorgeeks.com fix (long load)
+cdn-images.mailchimp.com
+cdnjs.buymeacoffee.com
+connect.facebook.net
+
+! learn.microsoft.com fix (long load)
+js.monitor.azure.com
+wcpstatic.microsoft.com
+
+! Blocks annoying banner
+dash.sonicbit.net###content > div:first-child > div.row:nth-child(3) > div.col-12 > div.gd-warning.alert-dismissible.fade.show.p-4.mb-4
+! Blocks Link Director Spam Text
+dash.sonicbit.net###content > div:first-child > div.gd-warning:nth-child(3) > div.col-12
+
+disqus.com###container-main > div > div.section-contained:last-child > div.layout.-top-narrow > div.layout__main > div.layout__nav:first-child > div.hidden-md:last-child
+evernote.com###qa-SIDEBAR_UPGRADE_BUTTON
+evernote.com##body > div.modal-banner.image-on-left.is-illustration
+evernote.com##body > div.modal-mask
+glenn.delahoy.com###pageid-153 > div.entry-box.clearfix:last-child > div.entry:nth-child(2) > table:last-child
+hd24bit.com###tabs_widget-2 > div.tabbed > div.block.current:last-child > div.row:first-child > center:first-child > img
+inoreader.com###aswift_0
+inoreader.com###leaderboard_ad-63dafb2abf7fb
+inoreader.com##.adsbygoogle
+majorgeeks.com###menu1 > div.altcontent:nth-child(4)
+majorgeeks.com##.bmc-btn
+my.jdownloader.org###container > footer:last-child
+offcloud.com##aside.sidebar.sidebar-left.sidebar-menu:nth-child(2) > div.viewport > section.content.slimscroll:first-child > div.wrapper.ng-scope:last-child
+offcloud.com##aside.sidebar.sidebar-left.sidebar-menu:nth-child(2) > div.viewport > section.content.slimscroll:first-child > h5.heading:nth-child(3)
+protonmail.com###body > div.app-root > div.flex.flex-row.flex-nowrap.h100 > div > div > div > div.main.ui-standard.flex.flex-column.flex-nowrap.flex-item-fluid.main--bordered > div > main > section > div.bg-primary.p1.text-center
+raindrop.io###__next > div.undefined:first-child > div.landing2Gps:nth-child(2) > div.blob1U5Q.left1x3n.intro2RCL:first-child > div.grid178A > div:last-child > video

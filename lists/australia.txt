@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+
+! Title: 🦘 Curated Adblock List - Australia
+! Description: A curated adblock list for Australian sites.
+! Last Modified: 2025-01-10 23:29:33 +1100
+! Version: 1.0.0.0
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Source: https://github.com/hl2guide/curated-adblock
+! Source RAW:
+! Author: hl2guide
+! Copyright: hl2guide
+
+gumtree.com.au##.e102c3rk0.css-1uk1bt1-Box
+gumtree.com.au##.ico-banner-top
+gumtree.com.au##.slider__content--carval
