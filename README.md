@@ -1,10 +1,10 @@
 # curated-adblock-lists
 
-Curated adblock lists for use in uBlock Origin or AdGuard browser extensions.
+Curated adblock lists for use in [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) or AdGuard browser extensions.
 
-Recommended to be used in the Mozilla Firefox browser with the uBlock Origin addon installed.
+Recommended to be used in the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser with the [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) addon installed.
 
-- Last updated: 2025-01-10 23:54:25 +1100
+- Last updated: 2025-01-10 23:58:10 +1100
 - Version: 1.0.0.0
 
 # Copy and Paste
