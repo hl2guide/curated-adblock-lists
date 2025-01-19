@@ -4,8 +4,8 @@ Curated adblock lists for use in [uBlock Origin](https://addons.mozilla.org/en-U
 
 I recommend that these lists are used in the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser with the [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) addon installed for full functionality.
 
-- Last updated: 2025-01-11 01:28:56 +1100
-- Version: 1.0.0.0
+- Last updated: 2025-01-19 11:32:19 +1100
+- Version: 1.0.0.1
 
 I've created these lists to improve and cleanup sites I visit frequently. More filters will be added during 2025, the lists will avoid heavy filters that have a performance impact.
 
@@ -26,6 +26,7 @@ https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/productivity.txt
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/shopping.txt
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/social-media.txt
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/trackers.txt
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/usenet.txt
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/video-media.txt
 ```
@@ -78,6 +79,12 @@ It's for people like me who dislike the time-wasting, invasive nature of social 
 
 ```
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/social-media.txt
+```
+
+## Trackers Adblock List 🔍
+
+```
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/trackers.txt
 ```
 
 ## Usenet Adblock List 🎯
