@@ -2,8 +2,8 @@
 
 ! Title: 🔍 Curated Adblock List - Trackers
 ! Description: A curated adblock list for blocking trackers.
-! Last Modified: 2025-01-19 11:43:18 +1100
-! Version: 1.0.0.0
+! Last Modified: 2025-01-19 13:37:53 +1100
+! Version: 1.0.0.1
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -757,7 +757,6 @@
 ||connect.facebook.net^
 ||graph.facebook.com^
 ||pixel.facebook.com^
-||www.facebook.com^
 ||fam-ad.com^
 ||fastcmp.com^
 ||fastly-insights.com^
@@ -886,14 +885,9 @@
 ||region1.google-analytics.com^
 ||ssl.google-analytics.com^
 ||www.google-analytics.com^
-||google.com^
-||google.com.au^
-||google.com.sg^
 ||adservice.google.com^
 ||analytics.google.com^
 ||region1.analytics.google.com^
-||play.google.com^
-||www.google.com.au^
 ||googlesyndication.com^
 ||ade.googlesyndication.com^
 ||afs.googlesyndication.com^
@@ -1266,11 +1260,6 @@
 ||micpn.com^
 ||microad.jp^
 ||microadinc.com^
-||microsoft.com^
-||get.microsoft.com^
-||learn.microsoft.com^
-||www.catalog.update.microsoft.com^
-||windows.microsoft.com^
 ||midserved.com^
 ||mindbox.ru^
 ||minutemediaservices.com^
@@ -1706,7 +1695,6 @@
 ||pixel-apac.rubiconproject.com^
 ||prebid-server.rubiconproject.com^
 ||rudo.video^
-||rumble.com^
 ||rumiview.com^
 ||run-syndicate.com^
 ||runative-syndicate.com^
@@ -1879,7 +1867,6 @@
 ||solta.io^
 ||sonobi.com^
 ||soumehoo.net^
-||soundcloud.com^
 ||w.soundcloud.com^
 ||sp-trk.com^
 ||sparkloop.app^
@@ -1896,7 +1883,6 @@
 ||spolecznosci.net^
 ||sportradar.com^
 ||sportradarserving.com^
-||spotify.com^
 ||embed.spotify.com^
 ||open.spotify.com^
 ||pixels.spotify.com^
@@ -2100,10 +2086,7 @@
 ||twinrdack.com^
 ||twinrdsrv.com^
 ||twinrdsyte.com^
-||twitch.tv^
 ||embed.twitch.tv^
-||player.twitch.tv^
-||www.twitch.tv^
 ||twitter.com^
 ||ads-api.twitter.com^
 ||platform.twitter.com^
@@ -2190,7 +2173,6 @@
 ||visitor-analytics.io^
 ||visitorqueue.com^
 ||visualdna.com^
-||visualstudio.com^
 ||dc.services.visualstudio.com^
 ||visualwebsiteoptimizer.com^
 ||dev.visualwebsiteoptimizer.com^
