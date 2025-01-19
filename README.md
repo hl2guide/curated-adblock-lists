@@ -83,6 +83,8 @@ https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main
 
 ## Trackers Adblock List 🔍
 
+Blocks many trackers. Obtained trackers by using Privacy Badger.
+
 ```
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/trackers.txt
 ```
