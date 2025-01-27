@@ -2,8 +2,8 @@
 
 ! Title: 🔍 Curated Adblock List - Trackers
 ! Description: A curated adblock list for blocking trackers.
-! Last Modified: 2025-01-19 13:37:53 +1100
-! Version: 1.0.0.1
+! Last Modified: 2025-01-27 15:34:05 +1100
+! Version: 1.0.0.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,8 +11,142 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
-! Obtained from using Privacy Badger addon in Firefox at 2025-01-19 11:28:13 +1100
+! Main tracker list 2025
+||ad.doubleclick.net^
+||adc3-launch.adcolony.com^
+||adfox.yandex.ru^
+||adfstat.yandex.ru^
+||adm.hotjar.com^
+||ads-api.tiktok.com^
+||ads-api.twitter.com^
+||ads-sg.tiktok.com^
+||ads.linkedin.com^
+||ads.pinterest.com^
+||ads.tiktok.com^
+||ads.yahoo.com^
+||ads.youtube.com^
+||ads30.adcolony.com^
+||adserver.unityads.unity3d.com^
+||adservetx.media.net^
+||adservice.google.com^
+||adsfs.oppomobile.com^
+||adtago.s3.amazonaws.com^
+||adtech.yahooinc.com^
+||advertising-api-eu.amazon.com^
+||advertising.apple.com^
+||advice-ads.s3.amazonaws.com^
+||adx.ads.oppomobile.com^
+||afs.googlesyndication.com^
+||an.facebook.com^
+||analytics-api.samsunghealthcn.com^
+||analytics-sg.tiktok.com^
+||analytics.google.com^
+||analytics.pinterest.com^
+||analytics.pointdrive.linkedin.com^
+||analytics.query.yahoo.com^
+||analytics.s3.amazonaws.com^
+||analytics.tiktok.com^
+||analytics.yahoo.com^
+||analyticsengine.s3.amazonaws.com^
+||api-adservices.apple.com^
+||api.ad.xiaomi.com^
+||api.bugsnag.com^
+||api.luckyorange.com^
+||api.mouseflow.com^
+||app.bugsnag.com^
+||app.getsentry.com^
+||appmetrica.yandex.ru^
+||auction.unityads.unity3d.com^
+||bdapi-ads.realmemobile.com^
+||bdapi-in-ads.realmemobile.com^
+||books-analytics-events.apple.com^
+||browser.sentry-cdn.com^
+||business-api.tiktok.com^
+||careers.hotjar.com^
+||cdn-test.mouseflow.com^
+||cdn.luckyorange.com^
+||cdn.mouseflow.com^
+||ck.ads.oppomobile.com^
+||claritybt.freshmarketer.com^
+||click.googleanalytics.com^
+||click.oneplus.cn^
+||config.unityads.unity3d.com^
+||cs.luckyorange.net^
+||data.ads.oppomobile.com^
+||data.mistat.india.xiaomi.com^
+||data.mistat.rus.xiaomi.com^
+||data.mistat.xiaomi.com^
+||events.hotjar.io^
+||events.reddit.com^
+||events.redditmedia.com^
+||events3alt.adcolony.com^
+||extmaps-api.yandex.net^
+||freshmarketer.com^
+||fwtracks.freshmarketer.com^
+||gemini.yahoo.com^
+||geo.yahoo.com^
+||google-analytics.com^
+||grs.hicloud.com^
+||gtm.mouseflow.com^
+||iadsdk.apple.com^
+||identify.hotjar.com^
+||insights.hotjar.com^
+||iot-eu-logser.realme.com^
+||iot-logser.realme.com^
+||log.byteoversea.com^
+||log.fc.yahoo.com^
+||log.pinterest.com^
+||logbak.hicloud.com^
+||logservice.hicloud.com^
+||logservice1.hicloud.com^
+||luckyorange.com^
+||m.doubleclick.net^
+||media.net^
+||mediavisor.doubleclick.net^
+||metrics.data.hicloud.com^
+||metrics.icloud.com^
+||metrics.mzstatic.com^
+||metrics2.data.hicloud.com^
+||metrika.yandex.ru^
+||mouseflow.com^
+||nmetrics.samsung.com^
+||notes-analytics-events.apple.com^
+||notify.bugsnag.com^
+||o2.mouseflow.com^
+||offerwall.yandex.net^
+||open.oneplus.net^
+||pagead2.googleadservices.com^
+||pagead2.googlesyndication.com^
+||partnerads.ysm.yahoo.com^
+||pixel.facebook.com^
+||realtime.luckyorange.com^
+||samsung-com.112.2o7.net^
+||samsungads.com^
+||script.hotjar.com^
+||sdkconfig.ad.intl.xiaomi.com^
+||sdkconfig.ad.xiaomi.com^
+||sessions.bugsnag.com^
+||settings.luckyorange.net^
+||smetrics.samsung.com^
+||ssl.google-analytics.com^
+||static.ads-twitter.com^
+||static.doubleclick.net^
+||static.media.net^
+||stats.g.doubleclick.net^
+||stats.wp.com^
+||surveys.hotjar.com^
+||tools.mouseflow.com^
+||tracking.rus.miui.com^
+||trk.pinterest.com^
+||udc.yahoo.com^
+||udcm.yahoo.com^
+||upload.luckyorange.net^
+||w1.luckyorange.com^
+||wd.adcolony.com^
+||weather-analytics-events.apple.com^
+||webview.unityads.unity3d.com^
 
+! Obtained from using Privacy Badger addon in Firefox at 2025-01-19 11:28:13 +1100
 ||00d3ed994e.com^
 ||01b4075d6c.com^
 ||03a17e7986.com^
@@ -317,7 +451,6 @@
 ||axonix.com^
 ||ayads.co^
 ||azet.sk^
-||azure.com^
 ||australiaeast-1.in.applicationinsights.azure.com^
 ||js.cdn.monitor.azure.com^
 ||js0.cdn.monitor.azure.com^
@@ -369,7 +502,6 @@
 ||big7.com^
 ||bilibili.com^
 ||player.bilibili.com^
-||bing.com^
 ||bat.bing.com^
 ||bitchute.com^
 ||www.bitchute.com^
@@ -661,7 +793,6 @@
 ||uk-script.dotmetrics.net^
 ||dotomi.com^
 ||doubleclick.net^
-||ad.doubleclick.net^
 ||11760531.fls.doubleclick.net^
 ||14219570.fls.doubleclick.net^
 ||2542116.fls.doubleclick.net^
@@ -671,10 +802,6 @@
 ||googleads.g.doubleclick.net^
 ||pubads.g.doubleclick.net^
 ||securepubads.g.doubleclick.net^
-||stats.g.doubleclick.net^
-||m.doubleclick.net^
-||mediavisor.doubleclick.net^
-||static.doubleclick.net^
 ||www.doubleclick.net^
 ||doublepimp.com^
 ||doubleverify.com^
@@ -753,10 +880,8 @@
 ||g.ezoic.net^
 ||facebook.com^
 ||facebook.net^
-||an.facebook.com^
 ||connect.facebook.net^
 ||graph.facebook.com^
-||pixel.facebook.com^
 ||fam-ad.com^
 ||fastcmp.com^
 ||fastly-insights.com^
@@ -881,17 +1006,11 @@
 ||gobankingrates.com^
 ||godpvqnszo.com^
 ||godsave.lgbt^
-||google-analytics.com^
 ||region1.google-analytics.com^
-||ssl.google-analytics.com^
 ||www.google-analytics.com^
-||adservice.google.com^
-||analytics.google.com^
 ||region1.analytics.google.com^
 ||googlesyndication.com^
 ||ade.googlesyndication.com^
-||afs.googlesyndication.com^
-||pagead2.googlesyndication.com^
 ||tpc.googlesyndication.com^
 ||goomaphy.com^
 ||gorving.com^
@@ -929,12 +1048,6 @@
 ||hhbypdoecp.com^
 ||hhkld.com^
 ||hicloud.com^
-||metrics.data.hicloud.com^
-||metrics2.data.hicloud.com^
-||grs.hicloud.com^
-||logbak.hicloud.com^
-||logservice.hicloud.com^
-||logservice1.hicloud.com^
 ||highcharts.com^
 ||hightrafficcounter.com^
 ||highwire.org^
@@ -946,14 +1059,7 @@
 ||hockeystack.com^
 ||hotjar.com^
 ||hotjar.io^
-||adm.hotjar.com^
-||careers.hotjar.com^
-||events.hotjar.io^
-||identify.hotjar.com^
-||insights.hotjar.com^
-||script.hotjar.com^
 ||static.hotjar.com^
-||surveys.hotjar.com^
 ||hp.com^
 ||hrzn-nxt.com^
 ||hs-embed-reporting.com^
@@ -1155,10 +1261,8 @@
 ||limurol.com^
 ||line.me^
 ||linkedin.com^
-||ads.linkedin.com^
 ||px.ads.linkedin.com^
 ||platform.linkedin.com^
-||analytics.pointdrive.linkedin.com^
 ||linkmake.in^
 ||linksynergy.com^
 ||liquidus.net^
@@ -1219,12 +1323,9 @@
 ||mczbf.com^
 ||mdhv.io^
 ||meba.kr^
-||media.net^
-||adservetx.media.net^
 ||contextual.media.net^
 ||hbx.media.net^
 ||prebid.media.net^
-||static.media.net^
 ||media6degrees.com^
 ||mediaad.org^
 ||mediacategory.com^
@@ -1478,12 +1579,8 @@
 ||photorank.me^
 ||phywi.org^
 ||pinterest.com^
-||ads.pinterest.com^
-||analytics.pinterest.com^
 ||assets.pinterest.com^
 ||ct.pinterest.com^
-||log.pinterest.com^
-||trk.pinterest.com^
 ||pippio.com^
 ||piwik.pro^
 ||pix.pub^
@@ -1630,7 +1727,6 @@
 ||rebelmouse.io^
 ||reddit.com^
 ||alb.reddit.com^
-||events.reddit.com^
 ||pixel-config.reddit.com^
 ||redintelligence.net^
 ||reemo-ad.jp^
@@ -1997,12 +2093,6 @@
 ||thrtle.com^
 ||thunderhead.com^
 ||tiktok.com^
-||ads.tiktok.com^
-||ads-api.tiktok.com^
-||ads-sg.tiktok.com^
-||analytics.tiktok.com^
-||analytics-sg.tiktok.com^
-||business-api.tiktok.com^
 ||www.tiktok.com^
 ||tiktokcdn-us.com^
 ||tiktokv.com^
@@ -2088,7 +2178,6 @@
 ||twinrdsyte.com^
 ||embed.twitch.tv^
 ||twitter.com^
-||ads-api.twitter.com^
 ||platform.twitter.com^
 ||twrencesprin.info^
 ||tynt.com^
@@ -2238,7 +2327,6 @@
 ||wp.com^
 ||wp.pl^
 ||pixel.wp.com^
-||stats.wp.com^
 ||wpadmngr.com^
 ||js.wpadmngr.com^
 ||wpmudev.com^
@@ -2275,19 +2363,10 @@
 ||yadro.ru^
 ||yahoo.co.jp^
 ||yahoo.com^
-||ads.yahoo.com^
-||analytics.yahoo.com^
 ||sp.analytics.yahoo.com^
 ||ups.analytics.yahoo.com^
-||log.fc.yahoo.com^
-||gemini.yahoo.com^
-||geo.yahoo.com^
 ||c2shb.pubgw.yahoo.com^
-||analytics.query.yahoo.com^
-||udc.yahoo.com^
-||udcm.yahoo.com^
 ||pr-bh.ybp.yahoo.com^
-||partnerads.ysm.yahoo.com^
 ||yandex.az^
 ||yandex.by^
 ||yandex.com^
@@ -2297,13 +2376,7 @@
 ||yandex.net^
 ||yandex.ru^
 ||yandex.uz^
-||adfox.yandex.ru^
-||adfstat.yandex.ru^
-||appmetrica.yandex.ru^
-||extmaps-api.yandex.net^
 ||mc.yandex.ru^
-||metrika.yandex.ru^
-||offerwall.yandex.net^
 ||ybs2ffs7v.com^
 ||yektanet.com^
 ||yext-pixel.com^

@@ -2,8 +2,8 @@
 
 ! Title: ⚒️ Curated Adblock List - Productivity
 ! Description: A curated adblock list for productivity sites.
-! Last Modified: 2025-01-19 11:43:02 +1100
-! Version: 1.0.0.1
+! Last Modified: 2025-01-27 15:34:09 +1100
+! Version: 1.0.0.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -52,3 +52,10 @@ offcloud.com##aside.sidebar.sidebar-left.sidebar-menu:nth-child(2) > div.viewpor
 offcloud.com##aside.sidebar.sidebar-left.sidebar-menu:nth-child(2) > div.viewport > section.content.slimscroll:first-child > h5.heading:nth-child(3)
 protonmail.com###body > div.app-root > div.flex.flex-row.flex-nowrap.h100 > div > div > div > div.main.ui-standard.flex.flex-column.flex-nowrap.flex-item-fluid.main--bordered > div > main > section > div.bg-primary.p1.text-center
 raindrop.io###__next > div.undefined:first-child > div.landing2Gps:nth-child(2) > div.blob1U5Q.left1x3n.intro2RCL:first-child > div.grid178A > div:last-child > video
+
+! 25 Nov 2024 for https://www.majorgeeks.com
+majorgeeks.com###cse-search-box
+majorgeeks.com##.geekphrase
+majorgeeks.com##div.geekydate:nth-of-type(8)
+||www.majorgeeks.com/images/logos/majorgeeks.gif$image
+majorgeeks.com##.centerborder

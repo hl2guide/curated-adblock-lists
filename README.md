@@ -4,8 +4,8 @@ Curated adblock lists for use in [uBlock Origin](https://addons.mozilla.org/en-U
 
 I recommend that these lists are used in the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser with the [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) addon installed for full functionality.
 
-- Last updated: 2025-01-26 15:17:21 +1100
-- Version: 1.0.0.1
+- Last updated: 2025-01-27 15:37:00 +1100
+- Version: 1.0.0.2
 
 I've created these lists to improve and cleanup sites I visit frequently. More filters will be added during 2025, the lists will avoid heavy filters that have a performance impact.
 

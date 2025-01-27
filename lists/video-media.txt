@@ -2,8 +2,8 @@
 
 ! Title: 📺 Curated Adblock List - Video Media
 ! Description: A curated adblock list for video media sites.
-! Last Modified: 2025-01-19 11:43:28 +1100
-! Version: 1.0.0.1
+! Last Modified: 2025-01-27 15:26:57 +1100
+! Version: 1.0.0.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -57,3 +57,6 @@ rumble.com##.round-button.ringed-button
 rumble.com##div.main-menu-item-channel-container
 ! Blocks the related videos end card on Rumble
 ||rumble.com/embedJS/u3/?request=related$xmlhttprequest
+
+! 17 Jan 2025 - blocks page header banners for channels on https://www.youtube.com
+youtube.com###page-header-banner
