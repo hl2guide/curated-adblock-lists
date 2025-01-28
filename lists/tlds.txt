@@ -860,7 +860,6 @@
 ||open^
 ||oracle^
 ||orange^
-||org^
 ||organic^
 ||origins^
 ||osaka^
