@@ -1,3 +1,4 @@
+[Adblock Plus 2.0]
 
 ! Title: 🌏 Curated Adblock List - TLDs (testing)
 ! Description: A curated adblock list for strictly blocking uncommon TLDs.
