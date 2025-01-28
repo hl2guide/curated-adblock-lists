@@ -1,5 +1,17 @@
 
-# TESTING ONLY 2025-01-27 16:18:37 +1100
+! Title: 🌏 Curated Adblock List - TLDs (testing)
+! Description: A curated adblock list for strictly blocking uncommon TLDs.
+! Last Modified: 2025-01-29 04:08:50 +1100
+! Version: 1.0.0.1
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Source: https://github.com/hl2guide/curated-adblock-lists
+! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
+! Author: hl2guide
+! Copyright: hl2guide
+
+# TESTING ONLY 2025-01-29 04:09:02 +1100
+# Requires diligent whitelisting depending on the user's use case.
 
 # Blocks uncommon TLDs
 # TLDs sourced from: https://data.iana.org/TLD/tlds-alpha-by-domain.txt
