@@ -2,8 +2,8 @@
 
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-02-13 07:32:20 +1100
-! Version: 1.0.0.5
+! Last Modified: 2025-02-23 13:42:42 +1100
+! Version: 1.0.0.6
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -17,8 +17,10 @@
 
 ! Allowed Domains Feb 2025
 @@||*.abs.hls.ttvnw.net
+@@||*.github.io
 @@||*.static.mega.co.nz
 @@||archlinux.org
+@@||dearrow.ajay.app
 @@||files.community
 @@||freetubeapp.io
 @@||gt-api.gumtree.com.au.peakhour.zone
