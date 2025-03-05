@@ -1,0 +1,19 @@
+[Adblock Plus 2.0]
+
+! Title: 💻 Curated Adblock List (high impact) - Coding
+! Description: A curated high impact adblock list for coding.
+! Last Modified: 2025-03-05 16:43:04 +1100
+! Version: 1.0.0.0
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Source: https://github.com/hl2guide/curated-adblock-lists
+! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/high_impact/coding.txt
+! Author: hl2guide
+! Copyright: hl2guide
+
+! High impact rules are not suitable for use in the AdGuard app.
+! You should only add this if your device is modern and powerful.
+
+! Hides old and niche downloads (Linux, Mac and legacy platforms) from the GitHub releases page
+! e.g. https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.57
+github.com#?#div > ul > li.Box-row:has-text(/386|arm64|arm|linux|openbsd|darwin|freebsd|_frontend/)

@@ -4,7 +4,7 @@ Curated adblock lists for use in [uBlock Origin](https://addons.mozilla.org/en-U
 
 I recommend that these lists are used in the [Mozilla Firefox](https://www.mozilla.org/en-US/firefox/new/) browser with the [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/) addon installed for full functionality.
 
-- Last updated: 2025-03-02 13:04:47 +1100
+- Last updated: 2025-03-05 16:43:12 +1100
 - Version: 1.0.0.7
 
 I've created these lists to improve and cleanup sites I visit frequently. More filters will be added during 2025, the lists will avoid heavy filters that have a performance impact.
@@ -17,7 +17,7 @@ For uBlock Origin: On the `Filter lists` tab, paste it into the `Import..` secti
 
 # Copy and Paste
 
-## All 📦
+## All (excluding heavy impact) 📦
 
 ```
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
@@ -103,4 +103,14 @@ Filters for video sites.
 
 ```
 https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/video-media.txt
+```
+
+## Coding (Heavy Impact) 💻
+
+__Only use this in a brower on a PC that is powerful enough to handle it.__
+
+_Not for use in the AdGuard app. This is a special additional list._
+
+```
+https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/high_impact/coding.txt
 ```
