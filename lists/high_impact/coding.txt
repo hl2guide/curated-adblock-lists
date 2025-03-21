@@ -17,3 +17,8 @@
 ! Hides old and niche downloads (Linux, Mac and legacy platforms) from the GitHub releases page
 ! e.g. https://github.com/AdguardTeam/AdGuardHome/releases/tag/v0.107.57
 github.com#?#div > ul > li.Box-row:has-text(/386|arm64|arm|linux|openbsd|darwin|freebsd|_frontend/)
+
+! Hides irrelevant files on the releases page
+github.com#?#div > div > ul > li.Box-row:has-text(/Source code|NAudioHourglassPack|.xml|DebugSymbols|ARM64|x86|.blockmap|-mac|.AppImage|.dmg|.yml/)
+! Hides junk from the GitHub home feeds page
+github.com#?#article:has-text(/preview|beta/)
