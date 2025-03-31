@@ -2,8 +2,8 @@
 
 ! Title: 💻 Curated Adblock List (high impact) - Coding
 ! Description: A curated high impact adblock list for coding.
-! Last Modified: 2025-03-05 16:43:04 +1100
-! Version: 1.0.0.0
+! Last Modified: 2025-04-01 06:11:16 +1100
+! Version: 1.0.0.1
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -19,6 +19,6 @@
 github.com#?#div > ul > li.Box-row:has-text(/386|arm64|arm|linux|openbsd|darwin|freebsd|_frontend/)
 
 ! Hides irrelevant files on the releases page
-github.com#?#div > div > ul > li.Box-row:has-text(/Source code|NAudioHourglassPack|.xml|DebugSymbols|ARM64|x86|.blockmap|-mac|.AppImage|.dmg|.yml|SGr-IosevkaTerm/)
+github.com#?#div > div > ul > li.Box-row:has-text(/Source code|NAudioHourglassPack|.xml|DebugSymbols|ARM64|x86|.blockmap|-mac|.AppImage|.dmg|.yml|SGr-Iosevka|SuperTTC-SGr-IosevkaSS|IosevkaSS|Unhinted-|PkgWebFont-Iosevka|PkgTTF-Iosevka|PkgTTC-Iosevka|PkgTTC-Iosevka|IosevkaAile|IosevkaCurly|IosevkaCurlySlab|IosevkaEtoile|IosevkaSlab|IosevkaAile|IosevkaCurly|IosevkaCurlySlab|IosevkaEtoile|IosevkaSlab|SHA-256.txt/)
 ! Hides junk from the GitHub home feeds page
 github.com#?#article:has-text(/preview|beta/)
