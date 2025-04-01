@@ -2,8 +2,8 @@
 
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-03-02 13:04:52 +1100
-! Version: 1.0.0.7
+! Last Modified: 2025-04-02 03:28:32 +1100
+! Version: 1.0.0.8
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -37,3 +37,15 @@
 @@||static.gumtree.com.au.peakhour.zone
 @@||streetwriters.co
 @@||youtu.be
+
+! Spotify
+@@||open.spotify.com^$domain=open.spotify.com
+@@||api-partner.spotify.com^$domain=open.spotify.com
+
+! SpeedTest
+@@||cdn.ziffstatic.com^
+@@||b.cdnst.net^$domain=b.cdnst.net
+
+@@||inoreader.com^$domain=inoreader.com
+@@||inoreader.com^
+
