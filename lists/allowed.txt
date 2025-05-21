@@ -2,23 +2,27 @@
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
 ! Last Modified: 2025-05-20 15:06:09 +1000
-! Version: 1.0.1.0
+! Version: 1.0.1.1
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
 ! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
 ! Author: hl2guide
 ! Copyright: hl2guide
-@@||assets.twitch.tv^$important
-@@||myip.wtf^$important
-@@||twitch.tv^$important
-! Allowed Domains March 2025
+! Most Recent
+@@||tapi.telstra.com^$important
+@@||wch.thegoodguys.com.au^$important
+@@||sec.paymentexpress.com^$important
+@@||www.amaysim.com.au^$important
+@@||www.lebara.com.au^$important
+
 @@||*.abs.hls.ttvnw.net$important
 @@||*.github.io$important
 @@||*.static.mega.co.nz$important
 @@||agrd.eu$important
 @@||agrd.io$important
 @@||archlinux.org$important
+@@||assets.twitch.tv^$important
 @@||camo.githubusercontent.com$important
 @@||cdn.adguard.info$important
 @@||dearrow.ajay.app$important
@@ -26,6 +30,7 @@
 @@||freetubeapp.io$important
 @@||gt-api.gumtree.com.au.peakhour.zone$important
 @@||mega.nz$important
+@@||myip.wtf^$important
 @@||playnite.link$important
 @@||plex.tv$important
 @@||proton.me$important
@@ -33,6 +38,7 @@
 @@||rdl.ink$important
 @@||static.gumtree.com.au.peakhour.zone$important
 @@||streetwriters.co$important
+@@||twitch.tv^$important
 @@||youtu.be$important
 ! Spotify
 @@||open.spotify.com^$domain=open.spotify.com,important
@@ -82,8 +88,9 @@
 @@||www-mozilla.fastly-edge.com^$important
 ! Steam
 @@||clan.cloudflare.steamstatic.com^$important
-@@||video.cloudflare.steamstatic.com^$important
+@@||images.steamusercontent.com^$important
 @@||shared.cloudflare.steamstatic.com^$important
+@@||video.cloudflare.steamstatic.com^$important
 ! Games
 @@||api-router.nexusmods.com^$important
 @@||invision-router.nexusmods.com^$important
