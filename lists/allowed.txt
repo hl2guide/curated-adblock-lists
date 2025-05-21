@@ -1916,7 +1916,7 @@
 @@||edge-consumer-static.azureedge.net^
 @@||edge-geo.nc0.co^
 @@||edge-mobile-static.azureedge.net^
-@@||edge.activity.windows.com ^
+@@||edge.activity.windows.com^
 @@||edge.activity.windows.com^
 @@||edge.microsoft.com^
 @@||edgeassetdelivery.blob.core.windows.net^
