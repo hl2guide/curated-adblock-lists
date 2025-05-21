@@ -17,9 +17,7 @@
 @@||*.static.mega.co.nz$important
 @@||adguard-dns.io^$important
 @@||agrd.eu^$important
-@@||agrd.eu^$important
 @@||agrd.io^$important
-@@||agrd.io$important
 @@||api.raindrop.io^$important
 @@||app.raindrop.io/sw.js^$important
 @@||app.raindrop.io^$important
