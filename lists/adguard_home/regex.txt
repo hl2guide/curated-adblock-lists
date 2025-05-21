@@ -1,0 +1,103 @@
+! Title: ⛔ Curated Adblock List - Regex
+! Description: A curated adblock list for blocking sites using regular expressions (regex).
+! Last Modified: 2025-05-21 21:44:27 +1000
+! Version: 0.0.0.1
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Source: https://github.com/hl2guide/curated-adblock-lists
+! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/adguard_home/regex.txt
+! Author: hl2guide
+! Copyright: hl2guide
+
+! Aggressive rules that are in early testing only!
+! Only works in Adguard Home.
+! TESTING FOR PERFORMANCE IN ADGUARD HOME, MAY 2025
+! '\S+' means one or more non-whitespace characters
+
+! Regular Expressions to block unwanted TLDs
+! Ends with: .aaa, .abc, .able etc
+/\S+\.(aaa|aarp|abb|abbott|abbvie|abc|able|abogado|abudhabi|academy|accenture|accountant|accountants|aco|actor|ads|adult|aeg|aero|aetna|afl|africa|agakhan|agency)$/
+/\S+\.(ai|aig|airbus|airforce|airtel|akdn|alibaba|alipay|allfinanz|allstate|ally|alsace|alstom|amazon|americanexpress|americanfamily|amex|amfam|amica|amsterdam|analytics)$/
+/\S+\.(android|anquan|anz|aol|apartments|app|apple|aquarelle|arab|aramco|archi|army|arpa|art|arte|asda|asia|associates|athleta)$/
+/\S+\.(attorney|auction|audi|audible|audio|auspost|author|auto|autos|aws|axa|azure)$/
+/\S+\.(baby|baidu|banamex|band|bank|bar|barcelona|barclaycard|barclays|barefoot|bargains|baseball|basketball|bauhaus|bayern|bbc|bbt|bbva|bcg|bcn|beats|beauty|beer)$/
+/\S+\.(berlin|best|bestbuy|bet|bharti|bible|bid|bike|bing|bingo|bio|biz|black|blackfriday|blockbuster|blog|bloomberg|blue|bms|bmw|bnpparibas|boats|boehringer)$/
+/\S+\.(bofa|bom|bond|boo|book|booking|bosch|bostik|boston|bot|boutique|box|bradesco|bridgestone|broadway|broker|brother|brussels)$/
+/\S+\.(build|builders|business|buy|buzz|bzh)$/
+/\S+\.(cab|cafe|cal|call|calvinklein|cam|camera|camp|canon|capetown|capital|capitalone|car|caravan|cards|care|career|careers)$/
+/\S+\.(cars|casa|case|cash|casino|cat|catering|catholic|cba|cbn|cbre|center|ceo|cern|cfa|cfd|chanel|channel|charity|chase|chat|cheap|chintai|christmas|chrome)$/
+/\S+\.(church|cipriani|circle|cisco|citadel|citi|citic|city|claims|cleaning|click|clinic|clinique|clothing|cloud|club|clubmed|coach|codes|coffee|college)$/
+/\S+\.(cologne|commbank|community|company|compare|computer|comsec|condos|construction|consulting|contact|contractors|cooking|cool|coop|corsica|country)$/
+/\S+\.(coupon|coupons|courses|cpa|credit|creditcard|creditunion|cricket|crown|crs|cruise|cruises|cuisinella|cymru|cyou)$/
+/\S+\.(dad|dance|data|date|dating|datsun|day|dclk|dds|deal|dealer|deals|degree|delivery|dell|deloitte|delta|democrat|dental|dentist|desi|design)$/
+/\S+\.(dev|dhl|diamonds|diet|digital|direct|directory|discount|discover|dish|diy|dnp|docs|doctor|dog|domains|dot|download|drive|dtv|dubai|dunlop|dupont|durban|dvag|dvr)$/
+/\S+\.(earth|eat|eco|edeka|education|email|emerck|energy|engineer|engineering|enterprises|epson|equipment|ericsson|erni|esq|estate|eurovision|eus|events|exchange)$/
+/\S+\.(expert|exposed|express|extraspace)$/
+/\S+\.(fage|fail|fairwinds|faith|family|fan|fans|farm|farmers|fashion|fast|fedex|feedback|ferrari|ferrero|fidelity|fido|film|final|finance|financial|fire)$/
+/\S+\.(firestone|firmdale|fish|fishing|fit|fitness|flickr|flights|flir|florist|flowers|fly|foo|food|football|ford|forex|forsale|forum|foundation|fox|free)$/
+/\S+\.(fresenius|frl|frogans|frontier|ftr|fujitsu|fun|fund|furniture|futbol|fyi)$/
+/\S+\.(gal|gallery|gallo|gallup|game|games|gap|garden|gay|gbiz|gdn|gea|gent|genting|george|ggee|gift|gifts|gives|giving|glass|gle|global|globo|gmail|gmbh|gmo)$/
+/\S+\.(gmx|godaddy|gold|goldpoint|golf|goo|goodyear|goog|google|gop|got|grainger|graphics|gratis|green|gripe|grocery|group|gucci|guge|guide|guitars|guru)$/
+/\S+\.(hair|hamburg|hangout|haus|hbo|hdfc|hdfcbank|health|healthcare|help|helsinki|here|hermes|hiphop|hisamitsu|hitachi|hiv|hkt|hockey|holdings|holiday|homedepot|homegoods|homes|homesense|honda|horse|hospital|host|hosting|hot|hotels|hotmail|house|how|hsbc|hughes|hyatt|hyundai)$/
+/\S+\.(ibm|icbc|ice|icu|ieee|ifm|ikano|imamat|imdb|immo|immobilien|inc|industries|infiniti|info|ing|ink|institute|insurance|insure|int|international|intuit)$/
+/\S+\.(investments|ipiranga|irish|ismaili|ist|istanbul|itau|itv)$/
+/\S+\.(jaguar|java|jcb|jeep|jetzt|jewelry|jio|jll|jmp|jnj|jobs|joburg|jot|joy|jpmorgan|jprs|juegos|juniper|kaufen|kddi|kerryhotels|kerryproperties|kfh|kia)$/
+/\S+\.(kids|kim|kindle|kitchen|kiwi|koeln|komatsu|kosher|kpmg|kpn|krd|kred|kuokgroup|kyoto)$/
+/\S+\.(lacaixa|lamborghini|lamer|land|landrover|lanxess|lasalle|lat|latino|latrobe|law|lawyer|lds|lease|leclerc|lefrak|legal|lego|lexus|lgbt|lidl|life)$/
+/\S+\.(lifeinsurance|lifestyle|lighting|like|lilly|limited|limo|lincoln|link|live|living|llc|llp|loan|loans|locker|locus|lol|london|lotte|lotto)$/
+/\S+\.(love|lpl|lplfinancial|ltd|ltda|lundbeck|luxe|luxury)$/
+/\S+\.(madrid|maif|maison|makeup|man|management|mango|map|market|marketing|markets|marriott|marshalls|mattel|mba|mckinsey|med|media|meet|melbourne|meme|memorial)$/
+/\S+\.(men|menu|merckmsd|miami|microsoft|mil|mini|mint|mit|mitsubishi|mlb|mls|mma|mobi|mobile|moda|moe|moi|mom|monash|money|monster|mormon|mortgage|moscow|moto|motorcycles|mov|movie|msd|mtn|mtr|museum|music)$/
+/\S+\.(nab|nagoya|name|navy|nba|nec|net|netbank|netflix|network|neustar|new|news|next|nextdirect|nexus|nfl|ngo|nhk|nico|nike|nikon|ninja|nissan|nissay)$/
+/\S+\.(nokia|norton|now|nowruz|nowtv|nra|nrw|ntt|nyc)$/
+/\S+\.(obi|observer|office|okinawa|olayan|olayangroup|ollo|omega|one|ong|onl|online|ooo|open|oracle|orange|org|organic|origins|osaka|otsuka|ott|ovh)$/
+/\S+\.(page|panasonic|paris|pars|partners|parts|party|pay|pccw|pet|pfizer|pharmacy|phd|philips|phone|photo|photography|photos|physio|pics|pictet)$/
+/\S+\.(pictures|pid|pin|ping|pink|pioneer|pizza|place|play|playstation|plumbing|plus|pnc|pohl|poker|politie|porn|post|praxi|press|prime|pro|prod|productions)$/
+/\S+\.(prof|progressive|promo|properties|property|protection|pru|prudential|pub|pwc)$/
+/\S+\.(qpon|quebec|quest)$/
+/\S+\.(racing|radio|read|realestate|realtor|realty|recipes|red|redstone|redumbrella|rehab|reise|reisen|reit|reliance|ren|rent|rentals|repair|report)$/
+/\S+\.(republican|rest|restaurant|review|reviews|rexroth|rich|richardli|ricoh|ril|rio|rip|rocks|rodeo|rogers|room|rsvp|rugby|ruhr|run|rwe|ryukyu)$/
+/\S+\.(saarland|safe|safety|sakura|sale|salon|samsclub|samsung|sandvik|sandvikcoromant|sanofi|sap|sarl|sas|save|saxo|sbi|sbs|scb|schaeffler|schmidt)$/
+/\S+\.(scholarships|school|schule|schwarz|science|scot|search|seat|secure|security|seek|select|sener|services|seven|sew|sex|sexy|sfr|shangrila)$/
+/\S+\.(sharp|shell|shia|shiksha|shoes|shop|shopping|shouji|show|silk|sina|singles|site|ski|skin|sky|skype|sling|smart|smile|sncf|soccer|social)$/
+/\S+\.(softbank|software|sohu|solar|solutions|song|sony|soy|spa|space|sport|spot|srl|stada|staples|star|statebank|statefarm|stc|stcgroup|stockholm)$/
+/\S+\.(storage|store|stream|studio|study|style|sucks|supplies|supply|support|surf|surgery|suzuki|swatch|swiss|sydney|systems)$/
+/\S+\.(tab|taipei|talk|taobao|target|tatamotors|tatar|tattoo|tax|taxi|tci|tdk|team|tech|technology|tel|temasek|tennis|teva|thd|theater|theatre)$/
+/\S+\.(tiaa|tickets|tienda|tips|tires|tirol|tjmaxx|tjx|tkmaxx|tmall|today|tokyo|tools|top|toray|toshiba|total|tours|town|toyota|toys|trade)$/
+/\S+\.(trading|training|travel|travelers|travelersinsurance|trust|trv|tube|tui|tunes|tushu|tvs|ubank|ubs|unicom|university|uno|uol|ups|)$/
+/\S+\.(vacations|vana|vanguard|vegas|ventures|verisign|versicherung|vet|viajes|video|vig|viking|villas|vin|vip|virgin|visa|vision|viva|vivo)$/
+/\S+\.(vlaanderen|vodka|volvo|vote|voting|voto|voyage)$/
+/\S+\.(wales|walmart|walter|wang|wanggou|watch|watches|weather|weatherchannel|webcam|weber|website|wed|wedding|weibo|weir|whoswho|wien|wiki)$/
+/\S+\.(williamhill|win|windows|wine|winners|wme|wolterskluwer|woodside|work|works|world|wow|wtc|wtf)$/
+/\S+\.(xbox|xerox|xihuan|xin)$/
+/\S+\.xn--\S+$/
+/\S+\.(xxx|xyz)$/
+/\S+\.(yachts|yahoo|yamaxun|yandex|yodobashi|yoga|yokohama|you|youtube|yun|zappos|zara|zero|zip|zone|zuerich)$/
+
+# Regular Expressions to block unwanted TLDs for each country that
+# ends with .ac, .ad, .ae, .ba, .bb, .bd etc
+/\S+\.a(c|d|e|f|g|i|l|m|o|q|r|s|t|w|x|z)$/
+/\S+\.b(a|b|d|e|f|g|h|i|j|m|n|o|q|r|s|t|w|y|z)$/
+/\S+\.c(a|c|d|f|g|h|i|k|l|m|n|o|r|u|v|w|x|y|z)$/
+/\S+\.d(e|j|k|m|o|z)$/
+/\S+\.e(c|e|g|h|r|s|t|u)$/
+/\S+\.f(i|j|k|m|o|r)$/
+/\S+\.g(a|d|e|f|g|h|i|l|m|n|p|q|r|s|t|u|w|y)$/
+/\S+\.h(k|m|n|r|t|u)$/
+/\S+\.i(d|e|l|m|n|o|q|r|s|t)$/
+/\S+\.j(e|m|o|p)$/
+/\S+\.k(e|g|h|i|m|n|p|r|w|y|z)$/
+/\S+\.l(a|b|c|i|k|r|s|t|u|v|y)$/
+/\S+\.m(a|c|d|e|g|h|k|l|m|n|o|p|q|r|s|t|u|v|w|x|y|z)$/
+/\S+\.n(a|c|e|f|g|i|l|o|p|r|u)$/
+/\S+\.om$/
+/\S+\.p(a|e|f|g|h|k|l|m|n|r|s|t|w|y)$/
+/\S+\.qa$/
+/\S+\.r(e|o|s|u|w)$/
+/\S+\.s(a|b|c|d|e|g|h|i|k|l|m|n|o|r|s|t|u|v|x|y|z)$/
+/\S+\.t(c|d|f|g|h|j|k|l|m|n|o|r|t|v|w|z)$/
+/\S+\.u(a|g|y|z)$/
+/\S+\.v(a|c|e|g|i|n|u)$/
+/\S+\.w(f|s)$/
+/\S+\.y(e|t)$/
+/\S+\.z(a|m|w)$/
