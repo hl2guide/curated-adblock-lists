@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-05-20 15:06:09 +1000
+! Last Modified: 2025-05-21 21:56:24 +1000
 ! Version: 1.0.1.1
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -10,36 +10,66 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 ! Most Recent
-@@||tapi.telstra.com^$important
-@@||wch.thegoodguys.com.au^$important
-@@||sec.paymentexpress.com^$important
-@@||www.amaysim.com.au^$important
-@@||www.lebara.com.au^$important
 
 @@||*.abs.hls.ttvnw.net$important
 @@||*.github.io$important
+@@||*.plex.direct^$important
 @@||*.static.mega.co.nz$important
-@@||agrd.eu$important
+@@||adguard-dns.io^$important
+@@||agrd.eu^$important
+@@||agrd.eu^$important
+@@||agrd.io^$important
 @@||agrd.io$important
+@@||api.raindrop.io^$important
+@@||app.raindrop.io/sw.js^$important
+@@||app.raindrop.io^$important
 @@||archlinux.org$important
 @@||assets.twitch.tv^$important
+@@||auth.streetwriters.co^$important
+@@||camo.githubusercontent.com
 @@||camo.githubusercontent.com$important
+@@||cdn.adguard.info^$important
 @@||cdn.adguard.info$important
+@@||clients.plex.tv^$important
+@@||community.plex.tv^$important
 @@||dearrow.ajay.app$important
+@@||discover.provider.plex.tv^$important
+@@||fastcopy.jp^$important
+@@||features.plex.tv^$important
 @@||files.community$important
 @@||freetubeapp.io$important
 @@||gt-api.gumtree.com.au.peakhour.zone$important
+@@||images.plex.tv^$important
+@@||itch.io^$important
+@@||js.braintreegateway.com^$important
 @@||mega.nz$important
+@@||metadata.provider.plex.tv^$important
+@@||mpv.io/images/$image,1p
+@@||mpv.io/javascripts/$script,1p
+@@||mpv.io/stylesheets/$stylesheet,1p
 @@||myip.wtf^$important
+@@||one.one.one.one^$important
 @@||playnite.link$important
 @@||plex.tv$important
 @@||proton.me$important
+@@||proton.me^$important
+@@||pubsub.plex.tv^$important
 @@||raindrop.io$important
 @@||rdl.ink$important
+@@||rdl.ink^$important
+@@||sec.paymentexpress.com^$important
 @@||static.gumtree.com.au.peakhour.zone$important
 @@||streetwriters.co$important
+@@||t.paypal.com^$important
+@@||tapi.telstra.com^$important
+@@||together.plex.tv^$important
 @@||twitch.tv^$important
+@@||up.raindrop.io^$important
+@@||wch.thegoodguys.com.au^$important
+@@||www.amaysim.com.au^$important
+@@||www.lebara.com.au^$important
 @@||youtu.be$important
+
 ! Spotify
 @@||open.spotify.com^$domain=open.spotify.com,important
 @@||api-partner.spotify.com^$domain=open.spotify.com,important
