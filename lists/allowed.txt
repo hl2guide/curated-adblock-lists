@@ -26,10 +26,8 @@
 @@||archlinux.org$important
 @@||assets.twitch.tv^$important
 @@||auth.streetwriters.co^$important
-@@||camo.githubusercontent.com
 @@||camo.githubusercontent.com$important
 @@||cdn.adguard.info^$important
-@@||cdn.adguard.info$important
 @@||clients.plex.tv^$important
 @@||community.plex.tv^$important
 @@||dearrow.ajay.app$important
@@ -52,11 +50,9 @@
 @@||playnite.link$important
 @@||plex.tv$important
 @@||proton.me$important
-@@||proton.me^$important
 @@||pubsub.plex.tv^$important
 @@||raindrop.io$important
 @@||rdl.ink$important
-@@||rdl.ink^$important
 @@||sec.paymentexpress.com^$important
 @@||static.gumtree.com.au.peakhour.zone$important
 @@||streetwriters.co$important
