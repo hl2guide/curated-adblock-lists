@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-05-21 22:58:38 +1000
+! Last Modified: 2025-05-22 15:18:32 +1000
 ! Version: 1.0.1.1
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -11,60 +11,64 @@
 ! Copyright: hl2guide
 ! Most Recent
 
-@@||*.proton.me^
-@@||api.raindrop.io^
-
-@@||*.abs.hls.ttvnw.net
-@@||*.github.io
+@@||*.abs.hls.ttvnw.net^
+@@||*.github.io^
 @@||*.plex.direct^
-@@||*.static.mega.co.nz
+@@||*.proton.me^
+@@||*.static.mega.co.nz^
 @@||adguard-dns.io^
 @@||agrd.eu^
 @@||agrd.io^
+@@||api.raindrop.io^
 @@||app.raindrop.io/sw.js^
 @@||app.raindrop.io^
 @@||archlinux.org
 @@||assets.twitch.tv^
+@@||assetsconfigcdn.org^
 @@||auth.streetwriters.co^
-@@||camo.githubusercontent.com
+@@||camo.githubusercontent.com^
 @@||cdn.adguard.info^
 @@||clients.plex.tv^
 @@||community.plex.tv^
-@@||dearrow.ajay.app
+@@||dearrow.ajay.app^
 @@||discover.provider.plex.tv^
 @@||fastcopy.jp^
 @@||features.plex.tv^
-@@||files.community
-@@||freetubeapp.io
-@@||gt-api.gumtree.com.au.peakhour.zone
+@@||files.community^
+@@||freetubeapp.io^
+@@||gt-api.gumtree.com.au.peakhour.zone^
 @@||images.plex.tv^
 @@||itch.io^
 @@||js.braintreegateway.com^
-@@||mega.nz
+@@||mega.nz^
 @@||metadata.provider.plex.tv^
-@@||mpv.io/images/$image,1p
-@@||mpv.io/javascripts/$script,1p
-@@||mpv.io/stylesheets/$stylesheet,1p
+@@||mpv.io^
 @@||myip.wtf^
+@@||normandy.tombstone.experimenter.prod.webservices.mozgcp.net^
+@@||ocsp.digicert.eu^
 @@||one.one.one.one^
-@@||playnite.link
-@@||plex.tv
-@@||proton.me
+@@||playconsole.static.usercontent.goog^
+@@||playnite.link^
+@@||plex.tv^
+@@||prod.classify-client.prod.webservices.mozgcp.net^
+@@||proton.me^
 @@||pubsub.plex.tv^
-@@||raindrop.io
-@@||rdl.ink
+@@||raindrop.io^
+@@||rdl.ink^
 @@||sec.paymentexpress.com^
-@@||static.gumtree.com.au.peakhour.zone
+@@||static.gumtree.com.au.peakhour.zone^
 @@||streetwriters.co
 @@||t.paypal.com^
 @@||tapi.telstra.com^
+@@||time.samsungcloudsolution.net^
 @@||together.plex.tv^
 @@||twitch.tv^
 @@||up.raindrop.io^
+@@||update.sleazyfork.org^
 @@||wch.thegoodguys.com.au^
 @@||www.amaysim.com.au^
 @@||www.lebara.com.au^
-@@||youtu.be
+@@||youtu.be^
 
 ! Spotify
 @@||open.spotify.com^
@@ -121,7 +125,6 @@
 @@||api-router.nexusmods.com^
 @@||invision-router.nexusmods.com^
 @@||notifications-router.nexusmods.com^
-@@||localhost:60651
 @@||localhost^
 ! EBay
 @@||auth.ebay.com.au^
@@ -195,7 +198,6 @@
 @@||*.gallery.vsassets.io^
 @@||*.gallerycdn.vsassets.io^
 @@||*.github.dev^
-@@||*.github.io^
 @@||*.googlevideo.com^
 @@||*.gravatar.com^
 @@||*.groups.office.live.com^
@@ -1028,7 +1030,6 @@
 @@||calendarpushsubscription-pa.googleapis.com^
 @@||calendars.fe.apple-dns.net^
 @@||calendarsync-pa.googleapis.com^
-@@||camo.githubusercontent.com^
 @@||caniuse.com^
 @@||canonical-bos01.cdn.snapcraftcontent.com^
 @@||canonical-lgw01.cdn.snapcraftcontent.com^
@@ -1917,7 +1918,6 @@
 @@||edge-geo.nc0.co^
 @@||edge-mobile-static.azureedge.net^
 @@||edge.activity.windows.com^
-@@||edge.activity.windows.com^
 @@||edge.microsoft.com^
 @@||edgeassetdelivery.blob.core.windows.net^
 @@||edgeassetservice.azureedge.net^
@@ -2154,7 +2154,6 @@
 @@||files*.majorgeeks.com^
 @@||files-proxy.wixmp.com^
 @@||files.cdn.ubisoft.com^
-@@||files.community^
 @@||files.nzbcloud.com^
 @@||files.ozbargain.com.au^
 @@||files.pythonhosted.org^
@@ -2278,7 +2277,6 @@
 @@||freeones.com^
 @@||freeones.xxx^
 @@||freetime.mikeconnelly.com^
-@@||freetubeapp.io^
 @@||friend-list-view.us.np.communication.playstation.net^
 @@||friends-list.cdn.ubisoft.com^
 @@||friends-public-service-prod.ak.epicgames.com^
@@ -3193,7 +3191,6 @@
 @@||meet.google.com^
 @@||mega.co.nz^
 @@||mega.io^
-@@||mega.nz^
 @@||mel01.login.pathofexile.com^
 @@||mel1.speedtest.telstra.net^
 @@||mem.gfx.ms^
@@ -3409,7 +3406,6 @@
 @@||mpc-be.org^
 @@||mpc-hc.org^
 @@||mps.nab.com.au^
-@@||mpv.io^
 @@||mpv.srsfckn.biz^
 @@||ms-vscode.vscode-unpkg.net^
 @@||msdn.microsoft.com^
@@ -3869,11 +3865,9 @@
 @@||player.soundcloud.com^
 @@||player.twitch.tv^
 @@||player.vimeo.com^
-@@||playnite.link^
 @@||playstation.com^
 @@||playstation.net^
 @@||playstoregatewayadapter-pa.googleapis.com^
-@@||plex.tv^
 @@||pls.dyinglightgame.com^
 @@||plugins.grayjay.app^
 @@||plus.google.com^
@@ -3988,7 +3982,6 @@
 @@||promotions.newegg.com^
 @@||promotions.soundcloud.com^
 @@||proton-me.cdn.prismic.io^
-@@||proton.me^
 @@||protonmail.ch^
 @@||protonmail.com^
 @@||protonmail.uservoice.com^
@@ -4061,7 +4054,6 @@
 @@||racker.dler.org^
 @@||racker.uw0.xyz^
 @@||raindrop-preview-prod.exentrich.workers.dev^
-@@||raindrop.io^
 @@||raindrop.onfastspring.com^
 @@||rapidgator.net^
 @@||rapidshare.com^
@@ -4083,7 +4075,6 @@
 @@||rcom.dynamicyield.com^
 @@||rd-icons-icons8.gumlet.com^
 @@||rd-icons-icons8.gumlet.io^
-@@||rdl.ink^
 @@||rdr2map.com^
 @@||reader.usenet.agency^
 @@||readthedocs.org^
@@ -4574,7 +4565,6 @@
 @@||static.fab.com^
 @@||static.freedownloadmanager.org^
 @@||static.gigabyte.com^
-@@||static.gumtree.com.au.peakhour.zone^
 @@||static.gumtree.com.au^
 @@||static.hsstatic.net^
 @@||static.icloud.com^
@@ -5924,7 +5914,6 @@
 @@||yewtu.be^
 @@||yimg.com^
 @@||youpornpremium.com^
-@@||youtu.be^
 @@||youtube-dl.org^
 @@||youtube-nocookie.com^
 @@||youtube-ui.l.google.com^

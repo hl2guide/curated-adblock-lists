@@ -1,7 +1,7 @@
 ! Title: ⛔ Curated Adblock List - Regex
 ! Description: A curated adblock list for blocking sites using regular expressions (regex).
-! Last Modified: 2025-05-21 21:44:27 +1000
-! Version: 0.0.0.1
+! Last Modified: 2025-05-22 15:18:41 +1000
+! Version: 0.0.0.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
