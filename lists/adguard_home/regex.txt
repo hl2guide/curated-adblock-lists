@@ -48,7 +48,7 @@
 /\S+\.(love|lpl|lplfinancial|ltd|ltda|lundbeck|luxe|luxury)$/
 /\S+\.(madrid|maif|maison|makeup|man|management|mango|map|market|marketing|markets|marriott|marshalls|mattel|mba|mckinsey|med|media|meet|melbourne|meme|memorial)$/
 /\S+\.(men|menu|merckmsd|miami|microsoft|mil|mini|mint|mit|mitsubishi|mlb|mls|mma|mobi|mobile|moda|moe|moi|mom|monash|money|monster|mormon|mortgage|moscow|moto|motorcycles|mov|movie|msd|mtn|mtr|museum|music)$/
-/\S+\.(nab|nagoya|name|navy|nba|nec|net|netbank|netflix|network|neustar|new|news|next|nextdirect|nexus|nfl|ngo|nhk|nico|nike|nikon|ninja|nissan|nissay)$/
+/\S+\.(nab|nagoya|name|navy|nba|nec|netbank|netflix|network|neustar|new|news|next|nextdirect|nexus|nfl|ngo|nhk|nico|nike|nikon|ninja|nissan|nissay)$/
 /\S+\.(nokia|norton|now|nowruz|nowtv|nra|nrw|ntt|nyc)$/
 /\S+\.(obi|observer|office|okinawa|olayan|olayangroup|ollo|omega|one|ong|onl|online|ooo|open|oracle|orange|org|organic|origins|osaka|otsuka|ott|ovh)$/
 /\S+\.(page|panasonic|paris|pars|partners|parts|party|pay|pccw|pet|pfizer|pharmacy|phd|philips|phone|photo|photography|photos|physio|pics|pictet)$/
