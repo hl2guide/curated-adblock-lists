@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-05-22 15:18:32 +1000
+! Last Modified: 2025-05-30 21:45:57 +1000
 ! Version: 1.0.1.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
