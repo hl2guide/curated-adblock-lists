@@ -2,7 +2,7 @@
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
 ! Last Modified: 2025-05-22 15:18:32 +1000
-! Version: 1.0.1.1
+! Version: 1.0.1.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -19,24 +19,32 @@
 @@||adguard-dns.io^
 @@||agrd.eu^
 @@||agrd.io^
+@@||api.config.opr.gg^
 @@||api.raindrop.io^
 @@||app.raindrop.io/sw.js^
 @@||app.raindrop.io^
 @@||archlinux.org
+@@||assets.fanart.tv^
 @@||assets.twitch.tv^
 @@||assetsconfigcdn.org^
 @@||auth.streetwriters.co^
+@@||b1.nel.goog^
+@@||calendar-api.proton.me^
 @@||camo.githubusercontent.com^
 @@||cdn.adguard.info^
 @@||clients.plex.tv^
 @@||community.plex.tv^
 @@||dearrow.ajay.app^
+@@||desktop-assistant-sub.osp.opera.software^
+@@||desktop-netinstaller-sub.osp.opera.software^
 @@||discover.provider.plex.tv^
 @@||fastcopy.jp^
 @@||features.plex.tv^
 @@||files.community^
 @@||freetubeapp.io^
 @@||gt-api.gumtree.com.au.peakhour.zone^
+@@||guides.martysmods.com^
+@@||image.tmdb.org^
 @@||images.plex.tv^
 @@||itch.io^
 @@||js.braintreegateway.com^
@@ -45,6 +53,7 @@
 @@||mpv.io^
 @@||myip.wtf^
 @@||normandy.tombstone.experimenter.prod.webservices.mozgcp.net^
+@@||ocsp.digicert.cn^
 @@||ocsp.digicert.eu^
 @@||one.one.one.one^
 @@||playconsole.static.usercontent.goog^
@@ -55,13 +64,18 @@
 @@||pubsub.plex.tv^
 @@||raindrop.io^
 @@||rdl.ink^
+@@||redir.opera.com^
 @@||sec.paymentexpress.com^
+@@||seccdn.libravatar.org^
+@@||slimlake26.com^
 @@||static.gumtree.com.au.peakhour.zone^
 @@||streetwriters.co
+@@||suggestions.opera-api2.com^
 @@||t.paypal.com^
 @@||tapi.telstra.com^
 @@||time.samsungcloudsolution.net^
 @@||together.plex.tv^
+@@||translation.opera-api.com^
 @@||twitch.tv^
 @@||up.raindrop.io^
 @@||update.sleazyfork.org^
@@ -162,7 +176,6 @@
 @@||*.*.storage.live.com^
 @@||*.*.storage.msn.com^
 @@||*._dns-sd._udp.*.in-addr.arpa^
-@@||*.abs.hls.ttvnw.net^
 @@||*.ahcdn.com^
 @@||*.aria.microsoft.com^
 @@||*.australiasoutheast.cloudapp.azure.com^
