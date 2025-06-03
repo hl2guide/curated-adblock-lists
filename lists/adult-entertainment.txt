@@ -1,0 +1,9 @@
+! Title: 😍 Deanoman's Private Custom Adblock List
+! Description: A custom adblock list for use in Adblock Origin and similar.
+! Last Modified: 2025-06-03 16:46:04 +1000
+! Version: 1.0.0.0
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Author: hl2guide
+! Copyright: hl2guide
+

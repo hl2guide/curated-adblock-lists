@@ -11,6 +11,26 @@
 ! Copyright: hl2guide
 ! Most Recent
 
+@@||*.itch.io
+@@||assets.twitch.tv
+@@||cdn.discordapp.com
+@@||discord.com
+@@||discord.gg
+@@||discordapp.com
+@@||discordapp.net
+@@||itch.io
+@@||media.discordapp.net
+@@||myip.wtf
+@@||nzbstars.com/*$image,1p
+@@||nzbstars.com/?page=*
+@@||nzbstars.com/?page=getimage&messageid=&image[height]=260&image[width]=260$image,1p
+@@||nzbstars.com/?page=getimage*$image,1p
+@@||pw.nexusmods.com/matomo.js$domain=nexusmods.com
+@@||pw.nexusmods.com^$domain=nexusmods.com
+@@||static-edge.discord.com
+@@||static.discord.com
+@@||twitch.tv
+
 @@||*.abs.hls.ttvnw.net^
 @@||*.github.io^
 @@||*.plex.direct^

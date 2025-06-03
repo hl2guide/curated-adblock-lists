@@ -22,3 +22,6 @@ github.com#?#div > ul > li.Box-row:has-text(/386|arm64|arm|linux|openbsd|darwin|
 github.com#?#div > div > ul > li.Box-row:has-text(/Source code|NAudioHourglassPack|.xml|DebugSymbols|ARM64|x86|.blockmap|-mac|.AppImage|.dmg|.yml|SGr-Iosevka|SuperTTC-SGr-IosevkaSS|IosevkaSS|Unhinted-|PkgWebFont-Iosevka|PkgTTF-Iosevka|PkgTTC-Iosevka|PkgTTC-Iosevka|IosevkaAile|IosevkaCurly|IosevkaCurlySlab|IosevkaEtoile|IosevkaSlab|IosevkaAile|IosevkaCurly|IosevkaCurlySlab|IosevkaEtoile|IosevkaSlab|SHA-256.txt/)
 ! Hides junk from the GitHub home feeds page
 github.com#?#article:has-text(/preview|beta/)
+
+! Hides ad NodeJS
+nodejs.org###home-intro > a:nth-child(2)
