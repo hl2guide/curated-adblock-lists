@@ -2,7 +2,7 @@
 
 ! Title: 🛒 Curated Adblock List - Shopping
 ! Description: A curated adblock list for shopping sites.
-! Last Modified: 2025-01-26 15:15:34 +1100
+! Last Modified: 2025-06-03 16:57:17 +1000
 ! Version: 1.0.0.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -13,9 +13,14 @@
 
 ! Ebay
 ebay.com##.evo-carousel.evo-banners.evo.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full > div
-ebay.com##.evo-carousel.evo-banners.evo.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full > div
 ebay.com.*##.evo-carousel.evo-banners.evo.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full > div
-ebay.com.*##.evo-carousel.evo-banners.evo.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full > div
+www.ebay.com.au##.page-grid-container.evo.vl-atf-module-js.off-card.vl-loyalty.vl-module
+www.ebay.com.au##.evo-carousel.evo-banners.evo.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full > div
+www.ebay.com.au#?#div.vl-banner.vl-banner-color-block.vl-atf-module-js.evo:has-text(/eBay Plus/)
+www.ebay.com.au#?#div.vl-module.vl-recommended-sellers.off-card.vl-atf-module-js:has-text(/Recommended sellers/)
+www.ebay.com.au#?#div.vl-module.vl-ad-row.off-card.vl-atf-module-js:has-text(/Featured/)
+cart.ebay.com.au##._97JG._-8MJ.sRHb
+ebay.com.au##.evo-carousel.evo-banners.evo.vl-atf-module-js.vl-banner-carousel.vl-module-full-wide.vl-module-full > div
 
 ! PayPal
 paypal.com##.css-97ji8w-card_base.pGzZgKIWHm9kmPXCmu4L.fB8fT0tB8LohpotDjMrF.cw-card
@@ -23,3 +28,8 @@ paypal.com##.aoGLRWbn2BfvjRX6Q2qh
 
 ||advertising-api-*.amazon.com^
 ||advertising.apple.com^
+
+! GumTree
+www.gumtree.com.au##.ico-banner-top
+www.gumtree.com.au##.slider__content--carval
+

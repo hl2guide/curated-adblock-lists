@@ -12,12 +12,17 @@
 ! Copyright: hl2guide
 
 ||douyin.com^
+||facebook.*^
 ||facebook.com^
+||instagram.*^
 ||instagram.com^
+||myspace.*^
 ||myspace.com^
 ||snapchat.com^
 ||telegram.org^
 ||titok.com^
+||twitter.*^
 ||twitter.com^
 ||wechat.com^
+||x.com.*^
 ||x.com^

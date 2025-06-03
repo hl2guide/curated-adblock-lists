@@ -22,8 +22,6 @@ twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0
 twitch.tv##.kBEymU.Layout-sc-1xcs6mc-0 > .hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .GOdqv.ScCoreButton-sc-ocjdkq-0
 twitch.tv##.top-nav__prime
 twitch.tv##div.Layout-sc-1xcs6mc-0.czRfnU:nth-of-type(6) > .Layout-sc-1xcs6mc-0.kBEymU > .Layout-sc-1xcs6mc-0.hatIYF > div:nth-of-type(1) > .InjectLayout-sc-1i43xsx-0.kBtJDm > .ScCoreButton-sc-ocjdkq-0.ScCoreButtonSecondary-sc-ocjdkq-2.bTXTVH.cegTsp
-twitch.tv##div.Layout-sc-1xcs6mc-0.czRfnU:nth-of-type(6) > .Layout-sc-1xcs6mc-0.kBEymU > .Layout-sc-1xcs6mc-0.hatIYF > div:nth-of-type(1) > .InjectLayout-sc-1i43xsx-0.kBtJDm > .ScCoreButton-sc-ocjdkq-0.ScCoreButtonSecondary-sc-ocjdkq-2.bTXTVH.cegTsp
-twitch.tv##div.Layout-sc-1xcs6mc-0.czRfnU:nth-of-type(6) > .Layout-sc-1xcs6mc-0.kBEymU > .Layout-sc-1xcs6mc-0.hatIYF > div:nth-of-type(1) > .InjectLayout-sc-1i43xsx-0.kBtJDm > .ScCoreButton-sc-ocjdkq-0.ScCoreButtonSecondary-sc-ocjdkq-2.bTXTVH.cegTsp
 ! Hides the "Go Ad-Free for Free" button in the top right
 twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .cegTsp.ljgEdo.ScCoreButtonSecondary-sc-ocjdkq-2.ScCoreButton-sc-ocjdkq-0
 ! Hides the recommended channels section in the left side bar
@@ -60,3 +58,17 @@ rumble.com##div.main-menu-item-channel-container
 
 ! 17 Jan 2025 - blocks page header banners for channels on https://www.youtube.com
 youtube.com###page-header-banner
+
+! Sources:
+! https://github.com/DandelionSprout/adfilt
+www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-channel-video-player-renderer.style-scope
+
+! 9 Oct 2024 https://www.twitch.tv
+www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43xsx-0 > .bIQOdp.ScCoreButton-sc-ocjdkq-0
+
+! www.twitch.tv - hides "featured" bar
+www.twitch.tv##.featured-content-carousel.fQyrMj.Layout-sc-1xcs6mc-0
+
+! Blocks the related videos end card on Rumble
+||rumble.com/embedJS/u3/?request=related$xmlhttprequest
+

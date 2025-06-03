@@ -27,9 +27,6 @@ cdn-images.mailchimp.com
 cdnjs.buymeacoffee.com
 connect.facebook.net
 
-! learn.microsoft.com fix (long load)
-js.monitor.azure.com
-wcpstatic.microsoft.com
 
 ! Blocks annoying banner
 dash.sonicbit.net###content > div:first-child > div.row:nth-child(3) > div.col-12 > div.gd-warning.alert-dismissible.fade.show.p-4.mb-4
@@ -59,3 +56,12 @@ majorgeeks.com##.geekphrase
 majorgeeks.com##div.geekydate:nth-of-type(8)
 ||www.majorgeeks.com/images/logos/majorgeeks.gif$image
 majorgeeks.com##.centerborder
+
+! 25 Nov 2024 https://www.majorgeeks.com
+www.majorgeeks.com###cse-search-box
+www.majorgeeks.com##.geekphrase
+www.majorgeeks.com##div.geekydate:nth-of-type(8)
+www.majorgeeks.com##.centerborder
+
+@@||inoreader.com^
+@@||inoreader.com^$domain=inoreader.com
