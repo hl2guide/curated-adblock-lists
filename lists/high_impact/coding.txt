@@ -25,3 +25,4 @@ github.com#?#article:has-text(/preview|beta/)
 
 ! Hides ad NodeJS
 nodejs.org###home-intro > a:nth-child(2)
+

@@ -61,6 +61,7 @@ youtube.com###page-header-banner
 
 ! Sources:
 ! https://github.com/DandelionSprout/adfilt
+! Blocks autoplay videos on youtube.com
 www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-channel-video-player-renderer.style-scope
 
 ! 9 Oct 2024 https://www.twitch.tv
@@ -68,7 +69,4 @@ www.twitch.tv##.hatIYF.Layout-sc-1xcs6mc-0 > div > .kBtJDm.InjectLayout-sc-1i43x
 
 ! www.twitch.tv - hides "featured" bar
 www.twitch.tv##.featured-content-carousel.fQyrMj.Layout-sc-1xcs6mc-0
-
-! Blocks the related videos end card on Rumble
-||rumble.com/embedJS/u3/?request=related$xmlhttprequest
 

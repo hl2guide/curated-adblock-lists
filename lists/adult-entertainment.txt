@@ -40,6 +40,12 @@ nzbstars.com##center:nth-of-type(7)
 ! Filters out irrelevant rows on nzbstars
 nzbstars.com#?##spots > tr:has-text(/://|SD|XviD|720p|480p/)
 
+! redtube
+redtube.com###below_footer_ad_content
+
+! Hides nagging on missax.com
+missax.com##li.highlighted
+
 pornhub.com###\31 687858325197 > div.gk8o0a2h3ag9k0thec9v.clearfix:first-child
 pornhub.com###\31 687859818747 > div.yti4qftev.clearfix:first-child
 
@@ -64,6 +70,13 @@ hotpornfile.org##.mediaplayerdiv
 hotpornfile.org##.video-container
 hotpornfile.org##div.off-canvas-wrap:nth-child(2) > div.inner-wrap > section.container:nth-child(4) > div.row > div.small-12.medium-6.small-centered.columns:first-child > h1.small-text-center:last-child
 hotpornfile.org##div.reveal-modal-bg:nth-child(19)
+
+! PMVHaven.com
+pmvhaven.com###subheader > div.v-container.v-locale--is-ltr.pl-6.pr-6 > div.v-row.align-center.pa-2 > a.v-btn.v-theme--dark.text-orange.v-btn--density-default.v-btn--size-default.v-btn--variant-text.ma-1.mr-2.ml-2:nth-child(15)
+pmvhaven.com###subheader > div.v-container.v-locale--is-ltr.pl-6.pr-6 > div.v-row.align-center.pa-2 > a:last-child
+! Hides adblocker message
+pmvhaven.com##body > div.v-overlay-container > div > div.v-overlay__scrim
+pmvhaven.com##body > div.v-overlay-container > div > div.v-overlay__content
 
 ! Freeones
 freeones.com###search-result > div > div.main-header.d-flex.align-items-center.justify-content-between.mb-2:first-child
@@ -96,6 +109,12 @@ xhamster.com##.HIWZN-Mmmcams-wgt.no-update.as-width-wrap.horizontal
 xhamster.com##.HIWZN-Mmmpremium-n-overlay.channel
 xhamster.com##._20a76da7._329b033c.bbde4bd8
 
+! porn4k
+porn4k.to###main > p:nth-child(2) > a:first-child > img
+porn4k.to###main > p:first-child > a:first-child > img
+porn4k.to###content > article.entry.clr:nth-child(2) > p:nth-child(5) > a:first-child > img
+porn4k.to###secondary > div.sidebar-inner > div.widget-area > div.widget_text.widget.sidebar-box.widget_custom_html.clr:nth-child(5) > div.textwidget.custom-html-widget:last-child > p:last-child > a > img
+
 # planetsuzy.org
 planetsuzy.org##div > b > font > a > img
 planetsuzy.org###td_post_22775617 > div:last-child > div:nth-child(2) > img:last-child
@@ -108,8 +127,6 @@ app.teamskeet.com##.container.advertisments-container
 app.teamskeet.com##.container.deals-container
 app.teamskeet.com##.banner
 
-! redtube
-redtube.com###below_footer_ad_content
 
 ! 28 Oct 2024 https://www.pxxbay.com
 www.pxxbay.com##.gridmax-related-posts-wrapper
@@ -132,4 +149,7 @@ xxxclub.to##div.side-bar-list [href="/torrents/browse/6/"]
 pornolab.net##.tCenter > .bCenter
 
 @@||ptx.cdntrex.com
+
+! naughtyblog.org - fix download links not showing
+@@||www.naughtyblog.org/wp-admin/admin-ajax.php$xhr,domain=www.naughtyblog.org
 

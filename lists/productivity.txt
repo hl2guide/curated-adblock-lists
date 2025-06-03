@@ -52,16 +52,22 @@ raindrop.io###__next > div.undefined:first-child > div.landing2Gps:nth-child(2) 
 
 ! 25 Nov 2024 for https://www.majorgeeks.com
 majorgeeks.com###cse-search-box
+majorgeeks.com##.centerborder
 majorgeeks.com##.geekphrase
 majorgeeks.com##div.geekydate:nth-of-type(8)
-||www.majorgeeks.com/images/logos/majorgeeks.gif$image
-majorgeeks.com##.centerborder
-
-! 25 Nov 2024 https://www.majorgeeks.com
 www.majorgeeks.com###cse-search-box
+www.majorgeeks.com##.centerborder
 www.majorgeeks.com##.geekphrase
 www.majorgeeks.com##div.geekydate:nth-of-type(8)
-www.majorgeeks.com##.centerborder
+||www.majorgeeks.com/images/logos/majorgeeks.gif$image
+||majorgeeks.com/images/logos/majorgeeks.gif$image
 
 @@||inoreader.com^
 @@||inoreader.com^$domain=inoreader.com
+
+! SpeedTest Fix
+@@||b.cdnst.net/javascript/speedtest-main.js$domain=speedtest.net
+@@||b.cdnst.net^$domain=speedtest.net
+
+shurt.pw##div.container:nth-child(2) > div.row:first-child > div.col-md-10.col-md-offset-1 > div.text-left:last-child
+
