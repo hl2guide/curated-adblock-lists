@@ -1,9 +1,135 @@
-! Title: 😍 Deanoman's Private Custom Adblock List
+! Title: 🤫 Adult Entertainment Private Custom Adblock List
 ! Description: A custom adblock list for use in Adblock Origin and similar.
-! Last Modified: 2025-06-03 16:46:04 +1000
+! Last Modified: 2025-06-03 16:47:40 +1000
 ! Version: 1.0.0.0
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! Whitelists some porn sites
+@@||0xxx.ws^
+@@||hotpornfile.org^
+@@||naughtyblog.org^
+@@||xxxclub.to^
+
+rarbg.to###SearchDescription
+rarbg.to##table:nth-child(5) > tbody > tr > td
+rarbg.to##table:nth-child(6) > tbody > tr > td:last-child > div.content-rounded > table.lista-rounded > tbody > tr:nth-child(2) > td br
+rarbg.to##table:nth-child(6) > tbody > tr > td:last-child > div.content-rounded > table.lista-rounded > tbody > tr:nth-child(3) > td br
+shurt.pw##div.container:nth-child(2) > div.row:first-child > div.col-md-10.col-md-offset-1 > div.text-left:last-child
+torrentgalaxy.to###intblockslide > center:first-child
+torrentgalaxy.to###panelheader > h3.ubuntu.panel-title.txdark
+torrentgalaxy.to###panelmain > div.panel-body.slidingDivb-ffb8ec81b26e9123c22e2ec2bc112efcc695fd4e:last-child
+
+! allow preview images on nzbstars.com
+! nzbstars.com - fix preview images not loading
+nzbstars.com###container > center:nth-child(8) > a:last-child > img
+nzbstars.com###container > center:nth-child(9) > a:last-child
+nzbstars.com###container > center:nth-child(9) > a:last-child > img
+nzbstars.com###filter > ul.filterlist.quicklinks:nth-child(2) > li > center:nth-child(4)
+nzbstars.com###filter > ul.filterlist.quicklinks:nth-child(2) > li > center:nth-child(5)
+nzbstars.com###filter > ul.filterlist.quicklinks:nth-child(2) > li > center:nth-child(7) > form > input:nth-child(2)
+nzbstars.com##center:nth-of-type(2)
+nzbstars.com##center:nth-of-type(3)
+nzbstars.com##center:nth-of-type(4)
+nzbstars.com##center:nth-of-type(5)
+nzbstars.com##center:nth-of-type(6)
+nzbstars.com##center:nth-of-type(7)
+||nzbstars.com/images/halloween.jpg$image
+! Filters out irrelevant rows on nzbstars
+nzbstars.com#?##spots > tr:has-text(/://|SD|XviD|720p|480p/)
+
+pornhub.com###\31 687858325197 > div.gk8o0a2h3ag9k0thec9v.clearfix:first-child
+pornhub.com###\31 687859818747 > div.yti4qftev.clearfix:first-child
+
+! ero-torrent
+ero-torrent.net###popularthismonth > ul:last-child > center:last-child > a:last-child > img
+ero-torrent.net###popularthismonth > ul:last-child > center:last-child > table:first-child > tbody > tr > td > div.membersOnline:last-child
+ero-torrent.net###popularthismonth > ul:last-child > center:nth-child(31) > a:last-child > img
+ero-torrent.net###popularthismonth > ul:last-child > center:nth-child(31) > table:first-child > tbody > tr > td > div.membersOnline:last-child
+ero-torrent.net###videoPlayer > a:nth-child(7) > img
+
+! hotpornfile
+hotpornfile.org###ashModal
+hotpornfile.org###ashModal > section.ash-steps.row:last-child > div.animation-text:nth-child(2)
+hotpornfile.org###ashModal > section.ash-steps.row:last-child > div.ash-button:last-child > p:last-child
+hotpornfile.org###ashModal > section.ash-steps.row:last-child > div.ash-progress-icons:first-child
+hotpornfile.org###disqus_recommendations
+hotpornfile.org###post-327669 > div.entry-content:nth-child(2) > div.download_result:nth-child(3) > div.flex-video:last-child
+hotpornfile.org###post-327669 > div.entry-content:nth-child(2) > div.download_result:nth-child(3) > div.flex-video:last-child > iframe
+hotpornfile.org###sidebar > div.row.widget.widget_text:nth-child(2)
+hotpornfile.org###text-15 > div.small-12.columns
+hotpornfile.org##.mediaplayerdiv
+hotpornfile.org##.video-container
+hotpornfile.org##div.off-canvas-wrap:nth-child(2) > div.inner-wrap > section.container:nth-child(4) > div.row > div.small-12.medium-6.small-centered.columns:first-child > h1.small-text-center:last-child
+hotpornfile.org##div.reveal-modal-bg:nth-child(19)
+
+! Freeones
+freeones.com###search-result > div > div.main-header.d-flex.align-items-center.justify-content-between.mb-2:first-child
+freeones.com###search-result > div > div.main-header.d-flex.align-items-center.justify-content-between.mb-2:nth-child(10)
+freeones.com###search-result > div > div.mb-2.mb-md-3.grid-scroll.js-grid-scroll:nth-child(11)
+freeones.com###search-result > div > div.mb-2.mb-md-3.grid-scroll.js-grid-scroll:nth-child(2)
+freeones.com###search-result > div > div.mb-5:nth-child(7)
+freeones.com###search-result > div:nth-of-type(1) > div:nth-of-type(1) > .main-header.flex.items-center.justify-between.mb-2
+freeones.com###search-result > div:nth-of-type(1) > div:nth-of-type(11) > .main-header.flex.items-center.justify-between.mb-2
+freeones.com###search-result > div:nth-of-type(1) > div:nth-of-type(3) > .main-header.flex.items-center.justify-between.mb-2
+freeones.com###site-nav > nav.pt-0.align-self-start.w-100.text-center.bg-color-shade6.d-none.d-md-flex.color-white.px-2.px-md-3:first-child
+freeones.com##.info-comments-box.mb-4.block-shadow > .px-4.pb-4
+freeones.com##.mb-9.hidden.md\:flex.lg\:hidden.l\:flex.justify-center.flex-nowrap.w-full
+freeones.com##.pt-3.px-3
+freeones.com##.pt-4.px-4
+freeones.com##.px-3.pb-3
+freeones.com##.py-3.px-3.border-bottom.border-width-1.border-color-border.d-flex.align-items-baseline
+freeones.com##.tab-content.px-2.md\:px-6.pt-4.pb-4
+freeones.com##body > div.flex-footer-wrapper > div > div.right-container.flex-m-column.d-m-flex.flex-1 > main > div.d-lg-flex.flex-1.flex-lg-row > div.d-block.d-lg-flex.flex-lg-column.w-lg-30.pr-2.pr-lg-3.sidebar-right.sidebar-right-wide > div > div > div > section
+freeones.com##div.flex-footer-wrapper:nth-child(4) > div.height-container.flex-m-row.d-m-flex.flex-1.self-align-stretch.justify-self-stretch > div.right-container.flex-m-column.d-m-flex.flex-1:last-child > main.site-max-width.container.d-flex.flex-1.flex-column.px-0:nth-child(2) > div.d-lg-flex.flex-1.flex-lg-row:nth-child(2) > div.d-block.d-lg-flex.flex-lg-column.w-lg-30.w-xl-20.pr-2.pr-lg-3.sidebar-right.sidebar-right-small:last-child > div.border-left.border-color-border.border-width-2.pl-2.pl-lg-3.h-100.w-100.sidebar-right__wrapper > div.banner-container.mt-4.mb-2:nth-child(3)
+freeones.com##div.flex-footer-wrapper:nth-child(4) > div.height-container.flex-m-row.d-m-flex.flex-1.self-align-stretch.justify-self-stretch > div.right-container.flex-m-column.d-m-flex.flex-1:last-child > main.site-max-width.container.d-flex.flex-1.flex-column.px-0:nth-child(2) > div.d-lg-flex.flex-1.flex-lg-row:nth-child(2) > div.d-block.d-lg-flex.flex-lg-column.w-lg-30.w-xl-20.pr-2.pr-lg-3.sidebar-right.sidebar-right-small:last-child > div.border-left.border-color-border.border-width-2.pl-2.pl-lg-3.h-100.w-100.sidebar-right__wrapper > div.mb-2.mb-md-3:nth-child(2)
+freeones.com##div.mb-2.md\:mb-4.grid-scroll.js-grid-scroll:nth-of-type(12) > .js-grid.teasers-container.teasers-container--grid
+freeones.com##div.mb-2.md\:mb-4.grid-scroll.js-grid-scroll:nth-of-type(2) > .js-grid.teasers-container.teasers-container--grid
+freeones.com##div.mb-2.md\:mb-4.grid-scroll.js-grid-scroll:nth-of-type(4) > .js-grid.teasers-container.teasers-container--grid.teasers-container--video
+
+! Xhamster
+me7x.site##.HIWZN-Mmmpremium-n-overlay.channel
+xhamster.com##.BQxmC-oDBdpremium-n-overlay
+xhamster.com##.HIWZN-Mmmcams-wgt.no-update.as-width-wrap.horizontal
+xhamster.com##.HIWZN-Mmmpremium-n-overlay.channel
+xhamster.com##._20a76da7._329b033c.bbde4bd8
+
+# planetsuzy.org
+planetsuzy.org##div > b > font > a > img
+planetsuzy.org###td_post_22775617 > div:last-child > div:nth-child(2) > img:last-child
+
+! 15 Oct 2024 https://app.teamskeet.com
+app.teamskeet.com##.promobar
+app.teamskeet.com##div.movie-grid-wrapper:nth-of-type(17)
+app.teamskeet.com##.banner > [href^="https://go.23aoalmfwinbsstec.com/click.go"] > .showpacity.imagex-container
+app.teamskeet.com##.container.advertisments-container
+app.teamskeet.com##.container.deals-container
+app.teamskeet.com##.banner
+
+! redtube
+redtube.com###below_footer_ad_content
+
+! 28 Oct 2024 https://www.pxxbay.com
+www.pxxbay.com##.gridmax-related-posts-wrapper
+! 24 Dec 2024 https://www.pxxbay.com
+www.pxxbay.com###custom_html-5 > .gridmax-widget-box-inside.widget_text > .custom-html-widget.textwidget
+
+! Cleanup page for leakslove.com
+leakslove.com##.header-ad-all
+leakslove.com##.archive-description
+leakslove.com##.homepage-title
+
+! 1 May 2025 https://xxxclub.to
+xxxclub.to##div.side-bar-list [href="/torrents/browse/0/"]
+xxxclub.to##div.side-bar-list [href="/torrents/browse/1/"]
+xxxclub.to##div.side-bar-list [href="/torrents/browse/5/"]
+xxxclub.to##div.side-bar-list [href="/torrents/browse/6/"]
+
+! 17 May 2025 https://pornolab.net
+||adblocksosal.ru/images/plab/ero_4_3.gif$image
+pornolab.net##.tCenter > .bCenter
+
+@@||ptx.cdntrex.com
 
