@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-06-08 07:31:28 +1000
-! Version: 1.0.1.3
+! Last Modified: 2025-06-12 09:33:36 +1000
+! Version: 1.0.1.4
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,46 +11,10 @@
 ! Copyright: hl2guide
 ! Most Recent
 
-@@||*.itch.io
-@@||api.vhx.tv^$important
-@@||aps23.playlist.ttvnw.net^$important
-@@||assets.twitch.tv
-@@||blocklist.sefinek.net^$important
-@@||broth.itch.zone^$important
-@@||cdn.discordapp.com
-@@||cdn.gsrv.dev^$important
-@@||cdn.vhx.tv^
-@@||cdn.vhx.tv^$important
-@@||dale.itch.zone^$important
-@@||discord.com
-@@||discord.gg
-@@||discordapp.com
-@@||discordapp.net
-@@||embed.vhx.tv/videos/
-@@||embed.vhx.tv^$important
-@@||energized.pro^$important
-@@||gamesir.com^$important
-@@||itch.io
-@@||locales.itch.zone^$important
-@@||media.discordapp.net
-@@||myip.wtf
-@@||nzbstars.com/*$image,1p
-@@||nzbstars.com/?page=*
-@@||nzbstars.com/?page=getimage&messageid=&image[height]=260&image[width]=260$image,1p
-@@||nzbstars.com/?page=getimage*$image,1p
-@@||pw.nexusmods.com/matomo.js$domain=nexusmods.com
-@@||pw.nexusmods.com^$domain=nexusmods.com
-@@||pyinstaller.org^$important
-@@||sefinek.net^$important
-@@||static-edge.discord.com
-@@||static.discord.com
-@@||twitch.tv
-@@||weblate.itch.zone^$important
-@@||www.pyinstaller.org^$important
-@@||www.trilogyplus.com^$important
-
 @@||*.abs.hls.ttvnw.net^
 @@||*.github.io^
+@@||*.itch.io^
+@@||*.playlist.ttvnw.net^
 @@||*.plex.direct^
 @@||*.proton.me^
 @@||*.static.mega.co.nz^
@@ -59,38 +23,62 @@
 @@||agrd.io^
 @@||api.config.opr.gg^
 @@||api.raindrop.io^
+@@||api.vhx.tv^
 @@||app.raindrop.io/sw.js^
 @@||app.raindrop.io^
 @@||archlinux.org
 @@||assets.fanart.tv^
 @@||assets.twitch.tv^
+@@||assets.twitch.tv^
 @@||assetsconfigcdn.org^
 @@||auth.streetwriters.co^
 @@||b1.nel.goog^
+@@||blocklist.sefinek.net^
+@@||broth.itch.zone^
 @@||calendar-api.proton.me^
 @@||camo.githubusercontent.com^
 @@||cdn.adguard.info^
+@@||cdn.discordapp.com^
+@@||cdn.gsrv.dev^
+@@||cdn.vhx.tv^
+@@||cdn.vhx.tv^
 @@||clients.plex.tv^
 @@||community.plex.tv^
+@@||dale.itch.zone^
 @@||dearrow.ajay.app^
 @@||desktop-assistant-sub.osp.opera.software^
 @@||desktop-netinstaller-sub.osp.opera.software^
+@@||discord.com^
+@@||discord.gg^
+@@||discordapp.com^
+@@||discordapp.net^
 @@||discover.provider.plex.tv^
+@@||embed.vhx.tv^
+@@||energized.pro^
 @@||fastcopy.jp^
 @@||features.plex.tv^
 @@||files.community^
 @@||freetubeapp.io^
+@@||gamesir.com^
 @@||gt-api.gumtree.com.au.peakhour.zone^
 @@||guides.martysmods.com^
 @@||image.tmdb.org^
 @@||images.plex.tv^
 @@||itch.io^
+@@||itch.io^
 @@||js.braintreegateway.com^
+@@||locales.itch.zone^
+@@||media.discordapp.net^
 @@||mega.nz^
 @@||metadata.provider.plex.tv^
 @@||mpv.io^
 @@||myip.wtf^
+@@||myip.wtf^
 @@||normandy.tombstone.experimenter.prod.webservices.mozgcp.net^
+@@||nzbstars.com/*$image,1p
+@@||nzbstars.com/?page=*
+@@||nzbstars.com/?page=getimage&messageid=&image[height]=260&image[width]=260$image,1p
+@@||nzbstars.com/?page=getimage*$image,1p
 @@||ocsp.digicert.cn^
 @@||ocsp.digicert.eu^
 @@||one.one.one.one^
@@ -100,12 +88,18 @@
 @@||prod.classify-client.prod.webservices.mozgcp.net^
 @@||proton.me^
 @@||pubsub.plex.tv^
+@@||pw.nexusmods.com/matomo.js$domain=nexusmods.com
+@@||pw.nexusmods.com^$domain=nexusmods.com
+@@||pyinstaller.org^
 @@||raindrop.io^
 @@||rdl.ink^
 @@||redir.opera.com^
 @@||sec.paymentexpress.com^
 @@||seccdn.libravatar.org^
+@@||sefinek.net^
 @@||slimlake26.com^
+@@||static-edge.discord.com^
+@@||static.discord.com^
 @@||static.gumtree.com.au.peakhour.zone^
 @@||streetwriters.co
 @@||suggestions.opera-api2.com^
@@ -115,11 +109,15 @@
 @@||together.plex.tv^
 @@||translation.opera-api.com^
 @@||twitch.tv^
+@@||twitch.tv^
 @@||up.raindrop.io^
 @@||update.sleazyfork.org^
 @@||wch.thegoodguys.com.au^
+@@||weblate.itch.zone^
 @@||www.amaysim.com.au^
 @@||www.lebara.com.au^
+@@||www.pyinstaller.org^
+@@||www.trilogyplus.com^
 @@||youtu.be^
 
 ! Spotify
