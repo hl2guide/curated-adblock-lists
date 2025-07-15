@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-07-06 18:11:34 +1000
-! Version: 1.0.1.7
+! Last Modified: 2025-07-15 12:06:58 +1000
+! Version: 1.0.1.8
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -10,7 +10,28 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+@@||brands.home-assistant.io^
+@@||code.iconify.design^
+@@||demo.home-assistant.io^
+@@||preview.feed.toolbox.app^
+@@||react.dev^
+@@||safing.io^
+@@||www.home-assistant.io^
+
 ! Most Recent
+@@||*.plex.direct^
+@@||metadata-static.plex.tv^
+@@||mobile-api.adguard.org^
+
+! Bazzite Linux
+@@||bazzite.gg^
+@@||ghcr.io^
+@@||formulae.brew.sh^
+
+! Brave
+@@||usage-ping.brave.com^
+@@||sync-v2.brave.com^
+
 @@||protonvpn.net^
 @@||mdnplay.dev^
 @@||grok.com/api/^
@@ -61,7 +82,6 @@
 @@||archlinux.org
 @@||assets.fanart.tv^
 @@||assets.twitch.tv^
-@@||assets.twitch.tv^
 @@||assetsconfigcdn.org^
 @@||auth.streetwriters.co^
 @@||b1.nel.goog^
@@ -72,7 +92,6 @@
 @@||cdn.adguard.info^
 @@||cdn.discordapp.com^
 @@||cdn.gsrv.dev^
-@@||cdn.vhx.tv^
 @@||cdn.vhx.tv^
 @@||clients.plex.tv^
 @@||community.plex.tv^
@@ -97,14 +116,12 @@
 @@||image.tmdb.org^
 @@||images.plex.tv^
 @@||itch.io^
-@@||itch.io^
 @@||js.braintreegateway.com^
 @@||locales.itch.zone^
 @@||media.discordapp.net^
 @@||mega.nz^
 @@||metadata.provider.plex.tv^
 @@||mpv.io^
-@@||myip.wtf^
 @@||myip.wtf^
 @@||normandy.tombstone.experimenter.prod.webservices.mozgcp.net^
 @@||nzbstars.com/*$image,1p
@@ -140,7 +157,6 @@
 @@||time.samsungcloudsolution.net^
 @@||together.plex.tv^
 @@||translation.opera-api.com^
-@@||twitch.tv^
 @@||twitch.tv^
 @@||up.raindrop.io^
 @@||update.sleazyfork.org^
@@ -988,7 +1004,6 @@
 @@||block-test.developerdan.com^
 @@||blocklist.cyberthreatcoalition.org^
 @@||blocklist.de^
-@@||blocklist.sefinek.net^
 @@||blog.ajay.app^
 @@||blog.bit.ly^
 @@||blog.br.playstation.com^
@@ -1194,7 +1209,6 @@
 @@||cdn.cyberdrop.to^
 @@||cdn.datatables.net^
 @@||cdn.dbdtwitch.com^
-@@||cdn.discordapp.com^
 @@||cdn.downdetector.com^
 @@||cdn.download.clearlinux.org^
 @@||cdn.dragonagekeep.com^
@@ -1746,9 +1760,6 @@
 @@||directory.vimeo.com^
 @@||dirtybits.api.origin.com^
 @@||discord-attachments-uploads-prd.storage.googleapis.com^
-@@||discord.com^
-@@||discord.gg^
-@@||discordapp.com^
 @@||discourse.ubuntu.com^
 @@||discover.amd.com^
 @@||discover.hulu.com^
@@ -3249,7 +3260,6 @@
 @@||media.binglee.com.au^
 @@||media.bunnings.com.au^
 @@||media.contentapi.ea.com^
-@@||media.discordapp.net^
 @@||media.fab.com.cdn.cloudflare.net^
 @@||media.fab.com^
 @@||media.freeones.com^
@@ -4364,7 +4374,6 @@
 @@||seed-mix-image.spotifycdn.com^
 @@||seedpeer.net^
 @@||seedr.cc^
-@@||sefinek.net^
 @@||segments-s.msedge.net^
 @@||self-test.sabnzbd.org^
 @@||self.events.data.microsoft.com^
