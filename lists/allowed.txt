@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-07-15 12:06:58 +1000
-! Version: 1.0.1.8
+! Last Modified: 2025-07-28 14:43:56 +1000
+! Version: 1.0.1.9
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -10,6 +10,30 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+! End of July
+@@||*.plex.direct^
+@@||account.viber.com^
+@@||blocklist.sefinek.net^
+@@||chimpstatic.com^
+@@||energized.pro^
+@@||etcher.balena.io^
+@@||gamesir.com^
+@@||media.fab.com.cdn.cloudflare.net^
+@@||metadata-static.plex.tv^
+@@||mobile-api.adguard.org^
+@@||new-edifier-us-oss.edifier.com.w.cdngslb.com^
+@@||new-edifier-us-oss.edifier.com^
+@@||prod.tokenserver.prod.cloudops.mozgcp.net^
+@@||pyinstaller.org^
+@@||sefinek.net^
+@@||static.fab.com^
+@@||tv.apple.com^
+@@||viber.com^
+@@||www.edifier.com^
+@@||www.fab.com.cdn.cloudflare.net^
+@@||www.pyinstaller.org^
+
+! July
 @@||brands.home-assistant.io^
 @@||code.iconify.design^
 @@||demo.home-assistant.io^
@@ -17,11 +41,6 @@
 @@||react.dev^
 @@||safing.io^
 @@||www.home-assistant.io^
-
-! Most Recent
-@@||*.plex.direct^
-@@||metadata-static.plex.tv^
-@@||mobile-api.adguard.org^
 
 ! Bazzite Linux
 @@||bazzite.gg^
@@ -68,7 +87,6 @@
 @@||*.github.io^
 @@||*.itch.io^
 @@||*.playlist.ttvnw.net^
-@@||*.plex.direct^
 @@||*.proton.me^
 @@||*.static.mega.co.nz^
 @@||adguard-dns.io^
@@ -85,7 +103,6 @@
 @@||assetsconfigcdn.org^
 @@||auth.streetwriters.co^
 @@||b1.nel.goog^
-@@||blocklist.sefinek.net^
 @@||broth.itch.zone^
 @@||calendar-api.proton.me^
 @@||camo.githubusercontent.com^
@@ -105,12 +122,10 @@
 @@||discordapp.net^
 @@||discover.provider.plex.tv^
 @@||embed.vhx.tv^
-@@||energized.pro^
 @@||fastcopy.jp^
 @@||features.plex.tv^
 @@||files.community^
 @@||freetubeapp.io^
-@@||gamesir.com^
 @@||gt-api.gumtree.com.au.peakhour.zone^
 @@||guides.martysmods.com^
 @@||image.tmdb.org^
@@ -139,13 +154,11 @@
 @@||pubsub.plex.tv^
 @@||pw.nexusmods.com/matomo.js$domain=nexusmods.com
 @@||pw.nexusmods.com^$domain=nexusmods.com
-@@||pyinstaller.org^
 @@||raindrop.io^
 @@||rdl.ink^
 @@||redir.opera.com^
 @@||sec.paymentexpress.com^
 @@||seccdn.libravatar.org^
-@@||sefinek.net^
 @@||slimlake26.com^
 @@||static-edge.discord.com^
 @@||static.discord.com^
@@ -164,7 +177,6 @@
 @@||weblate.itch.zone^
 @@||www.amaysim.com.au^
 @@||www.lebara.com.au^
-@@||www.pyinstaller.org^
 @@||www.trilogyplus.com^
 @@||youtu.be^
 
@@ -3260,7 +3272,6 @@
 @@||media.binglee.com.au^
 @@||media.bunnings.com.au^
 @@||media.contentapi.ea.com^
-@@||media.fab.com.cdn.cloudflare.net^
 @@||media.fab.com^
 @@||media.freeones.com^
 @@||media.githubusercontent.com^
@@ -4652,7 +4663,6 @@
 @@||static.cyberdrop.me^
 @@||static.depositfiles.com^
 @@||static.edge.microsoftapp.net^
-@@||static.fab.com^
 @@||static.freedownloadmanager.org^
 @@||static.gigabyte.com^
 @@||static.gumtree.com.au^
