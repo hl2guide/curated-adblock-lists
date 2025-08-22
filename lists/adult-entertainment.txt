@@ -2,18 +2,26 @@
 
 ! Title: 🤫 Adult Entertainment Private Custom Adblock List
 ! Description: A custom adblock list for use in Adblock Origin and similar.
-! Last Modified: 2025-08-21 16:53:48 +1000
-! Version: 1.0.0.1
+! Last Modified: 2025-08-22 17:35:30 +1000
+! Version: 1.0.0.2
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+! Cleans up newsensations.com
+newsensations.com##.modelArea.clear.modelPage
+newsensations.com##div.title:nth-of-type(2) > .centerwrap.clear
+newsensations.com###bzone_ns_under_player_1 > div > .plg_banner_a > .plg_banner_img
+newsensations.com###livecamsli > [href*="https://nsliveshow.com/landing/click/"]
+newsensations.com##.indRight
+newsensations.com##.content_wrapper > div.centerwrap.clear:nth-of-type(2) > div:nth-of-type(5)
+
 ! Recent
-@@||cdn.pcdn.li^$important
-@@||downloads.teamskeet.com^$important
-@@||newsensations.com^$important
-@@||nsnetworkthumbs.newsensations.com^$important
+@@||cdn.pcdn.li^
+@@||downloads.teamskeet.com^
+@@||newsensations.com^
+@@||nsnetworkthumbs.newsensations.com^
 
 ! Whitelists some porn sites
 @@||0xxx.ws^
