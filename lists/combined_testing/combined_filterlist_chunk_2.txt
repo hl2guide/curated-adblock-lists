@@ -1,7 +1,3 @@
-||ubereats.com^$removeparam=marketing-visitor-id
-||ubereats.com^$removeparam=sub-campaign
-||ubereatse.com^
-||uberegypt.cn.com^
 ||uberfa.com^
 ||uberfallen.com^
 ||uberlaw.ru^$third-party
@@ -32994,6 +32990,7 @@
 ||wusogou.com^
 ||wusong002.com^
 ||wussucko.com^
+||wustat.windows.com^
 ||wustecs.com^
 ||wustuvoonsy.net^
 ||wusuliriver.com^
@@ -54113,7 +54110,6 @@
 ||zeti.com^
 ||zeti.com^$third-party
 ||zetkay.com^
-||zetmovies.com^
 ||zetporn.com/*/custom_vast/$xmlhttprequest
 ||zetporn.com/LQMDQSMLDAZAEHERE/
 ||zetporn.com/core/js/gdprJs.php
