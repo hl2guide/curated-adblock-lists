@@ -1,3 +1,52 @@
+||trumptimetraveller.org^
+||trumptokenofficial.com^
+||trumpwallet.net^
+||trumup.com^
+||trumvang68.net^
+||trumvipmomo.com^
+||trunblock.com^
+||trunblock.com^$third-party
+||trunggian-amtaobao.com^
+||trunghocthuduc.com^
+||trungloi.com^
+||trungnhanvn.com^
+||trungtam-baohanhdienmayxanh.com^
+||trungtam-cskh-vipham.com^
+||trungtam-dienmayxanh.com^
+||trungtambaohanh-lghcm.com^
+||trungtambaohanhcholon.com^
+||trungtambaohanhmaylanh.com^
+||trungtamdienmayxanh.net^
+||trungtamgarena.com^
+||trungtammayxanh.com^
+||trungtamnanghanmucthe.com^
+||trungtamnanghanmucthetd.com^
+||trungtamnanghanmucthevn.com^
+||trungtamnanghanmuctindung.com^
+||trungtamthuongmaihanoi.com^
+||trungtamthuongmaisaigon.com^
+||trungtamtindung-nanghanmuc.com^
+||trunius.com^
+||trunkferruginous.com^
+||trunkpkg.com^
+||trunkplay.com^
+||truntedia.com^
+||truoctran.com^
+||truongchinhford.com^
+||truonggiangfood.com^
+||truonghaitin.com^
+||truonglaisaigontourist.net^
+||truoptik.com^
+||trupixe.com^
+||truprogressivereturn.com^
+||trusfi.com^
+||trusltwcllct.com^
+||trusltwcllet.com^
+||trusoidens.com^
+||trusorbotapp.com^
+||truss-z.com^
+||trussdevelopmentllc.com^
+||trusssuccuss.com^
 ||trusst-wallet-assets.com^
 ||trusst.com^
 ||trust-98.com^
@@ -3899,6 +3948,7 @@
 ||uabignite.com^
 ||uabmedicinecenter.org^
 ||uabooka.com^
+||uaboqzvm.marsme.sixcord.org^
 ||uabstv.com^
 ||uabstv.net^
 ||uabstv.org^
@@ -4000,6 +4050,7 @@
 ||uat-scanner-link.covve.com^
 ||uat-secure.technoratimedia.com^
 ||uat-ssl.technoratimedia.com^
+||uat.data.jimpike.com.au^
 ||uat.enterprises.proximus.com^
 ||uat.jimpike.com.au^
 ||uat.technoratimedia.com^
@@ -5543,7 +5594,6 @@
 ||ukmaleescort.com^
 ||ukmarketing.sedgwick.com^
 ||ukmatsdirect.com^
-||ukmeaitamacklogg.godaddysites.com^
 ||ukmgz.com^
 ||ukmlastitytyeastf.com^
 ||ukmlink.com^
@@ -5992,6 +6042,7 @@
 ||ulys-payement.com^
 ||ulys-peage-fr.com^
 ||ulys-peage-impaye.com^
+||ulys-peages-facture.com^
 ||ulys-reglement.com^
 ||ulys-regler-peages.com^
 ||ulys-reglerpeage.com^
@@ -8617,7 +8668,6 @@
 ||upgradeyouratlas.weebly.com^
 ||upgradz.za.com^
 ||upgroudona.com^
-||upgshoolldlogiiin.godaddysites.com^
 ||upgulpinon.com^
 ||upgyu.com^
 ||uphagreelupis.net^
@@ -8627,7 +8677,6 @@
 ||uphero.com^
 ||uphijntadoii.com^
 ||uphillbusinessfinancingcorporation.com^
-||uphinjrlogjt.godaddysites.com^
 ||uphitmonchanon.com^
 ||uphivusxd.com^
 ||uphndoenun.com^
@@ -10006,16 +10055,21 @@
 ||us1.clevertap-prod.com^
 ||us1.mparticle.com^
 ||us1.wzrkt.com^
+||us10.campaign-archive.com^
 ||us105web.us^
 ||us10web.us^
 ||us11.besteml.com^
+||us13.campaign-archive.com^
 ||us13web.us^
+||us15.campaign-archive.com^
+||us16.campaign-archive.com^
 ||us16web.us^
 ||us17web.us^
 ||us18web.us^
 ||us2-trust.net^
 ||us2.mparticle.com^
 ||us205web.us^
+||us21.campaign-archive.com^
 ||us22.campaign-archive.com^
 ||us22web.com^
 ||us24web.us^
@@ -10032,6 +10086,7 @@
 ||us40web-zoom.us^
 ||us4post.com^
 ||us4web-zoom.us^
+||us5.campaign-archive.com^
 ||us5.campaign-archive1.com^
 ||us5.forward-to-friend.com^
 ||us500web-zoom.us^
@@ -12659,6 +12714,9 @@
 ||v77e.tiktokcdn.com^
 ||v79top.com^
 ||v7a75.ucanbet.net^
+||v7cok2-cdn-settings.appsflyersdk.com^
+||v7cok2-conversions.appsflyersdk.com^
+||v7cok2-gcdsdk.appsflyersdk.com^
 ||v7event.stats.avast.com^
 ||v7ewd.com^
 ||v7fb.com^
@@ -13183,7 +13241,6 @@
 ||validartokenitau.webcindario.com^
 ||validate-bell0-mailbox.weebly.com^
 ||validate-email-ionos-appsuites-ivalidate.powerappsportals.com^
-||validate-mail-ionos-appsuite.powerappsportals.com^
 ||validate-mail-ionos-appsuiteis.powerappsportals.com^
 ||validate-test.appsflyer.com^
 ||validate.appsflyer.com^
@@ -15702,7 +15759,6 @@
 ||verifidentityed.firebaseapp.com^
 ||verified-apps.com^
 ||verified-badges.com^
-||verified-business.adsmanager-facebook.com^
 ||verified-download.com^
 ||verified-extensions.com^
 ||verified-forms.com^
@@ -16587,7 +16643,6 @@
 ||vfyplntbkonl.weebly.com^
 ||vfyqpfwicp.com^
 ||vfyspriorityone.weebly.com^
-||vfyuntybkms.weebly.com^
 ||vfyxjsclor.com^
 ||vfzryy-adrevenue.appsflyersdk.com^
 ||vfzryy-launches.appsflyersdk.com^
@@ -16767,7 +16822,6 @@
 ||vhgsboejwuejr.com^
 ||vhhgqr-inapps.appsflyersdk.com^
 ||vhinyvcsxcga.com^
-||vhinz8itk1zgsmx.eurovisions.net^
 ||vhjf93hjsk.com^
 ||vhjgrdivlr.com^
 ||vhjifggl.com^
@@ -20270,6 +20324,7 @@
 ||vistaclaraproductions.com^
 ||vistacoin.net^
 ||vistaelegora.com^
+||vistaequiltypanters.itpatches.com^
 ||vistaglobalmarketspro.com^
 ||vistahigh70.org^
 ||vistainfosys.com^
@@ -22280,7 +22335,6 @@
 ||voospromoairlines.com^
 ||voospromocionaiss.com^
 ||voospromocionaisstam.com^
-||voosseguro.com^
 ||voostaidoo.net^
 ||voosteewhoaleto.com^
 ||vootopeeloopeew.net^
@@ -28254,7 +28308,6 @@
 ||webdisk.greenscape.us.com^
 ||webdisk.hostsportstoto9.com^
 ||webdisk.ipmnewsworld.com^
-||webdisk.jimpike.com.au^
 ||webdisk.latestsportshub.com^
 ||webdisk.magazinebookline.com^
 ||webdisk.newzofnetworksera.com^
@@ -28413,6 +28466,7 @@
 ||webinars.elliemae.com^
 ||webinars.monster.com^
 ||webinars.oncourselearning.com^
+||webinars.tech-institute.org^
 ||webinars.thermofisher.com^
 ||webincognitosearch.com^
 ||webinfo-ebank.com^
@@ -28554,7 +28608,6 @@
 ||webmail.165-154-208-13.cprapid.com^
 ||webmail.165-154-231-121.cprapid.com^
 ||webmail.173-201-37-35.cprapid.com^
-||webmail.50-6-4-58.cprapid.com^
 ||webmail.aaoun.com^
 ||webmail.allnewznetworksofarts.com^
 ||webmail.allthefiver.com^
@@ -28569,6 +28622,7 @@
 ||webmail.businessnewznetwork.com^
 ||webmail.businesstimehub.com^
 ||webmail.canvatechsports.com^
+||webmail.creditunion-authority.com^
 ||webmail.denver-computer.com^
 ||webmail.denvercomputer.com^
 ||webmail.douglastilley.com^
@@ -28624,6 +28678,7 @@
 ||webmail.updatescoinbasewallet.com^
 ||webmail.verifytoken.com^
 ||webmail.wapination.net^
+||webmail.webaccess-email.org^
 ||webmail.webprocediweb.com^
 ||webmail.welovetotogames.com^
 ||webmail0021.weebly.com^
@@ -29430,7 +29485,6 @@
 ||weedwirecompany.com^
 ||weedwireusa.com^
 ||weeecool.com^
-||weeeqweeattt.weebly.com^
 ||weeesfraternity.com^
 ||weeewow.com^
 ||weefastaicagoa.com^
@@ -30102,6 +30156,7 @@
 ||weprocess.com^
 ||weps.org^
 ||weptnastyturmoil.com^
+||wepwwig7nn.125029t-coinbase.com^
 ||weqapau.com^
 ||wequickloan.com^
 ||wequietjack.com^
@@ -31110,6 +31165,7 @@
 ||whatsapp-de.com^
 ||whatsapp-ening.com^
 ||whatsapp-gl.com^
+||whatsapp-ib.com^
 ||whatsapp-icloudbrasil.com^
 ||whatsapp-id.com^
 ||whatsapp-insta.com^
@@ -35515,6 +35571,7 @@
 ||workflowimpact.com^
 ||workflownordic.com^
 ||workflowpro.net^
+||workflows.jimpike.com.au^
 ||workforce-optimization.insperity.com^
 ||workforce.mecarvi.com^
 ||workforceaiapp.com^
@@ -36041,6 +36098,7 @@
 ||woulin.com^
 ||wouloonoul.com^
 ||woulukdliketob.com^
+||woumaugroapsi.net^
 ||woumc.com^
 ||woundax.com^
 ||woundcaretoday-usa.com^
@@ -38067,7 +38125,10 @@
 ||www-lo.com^
 ||www-locker-espace.com^
 ||www-locker-express.com^
+||www-locker-facture.com^
 ||www-locker-fr.com^
+||www-locker-suivi.com^
+||www-locker.com^
 ||www-login-account-com.alwaysdata.net^
 ||www-logis-mondiai.com^
 ||www-logis-mrelay.com^
@@ -38106,6 +38167,7 @@
 ||www-mrelay-prbs.com^
 ||www-mrelay-retrait.com^
 ||www-mrelay-retraits.com^
+||www-mrelay-station.com^
 ||www-mrelay-suivi.com^
 ||www-mrelay-trajet.com^
 ||www-mrelay-trajets.com^
@@ -38163,6 +38225,7 @@
 ||www-sblsec-co-jp.fjtxmy.com^
 ||www-sblsec-co-jp.kingcue.com^
 ||www-sblsec-co-jp.laydfc.com^
+||www-sblsec-co-jp.qnuzva.com^
 ||www-sblsec-jp.cdxihui.com^
 ||www-sblsec-jp.edf4ydc8h.com^
 ||www-sblsec-jp.l4xhepo6p.com^
@@ -39098,6 +39161,7 @@
 ||www.bgvaaz.lluckytime.com^
 ||www.bgwmxx.loveematches.com^
 ||www.bhihakqmybat.com^
+||www.bicnhetimm.com^
 ||www.bicoinsprofit.com^
 ||www.bid.axiatraders.com^
 ||www.bidgear.com^
@@ -39382,6 +39446,7 @@
 ||www.cben9a9s1.com^
 ||www.ccb.com.w.kunluncan.com^
 ||www.ccbilleu.com^
+||www.ccyavrows.com^
 ||www.ccyowxwhuov.com^
 ||www.ccyquzatfpz.com^
 ||www.cdbgmj12.com^
@@ -41595,6 +41660,7 @@
 ||www.llovespace.net^
 ||www.lloxej.myllovees.com^
 ||www.llozqb.cozydatingg.com^
+||www.llozqb.dateyourpllace.com^
 ||www.llozqb.datingnoow.com^
 ||www.llozqb.faiiryluv.com^
 ||www.llozqb.faiirynkiss.com^
@@ -41782,6 +41848,7 @@
 ||www.mealrescue.com^
 ||www.mean8sigh.com^
 ||www.meaninglessoccasionalrevision.com^
+||www.meantimesubside.com^
 ||www.meanwhilenoonslap.com^
 ||www.meanwhiletoo.com^
 ||www.measuredcopies.com^
@@ -42255,6 +42322,7 @@
 ||www.odqdkealzr.com^
 ||www.odqxukovk.com^
 ||www.ofbrtaod.com^
+||www.ofbsujpuwhu.com^
 ||www.ofdalslf.com^
 ||www.ofdmajqubsa.com^
 ||www.ofdomjzpix.com^
@@ -42915,6 +42983,7 @@
 ||www.quzxatapvz.com^
 ||www.qvjrmz.chosenlove.com^
 ||www.qvolgz.sparklingheartss.com^
+||www.qvvqbm.impresslvedate.net^
 ||www.qwertystudios.com^
 ||www.qwuanvab.com^
 ||www.qwuopcbilw.com^
@@ -44706,6 +44775,7 @@
 ||www.wpnedo2ppnipdit5j916gmq4.makeupgap.com^
 ||www.wppluginspro.com^
 ||www.wranl.gaysweekend.com^
+||www.wreckcentigradecleared.com^
 ||www.wrhts9fman346kl533mliace.gameflie.com^
 ||www.wrigglefinviewed.com^
 ||www.writingcauliflower.com^
@@ -44766,6 +44836,7 @@
 ||www.xaqxh.com^
 ||www.xawbwejiv.com^
 ||www.xaxis.com^
+||www.xazafvbmicmi.com^
 ||www.xazoglawq.com^
 ||www.xbabqw.gratlfyingdates.com^
 ||www.xbareo.deiightfuldate.com^
@@ -44908,6 +44979,7 @@
 ||www.zbkkrb.harmonydatess.com^
 ||www.zbvdzr.happydaties.com^
 ||www.zbxkg.iuckforme.net^
+||www.zbxkg.lmpresivedates.net^
 ||www.zcahadhi.com^
 ||www.zcbmn14.com^
 ||www.zee.cws.conviva.com^
@@ -46409,6 +46481,7 @@
 ||xaymwy.com^
 ||xaypbrd.best-partnerlove.com^
 ||xayupew.com^
+||xazafvbmicmi.com^
 ||xazanananez.foaptoa.com^
 ||xazat.com^
 ||xazbts.com^
@@ -50200,6 +50273,7 @@
 ||xulizui6.com^
 ||xulkervf.com^
 ||xulowi.com^
+||xulzbwmxzn.myfunnelish.com^
 ||xuma-pos.com^
 ||xumarezervasyon.com^
 ||xumgarqig.com^
@@ -50962,6 +51036,7 @@
 ||xzk2s.com^
 ||xzkhlxs.com^
 ||xzmist-cdn-settings.appsflyersdk.com^
+||xzmjoy-cdn-settings.appsflyersdk.com^
 ||xzmnt.com^
 ||xzmsw.com^
 ||xznvtp-pia.appsflyersdk.com^
@@ -52023,6 +52098,7 @@
 ||ybb-network.com^$popup
 ||ybbjgg.com^
 ||ybblax-conversions.appsflyersdk.com^
+||ybblax-inapps.appsflyersdk.com^
 ||ybblax-launches.appsflyersdk.com^
 ||ybbserver.com^
 ||ybbserver.com^$popup
@@ -58186,6 +58262,7 @@
 ||zealontradefx.com^
 ||zealotillustrate.com^
 ||zealotsenergy.com^
+||zealous-notice.com^
 ||zealous-pine-98499.pktriot.net^
 ||zealouscompassionatecranny.com^
 ||zealousinquiriesgovernment.com^
@@ -60124,6 +60201,7 @@
 ||zlfxxx-cdn-settings.appsflyersdk.com^
 ||zlfxxx-launches.appsflyersdk.com^
 ||zlgbgfnebrnn.com^
+||zlgenuyiu.com^
 ||zlgkpr.lottehotel.com^
 ||zlgyg.com^
 ||zlhagtbdfz.com^
@@ -60207,7 +60285,6 @@
 ||zm60fd-launches.appsflyersdk.com^
 ||zm9ikp-cdn-settings.appsflyersdk.com^
 ||zm9ikp-launches.appsflyersdk.com^
-||zmail.attollo.com.au^
 ||zmail.broadmediacloud.com^
 ||zmailinsa.weebly.com^
 ||zmaka.net^
