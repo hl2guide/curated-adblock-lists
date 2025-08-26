@@ -1,3 +1,40 @@
+||video.fcps2-1.fna.fbcdn.net^
+||video.fcps3-1.fna.fbcdn.net^
+||video.fcps4-1.fna.fbcdn.net^
+||video.fcrk1-1.fna.fbcdn.net^
+||video.fcrk1-2.fna.fbcdn.net^
+||video.fcrk1-3.fna.fbcdn.net^
+||video.fcrk1-4.fna.fbcdn.net^
+||video.fcrk1-5.fna.fbcdn.net^
+||video.fcrk2-1.fna.fbcdn.net^
+||video.fcrk2-2.fna.fbcdn.net^
+||video.fcrk2-3.fna.fbcdn.net^
+||video.fcrk2-4.fna.fbcdn.net^
+||video.fcrk3-1.fna.fbcdn.net^
+||video.fcrk3-2.fna.fbcdn.net^
+||video.fcrk3-3.fna.fbcdn.net^
+||video.fcrk3-4.fna.fbcdn.net^
+||video.fcrk4-1.fna.fbcdn.net^
+||video.fcrk4-2.fna.fbcdn.net^
+||video.fcrk9-1.fna.fbcdn.net^
+||video.fcxo1-1.fna.fbcdn.net^
+||video.fczl2-1.fna.fbcdn.net^
+||video.fczl2-2.fna.fbcdn.net^
+||video.fdac1-1.fna.fbcdn.net^
+||video.fdac24-1.fna.fbcdn.net^
+||video.fdad1-1.fna.fbcdn.net^
+||video.fdad1-2.fna.fbcdn.net^
+||video.fdad1-3.fna.fbcdn.net^
+||video.fdad1-4.fna.fbcdn.net^
+||video.fdad2-1.fna.fbcdn.net^
+||video.fdad3-1.fna.fbcdn.net^
+||video.fdad3-4.fna.fbcdn.net^
+||video.fdad3-5.fna.fbcdn.net^
+||video.fdel11-1.fna.fbcdn.net^
+||video.fdet3-1.fna.fbcdn.net^
+||video.fdsm1-1.fna.fbcdn.net^
+||video.fdtw2-1.fna.fbcdn.net^
+||video.fdvo1-1.fna.fbcdn.net^
 ||video.fdvo1-2.fna.fbcdn.net^
 ||video.fdvo2-1.fna.fbcdn.net^
 ||video.fdvo2-2.fna.fbcdn.net^
@@ -4825,6 +4862,8 @@
 ||voyagessansei.com^
 ||voyance.net^
 ||voyashop.com^
+||voybnb-dynamic-config-api.appsflyersdk.com^
+||voybnb-inapps.appsflyersdk.com^
 ||voycedesign.com^
 ||voyeur-house.tv^$removeparam=clickid
 ||voyeurhit.com/ffpqvfaczp/
@@ -8161,6 +8200,7 @@
 ||wasinlovewith.org^
 ||wasiu.standard.us-east-1.oortstorages.com^
 ||wasiy.com^
+||waskills.qualtrics.com^
 ||wasku.com/images/aff/
 ||wasmanpowerlobster.com^
 ||wasmilinternational.com^
@@ -11592,6 +11632,7 @@
 ||welcome.item24.com^
 ||welcome.item24.us^
 ||welcome.joinclubhouse.com^
+||welcome.ledgerr.us^
 ||welcome.patientmatters.com^
 ||welcome.peek.com^
 ||welcome.pussysaga.com^
@@ -19346,6 +19387,7 @@
 ||ww2.imgtaxi.com^
 ||ww2.imgwallet.com^
 ||ww2.lmi123.com^
+||ww2.orion.com^
 ||ww2.vinhwellness.com^
 ||ww25.admin.a9-coinbase.com^
 ||ww25.analytics.rbwepvmmt.us^
@@ -22837,6 +22879,7 @@
 ||www.kenlev.romantiiq.com^
 ||www.kenlev.unexpecteddates.net^
 ||www.kenlev.waylovee.net^
+||www.kennethlawfullyconveniences.com^
 ||www.kenparrish.com^
 ||www.keomxw.fortuitouslucks.net^
 ||www.keonrm.ddatinglite.com^
@@ -22860,6 +22903,7 @@
 ||www.khifreoftn.com^
 ||www.khiladi-star.com^
 ||www.kick1pore.com^
+||www.kickhoistsuccess.com^
 ||www.kidnapstrongestfeathers.com^
 ||www.kids-in-sandbox.com^
 ||www.kikmpahfaj.com^
@@ -24119,6 +24163,7 @@
 ||www.pifqpymik.com^
 ||www.pigeonscouragemorgue.com^
 ||www.pigeonside.com^
+||www.piggyquarterbackascension.com^
 ||www.pileevery.com^
 ||www.pingstuffingstrap.com^
 ||www.pinkprofitclub.com^
@@ -24907,6 +24952,7 @@
 ||www.skyscrapertowel.com^
 ||www.sl-ct5.com^
 ||www.slammedloftygauze.com^
+||www.sleekwinterpowers.com^
 ||www.slickmyclit.com^
 ||www.slickspikeagency.com^
 ||www.slim2disc.com^
@@ -25043,6 +25089,7 @@
 ||www.stadiumstage.com^
 ||www.stage.tvpage.com^
 ||www.staggconsultingservices.com^
+||www.staindessadness.com^
 ||www.stairwellregularspontaneous.com^
 ||www.stairwellsolddamn.com^
 ||www.stallionrenewedbay.com^
@@ -25108,6 +25155,7 @@
 ||www.successfuiiucks.net^
 ||www.successmightyfainted.com^
 ||www.suckdude.com^
+||www.suctiondecade.com^
 ||www.sudokuwhiz.com^
 ||www.sufferpounceo.com^
 ||www.suffixsemitram.com^
@@ -26077,6 +26125,7 @@
 ||www.wheatoutfit.com^
 ||www.whennotsharingiscaring.com^
 ||www.wherebydressparked.com^
+||www.whileaimless.com^
 ||www.whimperhomelessillumination.com^
 ||www.whineinstallssubdued.com^
 ||www.whipcrack.org^
@@ -26493,7 +26542,6 @@
 ||www2.autopartsworld.com^
 ||www2.autotruckmirror.com^
 ||www2.bannerspace.com^
-||www2.bcdtravel.com^
 ||www2.bimobject.com^
 ||www2.bobcad.com^
 ||www2.car-stuff.com^
@@ -26502,7 +26550,6 @@
 ||www2.cet-uk.com^
 ||www2.citizensclimatelobby.org^
 ||www2.counter.bloke.com^
-||www2.covius.com^
 ||www2.cremarc.com^
 ||www2.daikinchemicals.com^
 ||www2.deepakohri.com^
@@ -26523,6 +26570,7 @@
 ||www2.festo.com^
 ||www2.firsttechfed.com^
 ||www2.glam.com^
+||www2.hamiltonlane.com^
 ||www2.l3ol11q.eu.org^
 ||www2.ledinside.com^
 ||www2.marketing.retail-voodoo.com^
@@ -26533,7 +26581,9 @@
 ||www2.pardot.com^
 ||www2.paxport.net^
 ||www2.polimortgage.com^
+||www2.proactis.com^
 ||www2.pubdirecte.com^
+||www2.quicktalkerfreestyle.com^
 ||www2.rifton.com^
 ||www2.rubyhall.in.net^
 ||www2.senetas.com^
@@ -28544,6 +28594,7 @@
 ||xf.wakenprecox.com^
 ||xf10mail.weebly.com^
 ||xf288woy4a.eoapxl.com^
+||xf4gmu-inapps.appsflyersdk.com^
 ||xf53w5-launches.appsflyersdk.com^
 ||xf5gzr-inapps.appsflyersdk.com^
 ||xf5gzr-skadsdkless.appsflyersdk.com^
@@ -29461,6 +29512,7 @@
 ||xlviirdr.com^
 ||xlviirdr.com^$popup
 ||xlvirdr.com^
+||xlvkl.freeluckytiming.com^
 ||xlvpirgcrsfvqulpapey.com^
 ||xlvvy4msxr.coolinastore.com^
 ||xlwave.com^
@@ -31050,6 +31102,7 @@
 ||xqs07i-gcdsdk.appsflyersdk.com^
 ||xqs8.com^
 ||xqtcur.kirklands.com^
+||xqtlju-cdn-settings.appsflyersdk.com^
 ||xqtlju-inapps.appsflyersdk.com^
 ||xqtlju-launches.appsflyersdk.com^
 ||xqtuvf-cdn-settings.appsflyersdk.com^
