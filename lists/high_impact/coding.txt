@@ -2,8 +2,8 @@
 
 ! Title: 💻 Curated Adblock List (high impact) - Coding
 ! Description: A curated high impact adblock list for coding.
-! Last Modified: 2025-08-05 06:47:19 +1000
-! Version: 1.0.0.2
+! Last Modified: 2025-08-26 22:03:28 +1000
+! Version: 1.0.0.3
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -26,3 +26,5 @@ github.com#?#div > ul > li.Box-row:has-text(/386|arm64|arm|linux|openbsd|darwin|
 ! Hides ad NodeJS
 nodejs.org###home-intro > a:nth-child(2)
 
+@@||black.readthedocs.io^$important
+@@||jan.ai^

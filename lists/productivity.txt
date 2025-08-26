@@ -11,6 +11,8 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+@@||snapper.io^
+
 ! ads.js blocking - https://d3ward.github.io/toolz/adblock
 /pagead.js$domain=d3ward.github.io
 /widget/ads.
