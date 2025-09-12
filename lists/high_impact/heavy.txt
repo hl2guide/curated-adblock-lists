@@ -2,12 +2,15 @@
 
 ! Title: 🤫 Heavy Custom Adblock List
 ! Description: A custom adblock list for use in Adblock Origin and similar.
-! Last Modified: 2025-06-03 16:47:40 +1000
-! Version: 1.0.0.0
+! Last Modified: 2025-09-12 15:49:59 +1000
+! Version: 1.0.0.1
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! Hides low quality video downloads
+newsensations.com#?#li.dl-link > a:has-text(/720|480|360/)
 
 ! Hides unwanted junk on torrent sites
 1337x.to#?#div.box-info-detail.inner-table > div.table-list-wrap > table > tbody > tr:has-text(/480p|720p|XviD/)

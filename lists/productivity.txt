@@ -2,14 +2,20 @@
 
 ! Title: ⚒️ Curated Adblock List - Productivity
 ! Description: A curated adblock list for productivity sites.
-! Last Modified: 2025-01-27 15:34:09 +1100
-! Version: 1.0.0.2
+! Last Modified: 2025-09-12 15:48:43 +1000
+! Version: 1.0.0.3
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
 ! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/productivity.txt
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! MEGA File Transfers
+@@||transfer.it^
+
+! Send.now links
+@@||send.now^
 
 @@||snapper.io^
 

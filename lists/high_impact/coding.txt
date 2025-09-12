@@ -2,8 +2,8 @@
 
 ! Title: 💻 Curated Adblock List (high impact) - Coding
 ! Description: A curated high impact adblock list for coding.
-! Last Modified: 2025-08-26 22:03:28 +1000
-! Version: 1.0.0.3
+! Last Modified: 2025-09-12 15:44:49 +1000
+! Version: 1.0.0.4
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -28,3 +28,24 @@ nodejs.org###home-intro > a:nth-child(2)
 
 @@||black.readthedocs.io^$important
 @@||jan.ai^
+@@||bazzite.gg^
+@@||react.dev^
+@@||home-assistant.io^
+
+@@||etcher.balena.io^$domain=etcher.balena.io
+@@||unpkg.com/@balena/design-tokens@latest/build/css/tokens.css$domain=etcher.balena.io
+
+@@||nvitop.readthedocs.io^
+@@||pipx.pypa.io^
+
+@@||huggingface.co^
+
+@@||tabby.sh^
+
+@@||usevia.app^
+
+@@||webhint.io^
+
+@@||neowin.net/images/*
+@@||neowin.net^
+
