@@ -1,0 +1,93 @@
+[Adblock Plus 2.0]
+
+! Title: 🔍 Search Engines Custom Adblock List
+! Description: A custom adblock list that cleans up search results in some search engines, for use in Adblock Origin and similar.
+! Last Modified: 2025-09-16 03:30:54 +1000
+! Version: 1.0.0.0
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Author: hl2guide
+! Copyright: hl2guide
+
+! Inspired by iorate on github.com: https://github.com/iorate/ublacklist
+
+! Blocks trash results on google.com
+google.com#?##rso > div > div.MjjYud:has-text(/10for10.uk|1v9.gg|247bbcnews.com|xvpn.io|worldhistoryedu.com|workintool.com|wondershare.com|wizcase.com|windowsbulletin.com|whataportrait.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/aiease.ai|aichatmax.com|9meters.com|3dviewermax.com|3d-ace.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/batteryspotlight.com|bbcsportss.co.uk|befitnatic.com|betanet.net|basedlabs.ai|appletoo.us|animotica.com|androiddata-recovery.com|amilma.digital/)
+google.com#?##rso > div > div.MjjYud:has-text(/blurvideo.ai|bluestacks.com|blog.systoolsgroup.com|blog.limewire.com|blog.eklipse.gg|blog.cdkeys.com|bizknowledges.com|bitdegree.org|bettertechtips.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/chatgbt.one|chat360.io|chat-gpt.org|chat-gpt.com|chargerblog.com|ccm.net|ccleaner.com|cbsnewz.com|cbsnews2.com|buzzflick.com|boostingfactory.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/copilot.live|comparitech.com|commandmasters.com|commandexamples.com|codeparrot.ais|clrn.org|cloudinary.com|chatopenai.de|chatgptdemo.org|chatgpt.org/)
+google.com#?##rso > div > div.MjjYud:has-text(/deepseeksai.com|deepseekap.org|datanumen.com|datanumen.coms|cybersecuritynews.com|cyber-fox.net|csgocaptain.com|cruiseship.cloud|copyprogramming.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/dorik.com|dockuniverse.com|diskpart.com|diskgenius.com|dinosaur.org|devsne.vn|devasking.com|dev2qa.com|deepseekv3.tech|deepseekv3.org|deepseekv3.net/)
+google.com#?##rso > div > div.MjjYud:has-text(/eloking.com|eloboss.net|elevenlabs.io|elegantthemes.com|electropages.com|eeasy4u.com|earthweb.com|driveshero.com|drivereasy.com|download.cnet.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/fortect.com|flowercitycolor.com|findthisbest.com|filecr.com|fetch.com|farmingdale-observer.com|exchangetuts.com|espn24.co.uk|emarketinghacks.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/grande-famille.de|getgenie.ai|getafollower.com|geminiai.ai|gemini.talkai.info|gemini-free.com|gbtimes.com|gbhackers.com|g2a.com|foxnigeria.com.ng/)
+google.com#?##rso > div > div.MjjYud:has-text(/ifunia.com|i5apps.com|hix.ai|hetmanrecovery.com|help.simplified.com|hddfaqs.com|hdd-tool.com|hatchjs.com|guides.ai|grepper.com|gravitywrite.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/istocks.club|ionos.sk|ionos.ro|ionos.it|ionos.hu|ionos.fr|ionos.es|ionos.cz|ionos.com|ionos.co.uk|ionos.blog|ionos.bg|imobie.com|iliputer.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/lifeincoding.com|kitchendemy.com|kinsta.com|kapwing.com|justcreative.com|jetico.com|itorrents-igruha.org|itigic.com|itechhacks.com|isunshare.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/maono.coms|makb183.com|mainleaf.com|magai.co|madpenguin.org|longshot.ai|live2tech.com|linuxmadesimple.info|linuxcapable.com|linoxide.com|lindy.ai/)
+google.com#?##rso > div > div.MjjYud:has-text(/nbcsport.co.uk|mycvcreator.com|mycplus.com|murf.ai|movavi.io|minitool.com|mejoress.com|mediupdates.com|mediamister.com|mcafee.coms|mazer.dev|masteryourtech.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/opensourceforu.com|onexception.dev|olaf-hecker.de|ofzenandcomputing.com|novastarled.com|notionrealm.com|nextoai.com|nerdburglars.net|nbcsportz.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/pixcap.com|physics-network.org|pdfcandy.com|partitionwizard.com|overgear.com|outsourceit.today|orcaslicer.net|orcaslicer.co|orca-slicer.com|optimalproducts.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/safetydetectives.com|robots.net|riverside.fm|imagine.io|researchsnipers.com|recoverhdd.com|reasonlabs.com|rav.ai|quso.ai|privateproxyguide.com|playbite.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/softonic.com|socketloop.com|smallpdf.com|skycoach.gg|simplilearn.com|simplified.com|shokz.coms|shiftychevre.com|shell-tips.com|semrush.com|selteco.com|security.org/)
+google.com#?##rso > div > div.MjjYud:has-text(/systoolsgroup.com|supportyourtech.com|stepofweb.com|stellarinfo.com|steambase.io|starryai.com|splicedonline.com|songtell.com|mefmobile.org|solveyourtech.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/techwithtech.com|techpluto.com|technogenz.com|techlivo.com|techecholabs.com|techcommuters.com|techbloat.com|team-gpt.com|teabrands.org|systweak.coms/)
+google.com#?##rso > div > div.MjjYud:has-text(/tweaklibrary.com|turboboost.gg|trycatchdebug.net|toxigon.com|top5best.com|thetechedvocate.org|therandomvibez.com|thelinuxcode.com|thecoderpedia.com/)
+google.com#?##rso > div > div.MjjYud:has-text(/weetechsolution.com|webflow.com|webdevtutor.net|w3schools.tech|visme.co|visao.app|virtualizare.net|vidyo.ai|vidyo.ai|veepn.com|umatechnology.org/)
+
+! Blocks "Top Stories" section on google.com
+google.com#?#div.A6K0A:has-text(/Top stories/)
+
+! Blocks trash results on duckduckgo.com
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/10for10.uk|1v9.gg|247bbcnews.com|xvpn.io|worldhistoryedu.com|workintool.com|wondershare.com|wizcase.com|windowsbulletin.com|whataportrait.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/aiease.ai|aichatmax.com|9meters.com|3dviewermax.com|3d-ace.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/batteryspotlight.com|bbcsportss.co.uk|befitnatic.com|betanet.net|basedlabs.ai|appletoo.us|animotica.com|androiddata-recovery.com|amilma.digital/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/blurvideo.ai|bluestacks.com|blog.systoolsgroup.com|blog.limewire.com|blog.eklipse.gg|blog.cdkeys.com|bizknowledges.com|bitdegree.org|bettertechtips.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/chatgbt.one|chat360.io|chat-gpt.org|chat-gpt.com|chargerblog.com|ccm.net|ccleaner.com|cbsnewz.com|cbsnews2.com|buzzflick.com|boostingfactory.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/copilot.live|comparitech.com|commandmasters.com|commandexamples.com|codeparrot.ais|clrn.org|cloudinary.com|chatopenai.de|chatgptdemo.org|chatgpt.org/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/deepseeksai.com|deepseekap.org|datanumen.com|datanumen.coms|cybersecuritynews.com|cyber-fox.net|csgocaptain.com|cruiseship.cloud|copyprogramming.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/dorik.com|dockuniverse.com|diskpart.com|diskgenius.com|dinosaur.org|devsne.vn|devasking.com|dev2qa.com|deepseekv3.tech|deepseekv3.org|deepseekv3.net/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/eloking.com|eloboss.net|elevenlabs.io|elegantthemes.com|electropages.com|eeasy4u.com|earthweb.com|driveshero.com|drivereasy.com|download.cnet.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/fortect.com|flowercitycolor.com|findthisbest.com|filecr.com|fetch.com|farmingdale-observer.com|exchangetuts.com|espn24.co.uk|emarketinghacks.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/grande-famille.de|getgenie.ai|getafollower.com|geminiai.ai|gemini.talkai.info|gemini-free.com|gbtimes.com|gbhackers.com|g2a.com|foxnigeria.com.ng/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/ifunia.com|i5apps.com|hix.ai|hetmanrecovery.com|help.simplified.com|hddfaqs.com|hdd-tool.com|hatchjs.com|guides.ai|grepper.com|gravitywrite.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/istocks.club|ionos.sk|ionos.ro|ionos.it|ionos.hu|ionos.fr|ionos.es|ionos.cz|ionos.com|ionos.co.uk|ionos.blog|ionos.bg|imobie.com|iliputer.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/lifeincoding.com|kitchendemy.com|kinsta.com|kapwing.com|justcreative.com|jetico.com|itorrents-igruha.org|itigic.com|itechhacks.com|isunshare.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/maono.coms|makb183.com|mainleaf.com|magai.co|madpenguin.org|longshot.ai|live2tech.com|linuxmadesimple.info|linuxcapable.com|linoxide.com|lindy.ai/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/nbcsport.co.uk|mycvcreator.com|mycplus.com|murf.ai|movavi.io|minitool.com|mejoress.com|mediupdates.com|mediamister.com|mcafee.coms|mazer.dev|masteryourtech.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/opensourceforu.com|onexception.dev|olaf-hecker.de|ofzenandcomputing.com|novastarled.com|notionrealm.com|nextoai.com|nerdburglars.net|nbcsportz.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/pixcap.com|physics-network.org|pdfcandy.com|partitionwizard.com|overgear.com|outsourceit.today|orcaslicer.net|orcaslicer.co|orca-slicer.com|optimalproducts.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/safetydetectives.com|robots.net|riverside.fm|imagine.io|researchsnipers.com|recoverhdd.com|reasonlabs.com|rav.ai|quso.ai|privateproxyguide.com|playbite.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/softonic.com|socketloop.com|smallpdf.com|skycoach.gg|simplilearn.com|simplified.com|shokz.coms|shiftychevre.com|shell-tips.com|semrush.com|selteco.com|security.org/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/systoolsgroup.com|supportyourtech.com|stepofweb.com|stellarinfo.com|steambase.io|starryai.com|splicedonline.com|songtell.com|mefmobile.org|solveyourtech.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/techwithtech.com|techpluto.com|technogenz.com|techlivo.com|techecholabs.com|techcommuters.com|techbloat.com|team-gpt.com|teabrands.org|systweak.coms/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/tweaklibrary.com|turboboost.gg|trycatchdebug.net|toxigon.com|top5best.com|thetechedvocate.org|therandomvibez.com|thelinuxcode.com|thecoderpedia.com/)
+duckduckgo.com#?#li.wLL07_0Xnd1QZpzpfR4W:has-text(/weetechsolution.com|webflow.com|webdevtutor.net|w3schools.tech|visme.co|visao.app|virtualizare.net|vidyo.ai|vidyo.ai|veepn.com|umatechnology.org/)
+
+! Blocks trash results on brave.com
+brave.com#?#div.svelte-1o29vmf:has-text(/10for10.uk|1v9.gg|247bbcnews.com|xvpn.io|worldhistoryedu.com|workintool.com|wondershare.com|wizcase.com|windowsbulletin.com|whataportrait.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/aiease.ai|aichatmax.com|9meters.com|3dviewermax.com|3d-ace.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/batteryspotlight.com|bbcsportss.co.uk|befitnatic.com|betanet.net|basedlabs.ai|appletoo.us|animotica.com|androiddata-recovery.com|amilma.digital/)
+brave.com#?#div.svelte-1o29vmf:has-text(/blurvideo.ai|bluestacks.com|blog.systoolsgroup.com|blog.limewire.com|blog.eklipse.gg|blog.cdkeys.com|bizknowledges.com|bitdegree.org|bettertechtips.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/chatgbt.one|chat360.io|chat-gpt.org|chat-gpt.com|chargerblog.com|ccm.net|ccleaner.com|cbsnewz.com|cbsnews2.com|buzzflick.com|boostingfactory.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/copilot.live|comparitech.com|commandmasters.com|commandexamples.com|codeparrot.ais|clrn.org|cloudinary.com|chatopenai.de|chatgptdemo.org|chatgpt.org/)
+brave.com#?#div.svelte-1o29vmf:has-text(/deepseeksai.com|deepseekap.org|datanumen.com|datanumen.coms|cybersecuritynews.com|cyber-fox.net|csgocaptain.com|cruiseship.cloud|copyprogramming.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/dorik.com|dockuniverse.com|diskpart.com|diskgenius.com|dinosaur.org|devsne.vn|devasking.com|dev2qa.com|deepseekv3.tech|deepseekv3.org|deepseekv3.net/)
+brave.com#?#div.svelte-1o29vmf:has-text(/eloking.com|eloboss.net|elevenlabs.io|elegantthemes.com|electropages.com|eeasy4u.com|earthweb.com|driveshero.com|drivereasy.com|download.cnet.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/fortect.com|flowercitycolor.com|findthisbest.com|filecr.com|fetch.com|farmingdale-observer.com|exchangetuts.com|espn24.co.uk|emarketinghacks.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/grande-famille.de|getgenie.ai|getafollower.com|geminiai.ai|gemini.talkai.info|gemini-free.com|gbtimes.com|gbhackers.com|g2a.com|foxnigeria.com.ng/)
+brave.com#?#div.svelte-1o29vmf:has-text(/ifunia.com|i5apps.com|hix.ai|hetmanrecovery.com|help.simplified.com|hddfaqs.com|hdd-tool.com|hatchjs.com|guides.ai|grepper.com|gravitywrite.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/istocks.club|ionos.sk|ionos.ro|ionos.it|ionos.hu|ionos.fr|ionos.es|ionos.cz|ionos.com|ionos.co.uk|ionos.blog|ionos.bg|imobie.com|iliputer.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/lifeincoding.com|kitchendemy.com|kinsta.com|kapwing.com|justcreative.com|jetico.com|itorrents-igruha.org|itigic.com|itechhacks.com|isunshare.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/maono.coms|makb183.com|mainleaf.com|magai.co|madpenguin.org|longshot.ai|live2tech.com|linuxmadesimple.info|linuxcapable.com|linoxide.com|lindy.ai/)
+brave.com#?#div.svelte-1o29vmf:has-text(/nbcsport.co.uk|mycvcreator.com|mycplus.com|murf.ai|movavi.io|minitool.com|mejoress.com|mediupdates.com|mediamister.com|mcafee.coms|mazer.dev|masteryourtech.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/opensourceforu.com|onexception.dev|olaf-hecker.de|ofzenandcomputing.com|novastarled.com|notionrealm.com|nextoai.com|nerdburglars.net|nbcsportz.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/pixcap.com|physics-network.org|pdfcandy.com|partitionwizard.com|overgear.com|outsourceit.today|orcaslicer.net|orcaslicer.co|orca-slicer.com|optimalproducts.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/safetydetectives.com|robots.net|riverside.fm|imagine.io|researchsnipers.com|recoverhdd.com|reasonlabs.com|rav.ai|quso.ai|privateproxyguide.com|playbite.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/softonic.com|socketloop.com|smallpdf.com|skycoach.gg|simplilearn.com|simplified.com|shokz.coms|shiftychevre.com|shell-tips.com|semrush.com|selteco.com|security.org/)
+brave.com#?#div.svelte-1o29vmf:has-text(/systoolsgroup.com|supportyourtech.com|stepofweb.com|stellarinfo.com|steambase.io|starryai.com|splicedonline.com|songtell.com|mefmobile.org|solveyourtech.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/techwithtech.com|techpluto.com|technogenz.com|techlivo.com|techecholabs.com|techcommuters.com|techbloat.com|team-gpt.com|teabrands.org|systweak.coms/)
+brave.com#?#div.svelte-1o29vmf:has-text(/tweaklibrary.com|turboboost.gg|trycatchdebug.net|toxigon.com|top5best.com|thetechedvocate.org|therandomvibez.com|thelinuxcode.com|thecoderpedia.com/)
+brave.com#?#div.svelte-1o29vmf:has-text(/weetechsolution.com|webflow.com|webdevtutor.net|w3schools.tech|visme.co|visao.app|virtualizare.net|vidyo.ai|vidyo.ai|veepn.com|umatechnology.org/)
