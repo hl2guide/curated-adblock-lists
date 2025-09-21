@@ -2,8 +2,8 @@
 
 ! Title: 🦘 Curated Adblock List - Australia
 ! Description: A curated adblock list for Australian sites.
-! Last Modified: 2025-01-19 11:42:53 +1100
-! Version: 1.0.0.1
+! Last Modified: 2025-09-21 23:27:42 +1000
+! Version: 1.0.0.3
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock
@@ -14,3 +14,15 @@
 gumtree.com.au##.e102c3rk0.css-1uk1bt1-Box
 gumtree.com.au##.ico-banner-top
 gumtree.com.au##.slider__content--carval
+
+! Kmart Australia
+@@||ac.cnstrc.com^$important
+
+! St George Banking
+@@||dpm.demdex.net^$important
+@@||smetrics.stgeorge.com.au^$important
+@@||idp.stgeorge.com.au^$important
+
+! ALDI Australia
+@@||dm.apac.cms.aldi.cx^$important
+@@||publish.prod.apac.cms.aldi.cx^$important

@@ -2,7 +2,7 @@
 
 ! Title: 💻 Curated Adblock List (high impact) - Coding
 ! Description: A curated high impact adblock list for coding.
-! Last Modified: 2025-09-12 15:44:49 +1000
+! Last Modified: 2025-09-21 23:13:46 +1000
 ! Version: 1.0.0.4
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -22,6 +22,18 @@ github.com#?#div > ul > li.Box-row:has-text(/386|arm64|arm|linux|openbsd|darwin|
 !github.com#?#div > div > ul > li.Box-row:has-text(/Source code|NAudioHourglassPack|.xml|DebugSymbols|ARM64|x86|.blockmap|-mac|.AppImage|.dmg|.yml|SGr-Iosevka|SuperTTC-SGr-IosevkaSS|IosevkaSS|Unhinted-|PkgWebFont-Iosevka|PkgTTF-Iosevka|PkgTTC-Iosevka|PkgTTC-Iosevka|IosevkaAile|IosevkaCurly|IosevkaCurlySlab|IosevkaEtoile|IosevkaSlab|IosevkaAile|IosevkaCurly|IosevkaCurlySlab|IosevkaEtoile|IosevkaSlab|SHA-256.txt/)
 ! Hides junk from the GitHub home feeds page
 !github.com#?#article:has-text(/preview|beta/)
+
+@@||send.now^
+@@||launcher.keychron.com^
+
+@@||webhint.io^
+@@||stylelint.io^
+@@||securityheaders.io^
+@@||edge_webhint.io^
+
+# AI Model downloads for Jan app
+@@||huggingface.co^$important
+@@||cas-bridge.xethub.hf.co^$important
 
 ! Hides ad NodeJS
 nodejs.org###home-intro > a:nth-child(2)

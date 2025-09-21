@@ -2,14 +2,47 @@
 
 ! Title: ⚒️ Curated Adblock List - Productivity
 ! Description: A curated adblock list for productivity sites.
-! Last Modified: 2025-09-12 15:48:43 +1000
-! Version: 1.0.0.3
+! Last Modified: 2025-09-21 23:31:25 +1000
+! Version: 1.0.0.4
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
 ! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/productivity.txt
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! Speed Test
+@@||_8080._https.*.aarnet.net.au^$important
+@@||_8080._https.*.exetel.com.au^$important
+@@||_8080._https.*.ooklaserver.net^$important
+@@||_8080._https.*.speedtest.telstra.net^$important
+@@||speedtest-*.optusnet.com.au^$important
+@@||speedtest-*.speedtest.net^$important
+@@||speedtest.*.ooklaserver.net^$important
+
+@@||apac.kingston.com^$important
+@@||duck.ai^$important
+@@||www.neowin.net^$important
+@@||perplexity.ai^
+@@||badblock.celenity.dev^
+
+! Speed Test for NetFlix
+@@||*.nflxso.net^$important
+@@||assets.nflxext.com^$important
+@@||fast.com^$important
+@@||ipv4-*.nflxvideo.net^$important
+
+! Brave
+@@||usage-ping.brave.com^$important
+@@||sync-v2.brave.com^$important
+
+@@||aiqua-sdk.c.appier.net^$important
+@@||aiqua-user.c.appier.net^$important
+@@||android-context-data.googleapis.com^$important
+@@||callback.api.qgraph.io^$important
+@@||cdn.qgr.ph^$important
+@@||cdn.qgraph.io^$important
+@@||config.mapbox.com^$important
 
 ! MEGA File Transfers
 @@||transfer.it^

@@ -1,0 +1,16 @@
+[Adblock Plus 2.0]
+
+! Title: 📺 Curated Adblock List - Apple
+! Description: A curated adblock list for Apple sites.
+! Last Modified: 2025-09-21 23:08:37 +1000
+! Version: 1.0.0.1
+! Expires: 1 days (update frequency)
+! Licence: MIT
+! Source: https://github.com/hl2guide/curated-adblock-lists
+! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/apple.txt
+! Author: hl2guide
+! Copyright: hl2guide
+
+@@||appleid-ut.corp.apple.com^$important
+@@||experiments.apple.com^$important
+@@||xp.apple.com^$important
