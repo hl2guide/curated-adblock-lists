@@ -2,7 +2,7 @@
 
 ! Title: 📺 Curated Adblock List - Video Media
 ! Description: A curated adblock list for video media sites.
-! Last Modified: 2025-09-21 23:13:41 +1000
+! Last Modified: 2025-09-24 17:44:22 +1000
 ! Version: 1.0.0.3
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -14,11 +14,31 @@
 @@||prod.ivs-device-config.live-video.net^
 
 ! Korean TV Shows
-@@||www.kshow123.tv^$important
-@@||kshow123.tv^$important
-@@||www.vidbasic.top^$important
-@@||vidbasic.top^$important
-@@||cdn.lisaidol.top^$important
+@@||1.viki.io^
+@@||api.viki.io^
+@@||busan123a.top^
+@@||cdn.lisaidol.top^
+@@||cdn.privacy-mgmt.com^
+@@||clsp.viki.com^
+@@||colvk.viki.io^
+@@||daegu123a.top^
+@@||daejeon123a.top^
+@@||geo.dailymotion.com^
+@@||graphql.api.dailymotion.com^
+@@||gyeongju123a.top^
+@@||kshow123.tv^
+@@||prd.jwpltx.com^
+@@||s1.dmcdn.net^
+@@||s2.dmcdn.net^
+@@||static-origin.dmcdn.net^
+@@||static1.dmcdn.net^
+@@||taehyungidol.top^
+@@||vidbasic.top^
+@@||vod3.cf.dmcdn.net^
+@@||www.dailymotion.com^
+@@||www.kshow123.tv^
+@@||www.vidbasic.top^
+@@||www.viki.com^
 
 ! Marks visited twitch links as light green
 twitch.tv##a:visited:style(color:lightgreen !important;)
@@ -35,7 +55,6 @@ youtube.com###below > ytd-merch-shelf-renderer
 @@||iv.ggtyler.dev^
 
 ! Twitch player config
-@@||prod.ivs-device-config.live-video.net^
 
 ! Twitch.tv - Cleans up interface
 twitch.tv###a967558bd9fc218cda394fff9b2a686a
@@ -56,7 +75,6 @@ twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(3)
 twitch.tv##div.side-nav-section.dcyYPL.Layout-sc-1xcs6mc-0:nth-of-type(4)
 
 ! YouTube
-youtube.com###below > ytd-merch-shelf-renderer
 youtube.com###clarify-box > ytd-clarification-renderer.style-scope.ytd-watch-flexy
 youtube.com###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:nth-child(3)
 youtube.com###contents > ytd-rich-section-renderer.style-scope.ytd-rich-grid-renderer:nth-child(5)
@@ -87,7 +105,6 @@ youtube.com###page-header-banner
 
 ! Sources:
 ! https://github.com/DandelionSprout/adfilt
-! Blocks autoplay videos on youtube.com
 www.youtube.com##.ytd-item-section-renderer.style-scope > .ytd-channel-video-player-renderer.style-scope
 
 ! 9 Oct 2024 https://www.twitch.tv
