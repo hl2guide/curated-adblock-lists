@@ -13,6 +13,8 @@
 
 @@||prod.ivs-device-config.live-video.net^
 
+@@||invidious.nerdvpn.de
+
 ! Korean TV Shows
 @@||1.viki.io^
 @@||api.viki.io^

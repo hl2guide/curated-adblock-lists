@@ -2,14 +2,18 @@
 
 ! Title: 🦘 Curated Adblock List - Australia
 ! Description: A curated adblock list for Australian sites.
-! Last Modified: 2025-09-21 23:27:42 +1000
-! Version: 1.0.0.3
+! Last Modified: 2025-09-29 01:55:18 +1000
+! Version: 1.0.0.4
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock
 ! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/australia.txt
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! ALDI Australia
+@@||dm.apac.cms.aldi.cx^
+@@||publish.prod.apac.cms.aldi.cx^
 
 gumtree.com.au##.e102c3rk0.css-1uk1bt1-Box
 gumtree.com.au##.ico-banner-top
