@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-10-11 22:11:26 +1100
-! Version: 1.0.1.14
+! Last Modified: 2025-10-25 17:52:45 +1100
+! Version: 1.0.1.15
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -10,18 +10,30 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+! Oct 2025
+@@||ajax.cloudflare.com^
+@@||cdn.cloudflare.com^
+@@||cdn.neowin.com^
+@@||cdn.shopify.com^
+@@||cdn.shopifycdn.net^
+@@||crl.apple.com^
+@@||images.unsplash.com^
+@@||media.discordapp.net^
+@@||media.githubusercontent.com^
+@@||unsplash.com^
+
 ! October 2025
-@@||*.adtidy.net^$important
-@@||accessapp.dolby.com^$important
-@@||adtidy.net^$important
-@@||customers.jam-software.de^$important
-@@||dm.apac.cms.aldi.cx^$important
-@@||downloads.jam-software.de^$important
-@@||gog.app.do^$important
-@@||google-ohttp-relay-safebrowsing.fastly-edge.com^$important
-@@||matomo.jam-software.com^$important
-@@||send.now^$important
-@@||www.neowin.net^$important
+@@||*.adtidy.net^
+@@||accessapp.dolby.com^
+@@||adtidy.net^
+@@||customers.jam-software.de^
+@@||dm.apac.cms.aldi.cx^
+@@||downloads.jam-software.de^
+@@||gog.app.do^
+@@||google-ohttp-relay-safebrowsing.fastly-edge.com^
+@@||matomo.jam-software.com^
+@@||send.now^
+@@||www.neowin.net^
 
 ! August 2025
 @@||*.in-addr.arpa^
@@ -174,7 +186,6 @@
 @@||itch.io^
 @@||js.braintreegateway.com^
 @@||locales.itch.zone^
-@@||media.discordapp.net^
 @@||mega.nz^
 @@||metadata.provider.plex.tv^
 @@||mpv.io^
@@ -586,7 +597,6 @@
 @@||air-quality-api.open-meteo.com^
 @@||airtable.com^
 @@||ajax.aspnetcdn.com^
-@@||ajax.cloudflare.com^
 @@||ajax.googleapis.com^
 @@||ajay.app^
 @@||ak.spatial.virtualearth.net^
@@ -1315,7 +1325,6 @@
 @@||cdn.search.brave.com^
 @@||cdn.segment.com^
 @@||cdn.services.gearboxsoftware.com^
-@@||cdn.shopify.com^
 @@||cdn.skypack.dev^
 @@||cdn.slant.co^
 @@||cdn.sonicb.it^
@@ -2868,7 +2877,6 @@
 @@||images.sourceforge.net^
 @@||images.squarespace-cdn.com^
 @@||images.theabcdn.com^
-@@||images.unsplash.com^
 @@||images.videolan.org^
 @@||images.wikia.com^
 @@||images.wikia.nocookie.net^
@@ -3315,7 +3323,6 @@
 @@||media.contentapi.ea.com^
 @@||media.fab.com^
 @@||media.freeones.com^
-@@||media.githubusercontent.com^
 @@||media.kaspersky.com^
 @@||media.kingston.com^
 @@||media.moddb.com^
@@ -5276,7 +5283,6 @@
 @@||unix.stackexchange.com^
 @@||unleash-edge.nexusmods.com^
 @@||unrealengine.com^
-@@||unsplash.com^
 @@||up*.1fichier.com^
 @@||up*.debrid.link^
 @@||upchk.api.playstation.com^
