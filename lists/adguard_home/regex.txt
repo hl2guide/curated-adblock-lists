@@ -14,6 +14,13 @@
 ! TESTING FOR PERFORMANCE IN ADGUARD HOME, MAY 2025
 ! '\S+' means one or more non-whitespace characters
 
+! Custom October
+!/^[aAbBcC]/
+! Blocks all non-ASCII characters
+/[^\x00-\x7F]/
+! Blocks long domains
+/[A-Za-z0-9\-]{40}/
+
 ! Regular Expressions to block unwanted TLDs
 ! Ends with: .aaa, .abc, .able etc
 /\S+\.(aaa|aarp|abb|abbott|abbvie|abc|able|abogado|abudhabi|academy|accenture|accountant|accountants|aco|actor|ads|adult|aeg|aero|aetna|afl|africa|agakhan|agency)$/
