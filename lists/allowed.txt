@@ -10,6 +10,23 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+@@||ailo-assets.*.amazonaws.com^
+@@||file-service.ailo.io^
+@@||prod.ivs-device-config.live-video.net^
+@@||support.scorptec.com.au^
+
+@@||*.gigacomm.net.au.prod.hosts.ooklaserver.net^
+@@||*.gigacomm.net.au^
+@@||*.optusnet.com.au^
+@@||*.speedtest.leaptel.com.au.prod.hosts.ooklaserver.net^
+@@||*.speedtest.leaptel.com.au^
+@@||_8080._https.*.gigacomm.net.au.prod.hosts.ooklaserver.net^
+@@||_8080._https.*.optusnet.com.au^
+@@||_8080._https.speedtest*.optusnet.com.au^
+@@||speedtest-*.optusnet.com.au^
+@@||speedtest.*.launtel.net.au.prod.hosts.ooklaserver.net^
+@@||speedtest.*.launtel.net.au^
+
 @@||appleid.cdn-apple.com^
 
 ! CachyOS
