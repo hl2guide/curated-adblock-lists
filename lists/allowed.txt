@@ -10,6 +10,26 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+@@||appleid.cdn-apple.com^
+
+! CachyOS
+@@||arch.mirror.constant.com^
+@@||at.mirrors.cicku.me^
+@@||aur.cachyos.org^
+@@||cdn-1.cachyos.org^
+@@||cdn77.cachyos.org^
+@@||downloads.ntlite.com^
+@@||es.mirrors.cicku.me^
+@@||glances.readthedocs.io^
+@@||hypr.land^
+@@||mirror.cachyos.org^
+@@||mirror.fast0ne.com^
+@@||mirror.nju.edu.cn^
+@@||mirror.osbeck.com^
+@@||nl.mirrors.cicku.me^
+@@||us.arch.niranjan.co^
+@@||us.cachyos.org^
+
 ! Oct 2025
 @@||ntp.anu.edu.au^
 @@||i111.fastpic.org^
