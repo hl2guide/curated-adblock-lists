@@ -2,7 +2,7 @@
 
 ! Title: ⚒️ Curated Adblock List - Productivity
 ! Description: A curated adblock list for productivity sites.
-! Last Modified: 2025-10-25 17:26:09 +1100
+! Last Modified: 2025-10-26 20:43:19 +1100
 ! Version: 1.0.0.4
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -11,52 +11,70 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
-@@||duck.ai^$important
+@@||appleid.cdn-apple.com^
 
-@@||guest.ailo.io^$important
-@@||microsoft.design^$important
-@@||router-consumer.ailo.io^$important
+! CachyOS
+@@||arch.mirror.constant.com^
+@@||at.mirrors.cicku.me^
+@@||aur.cachyos.org^
+@@||cdn-1.cachyos.org^
+@@||cdn77.cachyos.org^
+@@||downloads.ntlite.com^
+@@||es.mirrors.cicku.me^
+@@||glances.readthedocs.io^
+@@||hypr.land^
+@@||mirror.cachyos.org^
+@@||mirror.fast0ne.com^
+@@||mirror.nju.edu.cn^
+@@||mirror.osbeck.com^
+@@||nl.mirrors.cicku.me^
+@@||us.arch.niranjan.co^
+@@||us.cachyos.org^
 
-@@||www.neowin.net^$important
-@@||dir-apis.samsungdm.com^$important
-@@||ape-androids.isappcloud.com^$important
-@@||lpa.live.esimdiscovery.com^$important
+@@||tick.stdtime.gov.au^
+@@||pypi.python.org^
 
 @@||duck.ai^
+
+@@||guest.ailo.io^
+@@||microsoft.design^
+@@||router-consumer.ailo.io^
+
 @@||www.neowin.net^
+@@||dir-apis.samsungdm.com^
+@@||ape-androids.isappcloud.com^
+@@||lpa.live.esimdiscovery.com^
 
 ! Speed Test
-@@||_8080._https.*.aarnet.net.au^$important
-@@||_8080._https.*.exetel.com.au^$important
-@@||_8080._https.*.ooklaserver.net^$important
-@@||_8080._https.*.speedtest.telstra.net^$important
-@@||speedtest-*.optusnet.com.au^$important
-@@||speedtest-*.speedtest.net^$important
-@@||speedtest.*.ooklaserver.net^$important
+@@||_8080._https.*.aarnet.net.au^
+@@||_8080._https.*.exetel.com.au^
+@@||_8080._https.*.ooklaserver.net^
+@@||_8080._https.*.speedtest.telstra.net^
+@@||speedtest-*.optusnet.com.au^
+@@||speedtest-*.speedtest.net^
+@@||speedtest.*.ooklaserver.net^
 
-@@||apac.kingston.com^$important
-@@||duck.ai^$important
-@@||www.neowin.net^$important
+@@||apac.kingston.com^
 @@||perplexity.ai^
 @@||badblock.celenity.dev^
 
 ! Speed Test for NetFlix
-@@||*.nflxso.net^$important
-@@||assets.nflxext.com^$important
-@@||fast.com^$important
-@@||ipv4-*.nflxvideo.net^$important
+@@||*.nflxso.net^
+@@||assets.nflxext.com^
+@@||fast.com^
+@@||ipv4-*.nflxvideo.net^
 
 ! Brave
-@@||usage-ping.brave.com^$important
-@@||sync-v2.brave.com^$important
+@@||usage-ping.brave.com^
+@@||sync-v2.brave.com^
 
-@@||aiqua-sdk.c.appier.net^$important
-@@||aiqua-user.c.appier.net^$important
-@@||android-context-data.googleapis.com^$important
-@@||callback.api.qgraph.io^$important
-@@||cdn.qgr.ph^$important
-@@||cdn.qgraph.io^$important
-@@||config.mapbox.com^$important
+@@||aiqua-sdk.c.appier.net^
+@@||aiqua-user.c.appier.net^
+@@||android-context-data.googleapis.com^
+@@||callback.api.qgraph.io^
+@@||cdn.qgr.ph^
+@@||cdn.qgraph.io^
+@@||config.mapbox.com^
 
 ! MEGA File Transfers
 @@||transfer.it^
