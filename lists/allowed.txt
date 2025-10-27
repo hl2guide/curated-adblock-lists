@@ -1,14 +1,48 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-10-26 02:09:19 +1100
-! Version: 1.0.1.16
+! Last Modified: 2025-10-28 06:00:22 +1100
+! Version: 1.0.1.17
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
 ! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! GOG Galaxy Survey
+@@||www.smartsurvey.co.uk^
+@@||files.smartsurvey.io^
+
+! ATO (Australian Tax Office)
+@@||ato.gov.au^
+@@||business.gov.au^
+@@||static.ato.gov.au^
+@@||business.gov.au^
+@@||secure.ato.gov.au^
+@@||apps.ato.gov.au^
+@@||sso.gov.au^
+@@||apps.gov.au^
+@@||payments.gov.au^
+
+! Tubi TV
+@@||api.vhx.com^
+@@||vhx.imgix.net^
+
+@@||wwwfile.realtek.com^
+@@||api6.ipify.org^
+@@||licensing.ntlite.com^
+@@||images.valnetcdn.com^
+@@||static0.xdaimages.com^
+@@||wiki.cachyos.org^
+
+! Microsoft CDN
+@@||edgecdn-embza6g8cacagcbn.z01.azurefd.net^
+@@||securityintelligencecenter-prod-westus.azurewebsites.net^
+
+! Bleeping Computer
+@@||www.bleepingcomputer.com^
+@@||www.bleepstatic.com^
 
 @@||ailo-assets.*.amazonaws.com^
 @@||file-service.ailo.io^
