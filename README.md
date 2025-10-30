@@ -6,7 +6,7 @@ I recommend that these lists are used in the [Mozilla Firefox](https://www.mozil
 
 I also test this list in the **Brave** browser with the **AdGuard** or the **uBlock Origin** browser extensions.
 
-- Last updated: 2025-10-29 14:58:05 +1100
+- Last updated: 2025-10-30 15:36:38 +1100
 - Version: 1.0.1.4
 
 I've created these lists to improve and cleanup sites I visit frequently. More filters will be added during 2025, the lists will avoid heavy filters that have a performance impact.
