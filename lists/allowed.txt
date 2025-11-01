@@ -1,14 +1,46 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-10-30 15:36:27 +1100
-! Version: 1.0.1.19
+! Last Modified: 2025-11-01 11:45:31 +1100
+! Version: 1.0.1.20
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
 ! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! Misc
+@@||account.api.here.com^
+@@||cachyos.org^
+@@||cas-bridge.xethub.hf.co^
+@@||csc3-2010-crl.verisign.com^
+@@||huggingface.co^
+@@||img-resize-cdn-prod.samsungnyc.com^
+@@||internalcheck.corp.blizzard.net^
+@@||jan.ai^
+@@||mozilla.map.fastly.net^
+@@||ollama.com^
+@@||opensource.org^
+@@||us-east-1-wego-backend-prd.api-gateway.ls.hereapi.com^
+@@||i126.fastpic.org^
+
+! Gaming
+@@||account.ubisoft.com^
+@@||account2-api.ubisoft.com^
+@@||avatars.ubisoft.com^
+@@||excp.blizzard.com^
+@@||fern.xboxservices.com^
+@@||itchio-mirror.*.r2.cloudflarestorage.com^
+@@||orders-history.ubi.com^
+@@||sparta-gw-bf4.battlelog.com^
+@@||static-account.ubisoft.com^
+@@||static-dm.ubisoft.com^
+@@||static-news.ubisoft.com^
+@@||static-overlay.ubisoft.com^
+@@||staticctf.ubisoft.com^
+@@||ubistatic-a.ubisoft.com^
+@@||ubistatic2-a.ubisoft.com^
 
 ! New
 @@||cachyos.org^
@@ -34,7 +66,6 @@
 @@||ato.gov.au^
 @@||business.gov.au^
 @@||static.ato.gov.au^
-@@||business.gov.au^
 @@||secure.ato.gov.au^
 @@||apps.ato.gov.au^
 @@||sso.gov.au^
@@ -1010,7 +1041,6 @@
 @@||async-px.dynamicyield.com^
 @@||atlas.eff.org^
 @@||atlassian.com^
-@@||ato.gov.au^
 @@||attestation.xboxlive.com^
 @@||au-odc.samsungapps.com^
 @@||au-syd-anx-r*.teamviewer.com^
