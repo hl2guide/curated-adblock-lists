@@ -1,14 +1,30 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-11-03 20:39:33 +1100
-! Version: 1.0.1.21
+! Last Modified: 2025-11-06 20:54:42 +1100
+! Version: 1.0.1.22
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
 ! Source RAW: https://raw.githubusercontent.com/hl2guide/curated-adblock-lists/refs/heads/main/lists/allowed.txt
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! Testing - Nov 2025
+@@||*prod.blob.core.windows.net^
+@@||apps.omegatheme.com^
+@@||aviationweather.gov^
+@@||cdn.rollbar.com^
+@@||findnms.samsungiotcloud.com^
+@@||keychron.com.au^
+@@||launcher.keychron.com^
+@@||me.plexapp.com^
+@@||schemaplusfiles.s3.amazonaws.com^
+@@||tplinklogin.net^
+@@||tplinkrepeater.net^
+@@||www.keychron.com^
+
+! TESTED =======================================================================
 
 ! New Nov 2025
 @@||abproxy.production-public.tubi.io^
@@ -256,18 +272,16 @@
 @@||dl.itch.zone
 
 ! Samsung TV
-@@||amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv
-@@||amg00426-littledotstudio-realcrime-samsungau-piah8.amagi.tv
-@@||amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv
-@@||amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv
-@@||cdn-media.brightline.tv
-@@||cdn-singapore-5160-prod.tsv2.amagi.tv
-@@||services.brightline.tv
+@@||amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv^
+@@||amg00426-littledotstudio-realcrime-samsungau-piah8.amagi.tv^
+@@||amg00654-itv-amg00654c4-samsung-au-998.playouts.now.amagi.tv^
+@@||amg02873-kravemedia-mtrspt1-samsungau-2anp4.amagi.tv^
+@@||cdn-media.brightline.tv^
+@@||cdn-singapore-5160-prod.tsv2.amagi.tv^
+@@||services.brightline.tv^
 
 ! CDN
-@@||*.optimizely.com
-
-! Tested
+@@||*.optimizely.com^
 
 @@||cdprojekt.red^
 @@||codepoems.eu^
