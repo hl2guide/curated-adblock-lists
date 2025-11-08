@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-11-06 20:54:42 +1100
+! Last Modified: 2025-11-08 18:56:09 +1100
 ! Version: 1.0.1.22
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -11,17 +11,28 @@
 ! Copyright: hl2guide
 
 ! Testing - Nov 2025
+!@@||edge.avangate.net^
+!@@||static.avangate.net^
+@@||*.akamai.hls.ttvnw.net^
+@@||*.sonicbit.cloud^
 @@||*prod.blob.core.windows.net^
 @@||apps.omegatheme.com^
 @@||aviationweather.gov^
+@@||cdn-icons-png.flaticon.com^
 @@||cdn.rollbar.com^
 @@||findnms.samsungiotcloud.com^
+@@||freshrss.org^
+@@||icons.iconarchive.com^
 @@||keychron.com.au^
 @@||launcher.keychron.com^
 @@||me.plexapp.com^
+@@||myer-media.com.au^
+@@||myr-cdn.truefitcorp.com^
+@@||rapid-cdn.yottaa.com^
 @@||schemaplusfiles.s3.amazonaws.com^
 @@||tplinklogin.net^
 @@||tplinkrepeater.net^
+@@||www.browserstack.com^
 @@||www.keychron.com^
 
 ! TESTED =======================================================================
