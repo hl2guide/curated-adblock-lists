@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-11-11 12:38:40 +1100
-! Version: 1.0.1.23
+! Last Modified: 2025-11-12 14:42:19 +1100
+! Version: 1.0.1.24
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,11 @@
 ! Copyright: hl2guide
 
 ! Testing - Nov 2025
+@@||mozilla-download.fastly-edge.com^
+@@||pcgamingwiki.ams3.digitaloceanspaces.com^
+@@||pcgamingwiki.com^
+@@||prod.ohttp-gateway.prod.webservices.mozgcp.net^
+
 @@||irp.cdn-website.com^
 @@||lirp.cdn-website.com^
 @@||sandboxie-plus.com^
@@ -6200,7 +6205,6 @@
 @@||xbox.ipv6.microsoft.com^
 @@||xboxdesignlab.xbox.com^
 @@||xboxexperiencesprod.experimentation.xboxlive.com^
-@@||xboxlive.com
 @@||xboxlive.com^
 @@||xccs.xboxlive.com^
 @@||xda-developers.com^
@@ -6239,16 +6243,16 @@
 @@||yps.link^
 @@||ypu.samsungelectronics.com^
 @@||yt-dl.org^
-@@||yt1.ggpht.com^
-@@||yt2.ggpht.com^
-@@||yt3.ggpht.com^
+@@||yt*.ggpht.com^
+! @@||yt2.ggpht.com^
+! @@||yt3.ggpht.com^
 @@||yt3.googleusercontent.com^
-@@||yt4.ggpht.com^
-@@||yt5.ggpht.com^
-@@||yt6.ggpht.com^
-@@||yt7.ggpht.com^
-@@||yt8.ggpht.com^
-@@||yt9.ggpht.com^
+!@@||yt4.ggpht.com^
+!@@||yt5.ggpht.com^
+!@@||yt6.ggpht.com^
+!@@||yt7.ggpht.com^
+!@@||yt8.ggpht.com^
+!@@||yt9.ggpht.com^
 @@||ytimg.l.google.com^
 @@||zady.cdntrex.com^
 @@||zd.map.fastly.net^
