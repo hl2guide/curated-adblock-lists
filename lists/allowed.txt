@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-11-12 14:42:19 +1100
+! Last Modified: 2025-11-15 18:11:50 +1100
 ! Version: 1.0.1.24
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
@@ -11,6 +11,29 @@
 ! Copyright: hl2guide
 
 ! Testing - Nov 2025
+@@||a.aomeisoftware.com^
+@@||ark.tubi.video^
+@@||cachyos.doridian.net^
+@@||cdn-node.diskpart.com^
+@@||dappcdn.com^
+@@||dl.atola.com^
+@@||framer.com^
+@@||framerusercontent.com^
+@@||images.minitool.com^
+@@||multidrive.io^
+@@||nc-aka2.tubi.video^
+@@||productionresult*.blob.core.windows.net^
+@@||register.ubisoft.com^
+@@||res.public.onecdn.static.microsoft^
+@@||search.production-public.tubi.io^
+@@||static.ubackup.com^
+@@||store.ubisoft.com^
+@@||thumbnail-sprite.tubi.video^
+@@||vsmarketplacebadges.dev^
+@@||winhance.net^
+@@||www.minitool.com^
+@@||xpaywalletcdn-prod.azureedge.net^
+
 @@||mozilla-download.fastly-edge.com^
 @@||pcgamingwiki.ams3.digitaloceanspaces.com^
 @@||pcgamingwiki.com^
