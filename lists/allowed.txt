@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-11-15 18:11:50 +1100
-! Version: 1.0.1.24
+! Last Modified: 2025-11-18 11:13:05 +1100
+! Version: 1.0.1.25
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -10,7 +10,21 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
-! Testing - Nov 2025
+! Latest
+@@||api-dr.ageofempires.com^
+@@||developer.chrome.com^
+@@||dl.paragon-software.com^
+@@||dr-activerelease1-api.worldsedgelink.com^
+@@||elfcardinal-eventhub.servicebus.windows.net^
+@@||it-essentials.paragon-software.com^
+@@||mirror.funami.tech^
+@@||mozilla-ohttp.fastly-edge.com^
+@@||oisd.nl^
+@@||pg.ziffstatic.com^
+@@||www.paragon-software.com^
+
+! TESTED =======================================================================
+
 @@||a.aomeisoftware.com^
 @@||ark.tubi.video^
 @@||cachyos.doridian.net^
@@ -68,8 +82,6 @@
 @@||tplinkrepeater.net^
 @@||www.browserstack.com^
 @@||www.keychron.com^
-
-! TESTED =======================================================================
 
 ! New Nov 2025
 @@||abproxy.production-public.tubi.io^
