@@ -2,8 +2,8 @@
 
 ! Title: 💻 Curated Adblock List (high impact) - Coding
 ! Description: A curated high impact adblock list for coding.
-! Last Modified: 2025-10-09 17:43:47 +1100
-! Version: 1.0.0.5
+! Last Modified: 2025-11-20 18:18:59 +1100
+! Version: 1.0.0.6
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -23,8 +23,9 @@
 ! Hides junk from the GitHub home feeds page
 !github.com#?#article:has-text(/preview|beta/)
 
-@@||send.now^
 @@||launcher.keychron.com^
+@@||send.now^
+@@||www.renpy.org^
 
 @@||webhint.io^
 @@||stylelint.io^
@@ -32,13 +33,13 @@
 @@||edge_webhint.io^
 
 # AI Model downloads for Jan app
-@@||huggingface.co^$important
-@@||cas-bridge.xethub.hf.co^$important
+@@||huggingface.co^
+@@||cas-bridge.xethub.hf.co^
 
 ! Hides ad NodeJS
 nodejs.org###home-intro > a:nth-child(2)
 
-@@||black.readthedocs.io^$important
+@@||black.readthedocs.io^
 @@||jan.ai^
 @@||bazzite.gg^
 @@||react.dev^
