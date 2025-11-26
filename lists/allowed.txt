@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-11-26 13:52:14 +1100
-! Version: 1.0.1.32
+! Last Modified: 2025-11-26 16:09:13 +1100
+! Version: 1.0.1.33
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -16,11 +16,28 @@
 @@||main.positioning.hereapi.com^
 @@||tlsapi.samsungqbe.com^
 @@||weather.api.here.com^
+@@||b.stripecdn.com^
 
 ! CachyOS Mirrors for Updates
-@@||de-nue.soulharsh007.dev^
-@@||mirror.meowsmp.net^
+@@||archlinux.mirror.wearetriple.com^
+@@||berlin.mirror.pkgbuild.com^
 @@||cachyos.next-works.it^
+@@||de-nue.soulharsh007.dev^
+@@||frankfurt.mirror.pkgbuild.com^
+@@||london.mirror.pkgbuild.com^
+@@||mirror.cmt.de^
+@@||mirror.krfoss.org^
+@@||mirror.meowsmp.net^
+@@||mirror.metalgamer.eu^
+@@||mirror.netcologne.de^
+@@||mirror.netweaver.uk^
+@@||mirror.przekichane.pl^
+@@||mirror.selfnet.de^
+@@||mirror.sunred.org^
+@@||mirrors.dotsrc.org^
+@@||mirrors.janbruckner.de^
+@@||mirrors.jtremesay.org^
+@@||mirrors.kernel.org^
 
 ! TESTED =======================================================================
 
