@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-11-26 16:09:13 +1100
-! Version: 1.0.1.33
+! Last Modified: 2025-12-01 13:42:43 +1100
+! Version: 1.0.1.34
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,12 +11,39 @@
 ! Copyright: hl2guide
 
 ! Latest
+@@||api.met.no^
+@@||at.arch.niranjan.co^
+@@||cdn.steamusercontent.com^
+@@||de.arch.niranjan.co^
+@@||fastly.mirror.pkgbuild.com^
+@@||fi.arch.niranjan.co^
+@@||geocoding-api.open-meteo.com^
+@@||jellyfin.org^
+@@||johannesburg.mirror.pkgbuild.com^
+@@||kodi.mirror.garr.it^
+@@||linorg.usp.br^
+@@||losangeles.mirror.pkgbuild.com^
+@@||mirror.accum.se^
+@@||mirror.lagoon.nc^
+@@||mirror.ufs.ac.za^
+@@||musicbrainz.org^
+@@||nz.arch.niranjan.co^
+@@||rainmeter.net^
+@@||singapore.mirror.pkgbuild.com^
+@@||speedtest.*.prod.hosts.ooklaserver.net^
+@@||tile.openstreetmap.org^
+@@||umea.mirror.pkgbuild.com^
+@@||www.rainmeter.net^
+@@||www.theaudiodb.com^
+
+! TESTED =======================================================================
+
+@@||b.stripecdn.com^
 @@||checkout.steampowered.com^
 @@||direct.data.api.platform.here.com^
 @@||main.positioning.hereapi.com^
 @@||tlsapi.samsungqbe.com^
 @@||weather.api.here.com^
-@@||b.stripecdn.com^
 
 ! CachyOS Mirrors for Updates
 @@||archlinux.mirror.wearetriple.com^
@@ -38,8 +65,6 @@
 @@||mirrors.janbruckner.de^
 @@||mirrors.jtremesay.org^
 @@||mirrors.kernel.org^
-
-! TESTED =======================================================================
 
 @@||aps1-homeshield.i.tplinkcloud.com^
 @@||assets.blz-contentstack.com^
