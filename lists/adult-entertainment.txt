@@ -2,15 +2,36 @@
 
 ! Title: 🤫 Adult Entertainment Private Custom Adblock List
 ! Description: A custom adblock list for use in Adblock Origin and similar.
-! Last Modified: 2025-09-21 23:13:26 +1000
-! Version: 1.0.0.2
+! Last Modified: 2025-12-03 09:38:33 +1100
+! Version: 1.0.0.3
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Author: hl2guide
 ! Copyright: hl2guide
 
-@@||images.nubiles-porn.com^$important
-@@||content2a.nubiles-porn.com^$important
+! Dec 2025
+@@||*.firebaseio.com^
+@@||api2.reptyle.com^
+@@||app.reptyle.com^
+@@||content2a.nubiles-porn.com^
+@@||embed.videodelivery.net^
+@@||free-at-assets.gammacdn.com^
+@@||hrsvzn.psmcode.com^
+@@||images.nubiles-porn.com^
+@@||imagetransform.icfcdn.com^
+@@||kosmos-prod.react.gammacdn.com^
+@@||ma-store.reptyle.com^
+@@||matomo.psmcode.com^
+@@||members.reptyle.com^
+@@||porndeals.com^
+@@||psmhelp.com^
+@@||static01-cms-evilangel.gammacdn.com^
+@@||static01-cms-fame.gammacdn.com^
+@@||static03-cms-fame.gammacdn.com^
+@@||transform.gammacdn.com^
+@@||www.adulttime.xxx^
+@@||www.psmhelp.com^
+@@||www.reptyle.com^
 
 ! Cleans up newsensations.com
 newsensations.com##.modelArea.clear.modelPage
@@ -21,9 +42,9 @@ newsensations.com##.indRight
 newsensations.com##.content_wrapper > div.centerwrap.clear:nth-of-type(2) > div:nth-of-type(5)
 
 ! Block Lovense
-||media-pattern.lovense-api.com^$important
-||apps2.lovense-api.com^$important
-||surfease.vibemate.com^$important
+||media-pattern.lovense-api.com^
+||apps2.lovense-api.com^
+||surfease.vibemate.com^
 
 ! Recent
 @@||cdn.pcdn.li^

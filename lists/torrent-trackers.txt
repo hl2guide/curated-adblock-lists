@@ -10,6 +10,14 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+@@||bittorrent-tracker.e-n-c-r-y-p-t.net^
+@@||tracker.alaskantf.com^
+@@||tracker.dhitechnical.com^
+@@||tracker.flatuslifir.is^
+@@||tracker.qingwa.pro^
+@@||tracker.vraphim.com^
+@@||tracker.zhuqiy.com^
+
 ! Torrent Trackers - Nov 2025
 @@||extracker.dahrkael.net^
 @@||open.demonoid.ch^
