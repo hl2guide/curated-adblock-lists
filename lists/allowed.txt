@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-12-03 09:38:41 +1100
-! Version: 1.0.1.35
+! Last Modified: 2025-12-04 19:03:04 +1100
+! Version: 1.0.1.36
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,17 +11,19 @@
 ! Copyright: hl2guide
 
 ! Latest
-@@||cdn*.gpsoft.com.au^
-@@||fast.wistia.net^
-@@||github.gallerycdn.azure.cn^
-@@||ms-vscode.gallerycdn.azure.cn^
 @@||api.met.no^
+@@||api.scentregroup.io^
 @@||at.arch.niranjan.co^
+@@||cdn*.gpsoft.com.au^
 @@||cdn.steamusercontent.com^
 @@||de.arch.niranjan.co^
+@@||dns.surfsharkdns.com^
+@@||fast.wistia.net^
 @@||fastly.mirror.pkgbuild.com^
 @@||fi.arch.niranjan.co^
 @@||geocoding-api.open-meteo.com^
+@@||github.gallerycdn.azure.cn^
+@@||images.scentregroup.io^
 @@||jellyfin.org^
 @@||johannesburg.mirror.pkgbuild.com^
 @@||kodi.mirror.garr.it^
@@ -30,14 +32,26 @@
 @@||mirror.accum.se^
 @@||mirror.lagoon.nc^
 @@||mirror.ufs.ac.za^
+@@||ms-vscode.gallerycdn.azure.cn^
+@@||mullvad.net^
 @@||musicbrainz.org^
+@@||nc-aka.tubi.video^
 @@||nz.arch.niranjan.co^
+@@||pypi-camo.freetls.fastly.net^
+@@||rabbitdns.org^
 @@||rainmeter.net^
+@@||ravenreader.app^
 @@||singapore.mirror.pkgbuild.com^
 @@||speedtest.*.prod.hosts.ooklaserver.net^
+@@||support.brave.app^
 @@||tile.openstreetmap.org^
 @@||umea.mirror.pkgbuild.com^
+@@||website-assets.prd.scentregroup.io^
+@@||winaerotweaker.com^
+@@||www.ecosia.org^
+@@||www.mojeek.com^
 @@||www.rainmeter.net^
+@@||www.startpage.com^
 @@||www.theaudiodb.com^
 
 ! TESTED =======================================================================
