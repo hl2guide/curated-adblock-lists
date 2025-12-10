@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-12-07 11:31:46 +1100
-! Version: 1.0.1.37
+! Last Modified: 2025-12-10 12:08:00 +1100
+! Version: 1.0.1.38
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,11 +11,27 @@
 ! Copyright: hl2guide
 
 ! Latest
+
+! Amaysim
+@@||accounts.amaysim.com.au^
+@@||amaysimaustralia.zendesk.com^
+@@||api.amaysim.com.au^
+@@||help.amaysim.com.au^
+@@||pod-15-sunco-ws.zendesk.com^
+
+@@||adwcleaner.malwarebytes.com^
 @@||fastly-cdn.system-rescue.org^
+@@||license.adrise.tv^
 @@||login.vivaldi.net^
 @@||media.grc.com^
+@@||pcpartpicker.com^
+@@||perplexity-ai.cloudflareaccess.com^
 @@||player.stats.live-video.net^
+@@||r2cdn.perplexity.ai^
+@@||thegameawards.com^
 @@||video-edge-*.hls.live-video.net^
+@@||videoencodingpublic-*.azurefd.net^
+@@||web-service.malwarebytes.com^
 @@||www.grctech.com^
 @@||www.system-rescue.org^
 
