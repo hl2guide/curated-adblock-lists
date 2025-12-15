@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-12-13 13:53:34 +1100
-! Version: 1.0.1.40
+! Last Modified: 2025-12-15 21:52:30 +1100
+! Version: 1.0.1.41
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,20 @@
 ! Copyright: hl2guide
 
 ! Latest
+@@||glances.readthedocs.io^
+@@||gofile.io^
+@@||hypr.land^
+@@||images.scentregroup.io^
+@@||kopia.io^
+@@||multidrive.io^
+@@||nextdns.io^
+@@||oisd.nl^
+@@||ravenreader.app^
+@@||s1.nlocker.app^
+@@||website-assets.prd.scentregroup.io^
+
+! ARCHIVED =====================================================================
+
 @@||amazon.com.au^
 @@||duck.ai^
 @@||foxp.www.vivox.com^
@@ -19,7 +33,7 @@
 ! Network audio for games
 @@||foxp-mim.vivox.com^$important
 ! GOG Checkout Images
-@@||checkoutshopper-live.cdn.adyen.com^$important
+@@||checkoutshopper-live.cdn.adyen.com^
 
 ! Amaysim
 @@||accounts.amaysim.com.au^
@@ -43,8 +57,6 @@
 @@||web-service.malwarebytes.com^
 @@||www.grctech.com^
 @@||www.system-rescue.org^
-
-! ARCHIVED =====================================================================
 
 @@||api.met.no^
 @@||api.scentregroup.io^
