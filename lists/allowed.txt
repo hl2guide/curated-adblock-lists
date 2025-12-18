@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-12-15 21:52:30 +1100
-! Version: 1.0.1.41
+! Last Modified: 2025-12-18 14:35:52 +1100
+! Version: 1.0.1.42
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -10,28 +10,41 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
-! Latest
+! LATEST =======================================================================
+
+@@||amaysim.com.au^
+@@||cdn.stape.io^
+@@||es11.samsung-sm-ds.com^
 @@||glances.readthedocs.io^
 @@||gofile.io^
+@@||gog-cdn.us-eu.map.fastly.net^
 @@||hypr.land^
+@@||images-1.gog-statics_100.jpg^
 @@||images.scentregroup.io^
 @@||kopia.io^
 @@||multidrive.io^
 @@||nextdns.io^
+@@||nordlocker.com^
 @@||oisd.nl^
 @@||ravenreader.app^
 @@||s1.nlocker.app^
+@@||s1.nordcdn.com^
+@@||snap.licdn.com^
+@@||svgedit.netlify.app^
+@@||tv.google^
 @@||website-assets.prd.scentregroup.io^
+@@||www.disk-image.com^
+@@||www.renpy.org^
 
 ! ARCHIVED =====================================================================
 
 @@||amazon.com.au^
 @@||duck.ai^
-@@||foxp.www.vivox.com^
 @@||video.ebaycdn.net^
 
 ! Network audio for games
-@@||foxp-mim.vivox.com^$important
+@@||foxp-mim.vivox.com^
+@@||foxp.www.vivox.com^
 ! GOG Checkout Images
 @@||checkoutshopper-live.cdn.adyen.com^
 
@@ -70,7 +83,6 @@
 @@||fi.arch.niranjan.co^
 @@||geocoding-api.open-meteo.com^
 @@||github.gallerycdn.azure.cn^
-@@||images.scentregroup.io^
 @@||jellyfin.org^
 @@||johannesburg.mirror.pkgbuild.com^
 @@||kodi.mirror.garr.it^
@@ -87,13 +99,11 @@
 @@||pypi-camo.freetls.fastly.net^
 @@||rabbitdns.org^
 @@||rainmeter.net^
-@@||ravenreader.app^
 @@||singapore.mirror.pkgbuild.com^
 @@||speedtest.*.prod.hosts.ooklaserver.net^
 @@||support.brave.app^
 @@||tile.openstreetmap.org^
 @@||umea.mirror.pkgbuild.com^
-@@||website-assets.prd.scentregroup.io^
 @@||winaerotweaker.com^
 @@||www.ecosia.org^
 @@||www.mojeek.com^
@@ -154,14 +164,12 @@
 @@||elfcardinal-eventhub.servicebus.windows.net^
 @@||embydata.com^
 @@||it-essentials.paragon-software.com^
-@@||kopia.io^
 @@||mirror.funami.tech^
 @@||mirror.hb9hil.org^
 @@||mirror.lesviallon.fr^
 @@||mirror.limda.net^
 @@||mozilla-ohttp.fastly-edge.com^
 @@||nvidia.custhelp.com^
-@@||oisd.nl^
 @@||pg.ziffstatic.com^
 @@||s.adrise.tv^
 @@||secqt-fota-dn.samsungdm.com^
@@ -183,7 +191,6 @@
 @@||framer.com^
 @@||framerusercontent.com^
 @@||images.minitool.com^
-@@||multidrive.io^
 @@||nc-aka2.tubi.video^
 @@||productionresult*.blob.core.windows.net^
 @@||register.ubisoft.com^
@@ -358,8 +365,6 @@
 @@||cdn77.cachyos.org^
 @@||downloads.ntlite.com^
 @@||es.mirrors.cicku.me^
-@@||glances.readthedocs.io^
-@@||hypr.land^
 @@||mirror.cachyos.org^
 @@||mirror.fast0ne.com^
 @@||mirror.nju.edu.cn^
