@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-12-18 14:35:52 +1100
-! Version: 1.0.1.42
+! Last Modified: 2025-12-21 15:49:10 +1100
+! Version: 1.0.1.43
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -12,10 +12,13 @@
 
 ! LATEST =======================================================================
 
+@@||accuraterip.com^
 @@||amaysim.com.au^
 @@||cdn.stape.io^
+@@||debloat.raphi.re^
 @@||es11.samsung-sm-ds.com^
 @@||glances.readthedocs.io^
+@@||gnudb.gnudb.org^
 @@||gofile.io^
 @@||gog-cdn.us-eu.map.fastly.net^
 @@||hypr.land^
@@ -26,14 +29,18 @@
 @@||nextdns.io^
 @@||nordlocker.com^
 @@||oisd.nl^
+@@||opentrackr.org^
+@@||raphi.re^
 @@||ravenreader.app^
 @@||s1.nlocker.app^
 @@||s1.nordcdn.com^
 @@||snap.licdn.com^
 @@||svgedit.netlify.app^
+@@||trilogyplus.com^
 @@||tv.google^
 @@||website-assets.prd.scentregroup.io^
 @@||www.disk-image.com^
+@@||www.freac.org^
 @@||www.renpy.org^
 
 ! ARCHIVED =====================================================================
