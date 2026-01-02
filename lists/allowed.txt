@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2025-12-27 17:18:10 +1100
-! Version: 1.0.1.45
+! Last Modified: 2026-01-02 21:57:57 +1100
+! Version: 1.0.1.46
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -12,10 +12,53 @@
 
 ! LATEST =======================================================================
 
+@@||0692f8bdd7b5.73840f8e.ap-southeast-2.captcha.awswaf.com^
+@@||0692f8bdd7b5.edge.captcha-sdk.awswaf.com^
+@@||0692f8bdd7b5.edge.sdk.awswaf.com^
 @@||api.themoviedb.org^
+@@||api4.thetvdb.com^
+@@||archlinux.gay^
+@@||assets.news-data-prod-aws-use1.aws.oath.cloud^
+@@||canstarblue.com.au^
+@@||cns-angular-content-prod-1.freetls.fastly.net^
+@@||config.samsungweather.com^
+@@||csslint.net^
+@@||fanart.tv^
+@@||ic.nordcdn.com^
+@@||jigsaw.w3.org^
+@@||media.themoviedb.org^
+@@||mirrors.ustc.edu.cn^
 @@||n8n.io^
 @@||n8niostorageaccount.blob.core.windows.net^
+@@||no.mirror.cx^
+@@||nobaraproject.org^
+@@||nordvpn.com^
+@@||qt-dn.gw.samsungapps.com^
+@@||sb.nordcdn.com^
+@@||static01-cms-evilangel.gammacdn.com^
+@@||static01-cms-fame.gammacdn.com^
+@@||static03-cms-fame.gammacdn.com^
+@@||steam.tv^
+@@||surfshark.com^
+@@||theporndb.net^
+@@||tracker.iochimari.moe^
+@@||tracker.therarbg.to^
+@@||tubi.tv^
+@@||tubitv.com^
+@@||us-mnz.soulharsh007.dev^
+@@||validator.schema.org^
+@@||validator.w3.org^
+@@||vpncdn.protonweb.com^
+@@||webservice.fanart.tv^
+@@||wp8q3hdhdz-1.algolianet.com^
+@@||wp8q3hdhdz-2.algolianet.com^
+@@||wp8q3hdhdz-3.algolianet.com^
+@@||wp8q3hdhdz-dsn.algolia.net^
+@@||www.canstar.com.au^
+@@||www.expressvpn.com^
+@@||www.minifier.org^
 @@||www.omdbapi.com^
+@@||www.themoviedb.org^
 
 @@||accuraterip.com^
 @@||amaysim.com.au^
