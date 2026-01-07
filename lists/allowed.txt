@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-01-06 16:34:33 +1100
-! Version: 1.0.1.47
+! Last Modified: 2026-01-08 10:23:20 +1100
+! Version: 1.0.1.48
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,17 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! Samsung
+@@||samsung-auth.edge.hiyaapi.com^
+@@||epdg.epc.mnc002.mcc505.pub.3gppnetwork.org^
+
+! Currency Conversion
+@@||api.frankfurter.app^
+
+! eSIM activation
+@@||lpa.ds.gsma.com^
+@@||rsp-3110.idemia.io^
 
 @@||sso.malwarebytes.com^
 @@||www.tangerine.com.au^
