@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-01-10 00:42:28 +1100
-! Version: 1.0.1.49
+! Last Modified: 2026-01-12 00:48:17 +1100
+! Version: 1.0.1.50
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -12,20 +12,28 @@
 
 ! LATEST =======================================================================
 
+@@||app.framerstatic.com^
+@@||artworks.thetvdb.com^
+@@||dockerstatic.com^
+@@||media.comfy.org^
+@@||sonarr.tv^
+@@||www.comfy.org^
+@@||www.perplexity.com^
+
 ! Router - TPLink
-@@||tplinkmodem.net^$important
-@@||*.tplinkcloud.com^$important
+@@||tplinkmodem.net^
+@@||*.tplinkcloud.com^
 
 ! Samsung Spam and Scam Call Protection
-@@||samsung-ingestion.edge.hiyaapi.com^$important
+@@||samsung-ingestion.edge.hiyaapi.com^
 
 ! AI Models for Ollama and "AI Toolkit for Visual Studio Code"
-@@||consentdeliveryfd.azurefd.net^$important
-@@||api.catalog.azureml.ms^$important
-@@||ai.azure.com^$important
-@@||s-cdn.anthropic.com^$important
-@@||registry.ollama.ai^$important
-@@||dd20bb891979d25aebc8bec07b2b3bbc.r2.cloudflarestorage.com^$important
+@@||consentdeliveryfd.azurefd.net^
+@@||api.catalog.azureml.ms^
+@@||ai.azure.com^
+@@||s-cdn.anthropic.com^
+@@||registry.ollama.ai^
+@@||dd20bb891979d25aebc8bec07b2b3bbc.r2.cloudflarestorage.com^
 
 ! Samsung
 @@||samsung-auth.edge.hiyaapi.com^
