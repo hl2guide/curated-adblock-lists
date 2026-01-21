@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-01-15 18:05:46 +1100
-! Version: 1.0.1.51
+! Last Modified: 2026-01-21 18:03:33 +1100
+! Version: 1.0.1.52
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -12,13 +12,30 @@
 
 ! LATEST =======================================================================
 
+! Tale of Two Wastelands - Fallout Mod
 @@||mod.pub^
+@@||mods-apac.*.r2.cloudflarestorage.com^
+
+@@||*.datatransfer.to^
+@@||activitycount.api.platform.here.com^
+@@||api-lyrics.simpmusic.org^
+@@||api.pipepipe.dev^
+@@||api.smartthings.com^
 @@||app.framerstatic.com^
 @@||artworks.thetvdb.com^
+@@||auth.api.smartthings.com^
+@@||data.norges-bank.no^
+@@||dl.todesktop.com^
 @@||dockerstatic.com^
+@@||download.comfy.org^
+@@||hub.samsungapps.com^
+@@||lyrics-api.boidu.dev^
 @@||media.comfy.org^
+@@||scs-config-use2.bixbyllm.com^
+@@||search.hereapi.com^
 @@||sonarr.tv^
 @@||www.comfy.org^
+@@||www.linuxjournal.com^
 @@||www.perplexity.com^
 
 ! Router - TPLink
