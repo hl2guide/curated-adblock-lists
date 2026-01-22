@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-01-21 18:03:33 +1100
-! Version: 1.0.1.52
+! Last Modified: 2026-01-23 00:20:56 +1100
+! Version: 1.0.1.53
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,21 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! Docker
+@@||api.docker.com^
+@@||api.offload.docker.com^
+@@||auth.docker.com^
+@@||dhi.io^
+@@||docker-images-prod.*.r2.cloudflarestorage.com^
+@@||mcp.docker.com^
+@@||prod-publishers-content.s3.us-east-1.amazonaws.com^
+
+! Torrent Trackers
+@@||cny.fan^
+@@||ns575949.ip-51-222-82.net^
+@@||tracker.bluefrog.pw^
+@@||trackr.appolon.dev^
 
 ! Tale of Two Wastelands - Fallout Mod
 @@||mod.pub^
