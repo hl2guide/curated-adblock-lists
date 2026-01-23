@@ -9,7 +9,7 @@ I also test this list in the **Brave** browser with the **AdGuard** or the **uBl
 - Last updated: 2026-01-21 18:05:17 +1100
 - Version: 1.0.1.12
 
-I've created these lists to improve and cleanup sites I visit frequently. More filters will be added during 2025, the lists will avoid heavy filters that have a performance impact.
+I've created these lists to improve and cleanup sites I visit frequently. More filters will be added over time. The lists will avoid heavy filters that have a performance impact.
 
 # Usage
 
