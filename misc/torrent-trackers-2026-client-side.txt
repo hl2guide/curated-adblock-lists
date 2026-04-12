@@ -151,6 +151,9 @@ https://http1.torrust-tracker-demo.com:443/announce
 https://mathkangaroo.jp:443/announce
 
 
+https://pybittrack.retiolus.net:443/announce
+
+
 https://shahidrazi.online:443/announce
 
 
@@ -176,6 +179,9 @@ https://tr.zukizuki.org:443/announce
 
 
 https://tracker-zhuqiy.xn--1r3au8b.space:443/announce
+
+
+https://tracker.7471.top:443/announce
 
 
 https://tracker.bjut.jp:443/announce
@@ -235,6 +241,9 @@ https://tracker.tamersunion.org:443/announce
 https://tracker.yemekyedim.com:443/announce
 
 
+https://tracker.yggleak.top:443/announce
+
+
 https://tracker.zhuqiy.com:443/announce
 
 
@@ -248,6 +257,9 @@ https://www.peckservers.com:9443/announce
 
 
 udp://6ahddutb1ucc3cp.ru:6969/announce
+
+
+udp://admin.52ywp.com:6969/announce
 
 
 udp://amigacity.xyz:6969/announce
@@ -373,6 +385,9 @@ udp://trackarr.org:6969/announce
 udp://tracker-udp.gbitt.info:80/announce
 
 
+udp://tracker.004430.xyz:1337/announce
+
+
 udp://tracker.0x7c0.com:6969/announce
 
 
@@ -436,6 +451,9 @@ udp://tracker.ixuexi.click:6969/announce
 udp://tracker.leechers-paradise.org:6969/announce
 
 
+udp://tracker.nyaa.vc:6969/announce
+
+
 udp://tracker.opentorrent.top:6969/announce
 
 
@@ -484,6 +502,9 @@ udp://tracker.tvunderground.org.ru:3218/announce
 udp://tracker.wepzone.net:6969/announce
 
 
+udp://tracker.wildkat.net:6969/announce
+
+
 udp://tracker.zer0day.to:1337/announce
 
 
@@ -515,6 +536,9 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 
 udp://wepzone.net:6969/announce
+
+
+udp://www.nartlof.com:6969/announce
 
 
 udp://www.torrent.eu.org:451/announce
