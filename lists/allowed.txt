@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-04-07 17:36:19 +1000
-! Version: 1.0.1.63
+! Last Modified: 2026-04-19 02:05:29 +1000 AEST
+! Version: 1.0.1.64
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,7 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
 ! April 2026
 @@||zerossl.com^
 @@||web.dev^
@@ -20,6 +21,31 @@
 @@||mirror.archlinux.no^
 @@||archlinux.doridian.net^
 @@||mirrors.middlendian.com^
+
+! Arch Linux and CachyOS Mirrors (2026-04-19 02:08:18 +1000 AEST)
+@@||arch.mirror.winslow.cloud^
+@@||arch.unixpeople.org^
+@@||archlinux.mirror.server24.net^
+@@||archlinux.ourhome.kiwi^
+@@||archlinux.richard-neumann.de^
+@@||archlinux.thaller.ws^
+@@||archlinux.uk.mirror.allworldit.com^
+@@||ca.mirror.cx^
+@@||cachyos-mirror.m1k.cloud^
+@@||hiraeth.jtremesay.org^
+@@||it.mirrors.cicku.me^
+@@||linux.cs.nycu.edu.tw^
+@@||mirror.adectra.com^
+@@||mirror.allthingslinux.org^
+@@||mirror.cachy-arch.ru^
+@@||mirror.mergedcloud.de^
+@@||mirror.raiolanetworks.com^
+@@||mirror.server.net^
+@@||mirrors.gandi.net^
+@@||mirrors.logal.dev^
+@@||nl.mirror.cx^
+@@||plug-mirror.rcac.purdue.edu^
+@@||taipei.mirror.pkgbuild.com^
 
 ! March 2026
 @@||assets.vercel.com^
