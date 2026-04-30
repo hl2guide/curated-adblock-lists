@@ -7,6 +7,9 @@ http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce
 http://bt.okmp3.ru:2710/announce
 
 
+http://bt1.archive.org:6969/announce
+
+
 http://bvarf.tracker.sh:2086/announce
 
 
@@ -166,6 +169,9 @@ https://t.213891.xyz:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 
 
+https://torrents.tmtime.dev:443/announce
+
+
 https://tr.abiir.top:443/announce
 
 
@@ -265,6 +271,9 @@ udp://admin.52ywp.com:6969/announce
 udp://amigacity.xyz:6969/announce
 
 
+udp://archive.torrentonline.cc:42069/announce
+
+
 udp://bandito.byterunner.io:6969/announce
 
 
@@ -344,6 +353,9 @@ udp://p4p.arenabg.com:1337/announce
 
 
 udp://public.demonoid.ch:6969/announce
+
+
+udp://retracker.hotplug.ru:2710/announce
 
 
 udp://retracker.lanta.me:2710/announce
@@ -437,6 +449,9 @@ udp://tracker.gigantino.net:6969/announce
 
 
 udp://tracker.gmi.gd:6969/announce
+
+
+udp://tracker.hismz.cn:6969/announce
 
 
 udp://tracker.internetwarriors.net:1337/announce
@@ -535,6 +550,9 @@ udp://udp1.torrust-tracker-demo.com:6969/announce
 udp://utracker.ghostchu-services.top:6969/announce
 
 
+udp://vito-tracker.duckdns.org:6969/announce
+
+
 udp://wepzone.net:6969/announce
 
 
@@ -542,6 +560,9 @@ udp://www.nartlof.com:6969/announce
 
 
 udp://www.torrent.eu.org:451/announce
+
+
+udp://yuptracker-eu.gaijinent.com:27022/announce
 
 
 udp://z.mercax.com:53/announce
