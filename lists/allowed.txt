@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-05-06 12:51:41 +1000
-! Version: 1.0.1.67
+! Last Modified: 2026-05-08 09:59:44 +1000
+! Version: 1.0.1.68
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,18 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! 2026-05-08 10:00:06 +1000
+@@||zed-*zed-production.c15t.dev^
+@@||zed-extensions.nyc3.digitaloceanspaces.com^
+@@||zed.dev^
+
+! GOG
+@@||cms.cdprojektred.com^
+@@||legacy-auth.live.cdpred.services^
+@@||legacy-users.live.cdpred.services^
+@@||marketing.live.cdpred.services^
+@@||redsights.live.cdpred.services^
 
 ! May 2026-05-06 12:51:33 +1000
 @@||accounts.cdprojektred.com^
