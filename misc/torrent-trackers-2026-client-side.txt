@@ -10,6 +10,9 @@ http://bt.okmp3.ru:2710/announce
 http://bt1.archive.org:6969/announce
 
 
+http://bt2.archive.org:6969/announce
+
+
 http://bvarf.tracker.sh:2086/announce
 
 
@@ -113,6 +116,9 @@ http://tracker.renfei.net:8080/announce
 
 
 http://tracker.skyts.net:6969/announce
+
+
+http://tracker.tritan.gg:8080/announce
 
 
 http://tracker.vraphim.com:6969/announce
@@ -334,7 +340,13 @@ udp://open.demonoid.ch:6969/announce
 udp://open.dstud.io:6969/announce
 
 
+udp://open.ftorrent.com:443/announce
+
+
 udp://open.stealth.si:80/announce
+
+
+udp://open.tracker.ink:6969/announce
 
 
 udp://opentor.org:2710/announce
@@ -493,6 +505,9 @@ udp://tracker.skyts.net:6969/announce
 udp://tracker.srv00.com:6969/announce
 
 
+udp://tracker.startwork.cv:1337/announce
+
+
 udp://tracker.t-1.org:6969/announce
 
 
@@ -503,6 +518,9 @@ udp://tracker.therarbg.to:6969/announce
 
 
 udp://tracker.torrent.eu.org:451/announce
+
+
+udp://tracker.torrentclaw.com:1337/announce
 
 
 udp://tracker.torrust-demo.com:6969/announce
@@ -535,6 +553,9 @@ udp://tracker3.t-1.org:6969/announce
 udp://ttk2.nbaonlineservice.com:6969/announce
 
 
+udp://u.peer-exchange.download:6969/announce
+
+
 udp://u4.trakx.crim.ist:1337/announce
 
 
@@ -551,6 +572,9 @@ udp://utracker.ghostchu-services.top:6969/announce
 
 
 udp://vito-tracker.duckdns.org:6969/announce
+
+
+udp://vito-tracker.space:6969/announce
 
 
 udp://wepzone.net:6969/announce

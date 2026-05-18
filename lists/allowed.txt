@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-05-08 09:59:44 +1000
-! Version: 1.0.1.68
+! Last Modified: 2026-05-18 17:49:42 +10:00
+! Version: 1.0.1.69
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,28 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! DNS Tester
+@@||addr.tools^$important
+@@||dnscheck.tools^$important
+@@||ipinfo.addr.tools^$important
+@@||myipv4.addr.tools^$important
+@@||myipv6.addr.tools^$important
+@@||test-*.null-addr.com^$important
+@@||test-*.null-addr.net^$important
+@@||test-*.null-addr.org^$important
+
+! 2026-05-18 17:49:42 +10:00
+@@||config.cococut.net^$important
+@@||hd6-steam-game.xiaoyoujuchang.com^$important
+@@||hd6-steam-login.xiaoyoujuchang.com^$important
+@@||head.protondb.pages.dev^$important
+@@||officeworks.com.au^$important
+@@||parser-config.cocoshot.net^$important
+@@||spcr.netlify.com^$important
+@@||svcs.ebay.com^$important
+@@||wpad.mshome.net^$important
+@@||www.seafoam-labs.org^$important
 
 ! 2026-05-08 10:00:06 +1000
 @@||zed-*zed-production.c15t.dev^
