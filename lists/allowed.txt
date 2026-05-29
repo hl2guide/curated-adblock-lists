@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-05-18 17:49:42 +10:00
-! Version: 1.0.1.69
+! Last Modified: 2026-05-30 06:09:51 +10:00
+! Version: 1.0.1.70
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,48 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! May 2026
+@@||brand.twitch.com^$important
+@@||connect.ebay.com^$important
+@@||genius.com^$important
+@@||steampeek.hu^$important
+@@||stg-sd-ui.samsungapis.com^$important
+@@||themes.vivaldi.net^$important
+@@||www.steampeek.hu^$important
+@@||zen-browser.app^$important
+@@||ziponthefly.energycdn.com^$important
+
+! Linux Mirrors
+@@||mirror.fr.cdn-perfprod.com^$important
+@@||mirror.griffith.edu.au^$important
+@@||mirror.keiminem.com^$important
+@@||mirror.linux.org.au^$important
+@@||mirror.moson.org^$important
+@@||mirror.techlabs.co.kr^$important
+@@||mirror.us.cdn-perfprod.com^$important
+@@||mirror.zyner.org^$important
+@@||mirror2.keiminem.com^$important
+@@||mirror2.keiminem.com^$important
+@@||mirror5.krfoss.org^$important
+@@||mirrors.nxtgen.com^$important
+
+! Korean Shows
+@@||1.viki.io^$important
+@@||1.vikiplatform.com^$important
+@@||api-gateway-global.viu.com^$important
+@@||api.viki.io^$important
+@@||awscdn.viu.com^$important
+@@||dms-api.viu.com^$important
+@@||icdn.kshow123.net^$important
+@@||kshow123.tv^$important
+@@||licensing.bitmovin.com^$important
+@@||lua.vidcloud.org^$important
+@@||mass.viu.com^$important
+@@||prod-frontend-assets.viu.com^$important
+@@||prod-images.viu.com^$important
+@@||viki.com^$important
+@@||www.viu.com^$important
 
 ! DNS Tester
 @@||addr.tools^$important
