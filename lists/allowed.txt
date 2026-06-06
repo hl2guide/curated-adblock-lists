@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-06-02 10:16:23 +10:00
-! Version: 1.0.1.71
+! Last Modified: 2026-06-06 21:32:44 +10:00
+! Version: 1.0.1.72
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,11 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! 2026-06-06 21:32:37 +10:00
+@@||boultbox-live.s3.*.backblazeb2.com^$important
+@@||boultbox.com^$important
+@@||help.notesnook.com^$important
 
 ! 2026-06-02 10:15:40 +10:00
 @@||assets-prod.sumo.prod.webservices.mozgcp.net^$important
@@ -33,6 +38,7 @@
 ! Linux Mirrors
 @@||mirror.fr.cdn-perfprod.com^$important
 @@||mirror.griffith.edu.au^$important
+@@||mirror.jura12.ru^$important
 @@||mirror.keiminem.com^$important
 @@||mirror.linux.org.au^$important
 @@||mirror.moson.org^$important
@@ -42,6 +48,7 @@
 @@||mirror2.keiminem.com^$important
 @@||mirror2.keiminem.com^$important
 @@||mirror5.krfoss.org^$important
+@@||mirrors.lansing2600.org^$important
 @@||mirrors.nxtgen.com^$important
 
 ! Korean Shows
