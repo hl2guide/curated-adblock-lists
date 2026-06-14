@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-06-12 11:12:00 +10:00
-! Version: 1.0.1.73
+! Last Modified: 2026-06-14 11:50:28 +10:00
+! Version: 1.0.1.74
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,52 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! 2026-06-14 11:51:07 +10:00
+@@||catppuccin.com^$important
+@@||consumerrights.wiki^$important
+@@||download.internetdownloadmanager.com^$important
+@@||files2.freedownloadmanager.org^$important
+@@||thelinuxbook.com^$important
+@@||up.freedownloadmanager.org^$important
+@@||userstyles.catppuccin.com^$important
+@@||www.freedownloadmanager.org^$important
+@@||www.internetdownloadmanager.com^$important
+
+! CachyOS Mirrors
+@@||arch.mirror.k0.ae^$important
+@@||archlinux.mirror-services.net^$important
+@@||archmirror1.octyl.net^$important
+@@||br.mirrors.cicku.me^$important
+@@||ca.mirrors.cicku.me^$important
+@@||ch.mirrors.cicku.me^$important
+@@||gb.mirrors.cicku.me^$important
+@@||geo.mirror.pkgbuild.com^$important
+@@||hk.mirrors.cicku.me^$important
+@@||mirror.archlinux.si^$important
+@@||mirror.bahnhof.net^$important
+@@||mirror.colonelhosting.com^$important
+@@||mirror.cs.odu.edu^$important
+@@||mirror.hashy0917.net^$important
+@@||mirror.lu.stratonexus.net^$important
+@@||mirror.mangohost.net^$important
+@@||mirror.mirohost.net^$important
+@@||mirror.mrleong.net^$important
+@@||mirror.st2projects.com^$important
+@@||mirror.twds.com.tw^$important
+@@||mirror.wdc1.us.leaseweb.net^$important
+@@||mirror.zackmyers.io^$important
+@@||mirrors.aminvakil.com^$important
+@@||mirrors.cat.net^$important
+@@||mirrors.huongnguyen.dev^$important
+@@||mirrors.iu13.net^$important
+@@||mirrors.nguyenhoang.cloud^$important
+@@||mirrors.pidginhost.com^$important
+@@||mirrors.sr.sonic.net^$important
+@@||mk.mirrors.mk^$important
+@@||sa.mirrors.cicku.me^$important
+@@||sg.mirrors.cicku.me^$important
+@@||us.mirrors.cicku.me^$important
 
 ! 2026-06-12 11:11:54 +10:00
 @@||certificates.godaddy.com^$important
