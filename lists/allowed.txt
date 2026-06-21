@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-06-20 19:40:44 +10:00
-! Version: 1.0.1.76
+! Last Modified: 2026-06-21 19:28:34 +10:00
+! Version: 1.0.1.77
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -12,8 +12,22 @@
 
 ! LATEST =======================================================================
 
+! Recent
+@@||*.hls.live-video.net^$important
+@@||addr.tools^$important
 @@||cert.ssl.com^$important
+@@||diskprices.com.au^$important
+@@||diskprices.com^$important
+@@||dnscheck.tools^$important
 @@||help.libreoffice.org^$important
+@@||imagemagick.org^$important
+@@||jpegxl.info^$important
+@@||myaddr.tools^$important
+@@||openwrt.org^$important
+@@||www.3dmark.com^$important
+@@||www.imagemagick.org^$important
+@@||www.jpegxl.info^$important
+@@||www.openwrt.org^$important
 
 ! DNSSEC Test at: https://dnscheck.tools/
 @@||data.iana.org^$important
@@ -131,7 +145,6 @@
 @@||mirror.us.cdn-perfprod.com^$important
 @@||mirror.zyner.org^$important
 @@||mirror2.keiminem.com^$important
-@@||mirror2.keiminem.com^$important
 @@||mirror5.krfoss.org^$important
 @@||mirrors.lansing2600.org^$important
 @@||mirrors.nxtgen.com^$important
@@ -154,8 +167,6 @@
 @@||www.viu.com^$important
 
 ! DNS Tester
-@@||addr.tools^$important
-@@||dnscheck.tools^$important
 @@||ipinfo.addr.tools^$important
 @@||myipv4.addr.tools^$important
 @@||myipv6.addr.tools^$important
@@ -1785,7 +1796,6 @@
 @@||audio-sp.spotify.com^
 @@||audioboom.com^
 @@||auditrecording-pa.googleapis.com^
-@@||aur.archlinux.org^
 @@||aus5.mozilla.org^
 @@||auspost.com.au^
 @@||australiaeast0-mediap.svc.ms^
