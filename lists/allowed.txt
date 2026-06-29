@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-06-21 19:28:34 +10:00
-! Version: 1.0.1.77
+! Last Modified: 2026-06-29 19:31:59 +10:00
+! Version: 1.0.1.78
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,25 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! Commbank Australia
+@@||www2.my.commbank.com.au^$important
+@@||cba.data.adobedc.net^$important
+@@||retail.group.api.commbank.com.au^$important
+@@||log-d8814f41.commbank.com.au^$important
+@@||payid.com.au^$important
+@@||edge.api.brightcove.com^$important
+
+@@||autosug.ebaystatic.com^$important
+@@||beta.music.apple.com^$important
+@@||cdn2.steamgriddb.com^$important
+@@||convertico.com^$important
+@@||ct.captcha-delivery.com^$important
+@@||geo.captcha-delivery.com^$important
+@@||lmstudio.ai^$important
+@@||opnsense.org^$important
+@@||www.ipfire.org^$important
+@@||www.steamgriddb.com^$important
 
 ! Recent
 @@||*.hls.live-video.net^$important
