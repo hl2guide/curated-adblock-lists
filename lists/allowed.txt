@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-07-14 20:59:59 +10:00
-! Version: 1.0.1.82
+! Last Modified: 2026-07-22 09:28:30 +10:00
+! Version: 1.0.1.83
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,38 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+@@||www.ntcompatible.com^$important
+@@||store.warnermusic.com.au^$important
+
+@@||helium.computer^$important
+@@||a.imput.net^$important
+@@||services.helium.imput.net^$important
+
+@@||notesnook.com^$important
+
+! SpeedTest
+@@||geolocation.onetrust.com^$important
+@@||r.cdnst.net^$important
+
+! Game Modding
+@@||themidnightride.moddinglinked.com^$important
+@@||vivanewvegas.moddinglinked.com^$important
+@@||thebestoftimes.moddinglinked.com^$important
+
+! Gaming Launchers
+@@||hydralauncher.gg^$important
+@@||cdn.losbroxas.org^$important
+@@||hydra-api-us-east-1.losbroxas.org^$important
+@@||release-v4-0-4.hydra-eqi.pages.dev^$important
+@@||steam250.com^$important
+@@||api.workwonders.app^$important
+
+! Captcha Service
+@@||geo.captcha-delivery.com^$important
+@@||ct.captcha-delivery.com^$important
+
+! NixOS
 @@||nixos.org^$important
 @@||nix.dev^$important
 
