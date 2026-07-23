@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-07-22 09:28:30 +10:00
-! Version: 1.0.1.83
+! Last Modified: 2026-07-24 00:02:35 +10:00
+! Version: 1.0.1.84
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,37 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+@@||api.priceline.com.au^$important
+@@||buymeacoffee.com^$important
+@@||getblockify.com^$important
+@@||psmux.pages.dev^$important
+
+! Shopping
+@@||www.grocerywise.com.au^$important
+@@||cdn1.woolworths.media^$important
+@@||www.frugl.com.au^$important
+
+! Banking
+@@||www.bankwest.com.au^$important
+@@||assets.eop.mastercard.com^$important
+@@||www.hsbc.com.au^$important
+@@||www.revolut.com^$important
+@@||assets.revolut.com^$important
+@@||wise.com^$important
+
+! Australia - Energy Providers
+@@||www.energymadeeasy.gov.au^$important
+@@||snapshots.canstar.com.au^$important
+@@||can.canstar.com.au^$important
+@@||cns-payload-prod-01-content.global.ssl.fastly.net^$important
+@@||api.energymadeeasy.gov.au^$important
+@@||fenix.canstar.com.au^$important
+@@||clerk.canstar.com.au^$important
+@@||www.redenergy.com.au^$important
+
+@@||www.thermalright.com^$important
+@@||thermalright.com^$important
 
 @@||www.ntcompatible.com^$important
 @@||store.warnermusic.com.au^$important
