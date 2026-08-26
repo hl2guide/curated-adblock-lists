@@ -20,6 +20,11 @@
 @@||www.aorus.com^$important
 @@||www.getprice.com.au^$important
 
+@@||www.uniqlo.com^$important
+@@||image.uniqlo.com^$important
+@@||im.uniqlo.com^$important
+@@||asset.uniqlo.com^$important
+
 @@||api2.cursor.sh^$important
 @@||doc.samsungmobile.com^$important
 @@||docs.lapce.dev^$important
