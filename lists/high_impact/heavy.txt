@@ -3,11 +3,23 @@
 ! Title: 🤫 Heavy Custom Adblock List
 ! Description: A custom adblock list for use in Adblock Origin and similar.
 ! Last Modified: 2026-05-22 03:28:21 +10:00
-! Version: 1.0.0.3
+! Version: 1.0.0.4
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Author: hl2guide
 ! Copyright: hl2guide
+
+! Coles Cleanup
+coles.com.au###categories-navlist > nav > ul > li:has-text(/Tobacco|Baby|Pet|Garden|Bonus|Liquorland|Deliver More|Lunchbox/)
+coles.com.au###coles-targeting-main-container > div > div:nth-child(1)
+coles.com.au###coles-targeting-main-container > div > div:nth-child(12) > div:nth-child(5)
+coles.com.au###coles-targeting-main-container > div > div:nth-child(12) > div:nth-child(7)
+coles.com.au###coles-targeting-main-container > div > div:nth-child(6)
+
+! Woolworths Cleanup
+woolworths.com.au###container-a5c03e07c2 > div > div > div:nth-child(6)
+woolworths.com.au###flyout-wrapper > div > div.browse-flyout_component_content__YtuMK > div.browse-flyout_component_popular-suggested-container__XFWch
+woolworths.com.au###flyout-wrapper > div > div.browse-flyout_component_content__YtuMK > div:has-text(/Beer|Baby|Pet|Lunch Box|Everyday Market|Healthylife|Lifestyle|Electronics|Gift|Front of Store/)
 
 ! Blocks OnePass ads on Bunnings
 bunnings.com.au##section[aria-label="onepass express click and collect"]
