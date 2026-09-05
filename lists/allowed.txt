@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-08-27 08:56:46 +10:00
-! Version: 1.0.1.87
+! Last Modified: 2026-09-06 00:02:07 +10:00
+! Version: 1.0.1.88
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -1293,7 +1293,7 @@
 @@||corpredirect.intel.com^$important
 @@||devicelink.intel.com^$important
 @@||intelcorp.scene7.com^$important
-@@||players.brightcove.net^$important
+! @@||players.brightcove.net^$important
 ! Integrated my 'AdGuard-Home-Whitelist'
 ! Source: https://github.com/hl2guide/AdGuard-Home-Whitelist
 @@||*-*-*-*.brokendnssec.net^$important
@@ -1337,7 +1337,7 @@
 @@||*.cdntrex.com^$important
 @@||*.cloudapp.azure.com^$important
 @@||*.cloudfront.hls.ttvnw.net^$important
-@@||*.cloudfront.net^$important
+! @@||*.cloudfront.net^$important
 @@||*.delivery.mp.microsoft.com^$important
 @@||*.deviantart.com^$important
 @@||*.disquscdn.com^$important
@@ -4657,7 +4657,7 @@
 @@||node-*.protonvpn.net^$important
 @@||nodejs.dev^$important
 @@||nodejs.org^$important
-@@||normandy.cdn.mozilla.net^$important
+! @@||normandy.cdn.mozilla.net^$important
 @@||notable.app^$important
 @@||notable.md^$important
 @@||notepad-plus-plus.org^$important
@@ -4848,8 +4848,8 @@
 @@||otn*.samsungcloudcdn.com^$important
 @@||otnprd*.samsungcloudsolution.net^$important
 @@||ott-samsung.tubitv.com^$important
-@@||ouo.io^$important
-@@||ouo.press^$important
+! @@||ouo.io^$important
+! @@||ouo.press^$important
 @@||outlook-*.cdn.office.net^$important
 @@||outlook.com^$important
 @@||outlook.live.com^$important
@@ -4959,7 +4959,7 @@
 @@||pfmsqssi.uaenorth.cloudapp.azure.com^$important
 @@||pgl.yoyo.org^$important
 @@||ph.sonicb.it^$important
-@@||phishing.army^$important
+! @@||phishing.army^$important
 @@||phoenixnap.dl.sourceforge.net^$important
 @@||phonedeviceverification-pa.googleapis.com^$important
 @@||photo.plus.google.com^$important
