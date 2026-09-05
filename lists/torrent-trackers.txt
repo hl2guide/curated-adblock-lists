@@ -10,6 +10,22 @@
 ! Author: hl2guide
 ! Copyright: hl2guide
 
+! 2026-09-05 13:45:49 +10:00
+@@||tracker.linvk.com^$important
+@@||tracker.yggleak.top^$important
+@@||vito-tracker.space^$important
+@@||vito-tracker.duckdns.org^$important
+@@||tracker.wildkat.net^$important
+@@||udp.tracker.linvk.com^$important
+@@||tracker.torrentclaw.com^$important
+@@||tracker.peerfect.org^$important
+@@||tracker.opentrackr.com^$important
+@@||tracker.nyaa.net^$important
+@@||tracker.nexusstream.eu^$important
+@@||tracker.ilibr.org^$important
+@@||tracker.qingwapt.org^$important
+@@||tracker.nyaa.vc^$important
+
 ! Allowed Torrent Trackers Dec 2025
 @@||http://1337.abcvg.info:80/announce^
 @@||http://aboutbeautifulgallopinghorsesinthegreenpasture.online:80/announce^

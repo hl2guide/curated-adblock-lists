@@ -12,6 +12,17 @@
 
 ! LATEST =======================================================================
 
+! 2026-09-05 13:44:12 +10:00
+@@||nexus-files.*.r2.cloudflarestorage.com^$important
+@@||openwebui.com^$important
+@@||starcraft.blizzard.com^$important
+@@||adguard-mail.com^$important
+@@||linkip.adguard-dns.com^$important
+@@||*-dnscheck.adguard-dns.com^$important
+@@||www.victoriasbasement.com.au^$important
+@@||images.victoriasbasement.com.au^$important
+@@||static.my.commbank.com.au^$important
+
 ! Aug 2026
 @@||blendos.co^$important
 @@||community.brave.app^$important
