@@ -33,4 +33,20 @@
 ||static.klaviyo.com/onsite/js/klaviyo.js^$important
 ||static.zdassets.com/ekr/snippet.js^$important
 
+||assets.adobeddm.com/launch-0.min.js
+||cdn.cookielaw.org/scripttemplates/otSDKStub.js
+||cdn.iubenda.com/cs/gpp/stub.js
+||cdn.iubenda.com/cs/iubenda_cs.js
+||cdn.iubenda.com/cs/tcf/stub-v2.js
+||cdnjs.cloudflare.com/ajax/libs/fuckadblock/*/fuckadblock.min.js
+||client-api.arkoselabs.com/v2/0/api.js
+||consent.trustarc.com/notice
+||fundingchoicesmessages.google.com/i/pub-0
+||normandy.cdn.mozilla.net
+||ouo.io
+||players.brightcove.net/videojs-ima3/5/videojs.ima3.min.js
+||static.elfsight.com/platform/platform.js
+||static.klaviyo.com/onsite/js/klaviyo.js
+||static.zdassets.com/ekr/snippet.js
+
 @@||cdn.ziffstatic.com^
