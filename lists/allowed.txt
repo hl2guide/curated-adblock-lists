@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-09-10 18:04:00 +10:00
-! Version: 1.0.1.89
+! Last Modified: 2026-09-13 14:03:19 +10:00
+! Version: 1.0.1.90
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,24 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! Patreon
+@@||c5.patreon.com^$important
+@@||c13.patreon.com^$important
+
+@@||azure-na-images.contentstack.com^$important
+@@||pubsub-signalr-prod-westus-001.service.signalr.net^$important
+
+! AdGuard
+@@||crlite-records.adtidy.org^$important
+
+! Amarchy Linux
+@@||mise-versions.jdx.dev^$important
+@@||omarchy.org^$important
+@@||tryomarchy.com^$important
+
+! Music Lyrics Download
+@@||lyrics.paxsenix.org^$important
 
 ! 2026-09-10 18:03:17 +10:00
 @@||api.plainraw.com^$important
