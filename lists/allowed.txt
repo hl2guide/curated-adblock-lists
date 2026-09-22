@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-09-13 14:03:19 +10:00
-! Version: 1.0.1.90
+! Last Modified: 2026-09-22 14:08:17 +10:00
+! Version: 1.0.1.91
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,36 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+@@||notice.sec-smartswitch.com^$important
+@@||neofusgate.samsung.com.cn^$important
+
+@@||codeberg.org^$important
+@@||database.clamav.net^$important
+@@||shotcut.org^$important
+@@||zettlr.com^$important
+@@||www.obsidian.md^$important
+@@||logseq.com^$important
+@@||obsidian.md^$important
+
+@@||7zipnext.com^$important
+@@||nanazip.org^$important
+
+@@||adguardaccount.com^$important
+@@||api.windscribe.net^$important
+
+@@||rust-lang.org^$important
+@@||www.typescriptlang.org^$important
+
+@@||static.captcha-delivery.com^$important
+@@||searxng.org^$important
+@@||docs.searxng.org^$important
+@@||xtremedownloadmanager.com^$important
+@@||abdownloadmanager.com^$important
+
+@@||api.simplesvg.com^$important
+@@||api.unisvg.com^$important
+@@||api.iconify.design^$important
 
 ! Patreon
 @@||c5.patreon.com^$important
