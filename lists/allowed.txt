@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-09-30 16:43:09 +10:00
-! Version: 1.0.1.92
+! Last Modified: 2026-10-01 16:00:24 +10:00
+! Version: 1.0.1.93
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -14,9 +14,6 @@
 
 @@||voidlinux.org^$important
 @@||dlss-swapper-downloads.beeradmoore.com^$important
-
-! AdGuard
-@@||crlite-records.adtidy.org^$important
 
 ! Omarchy Linux
 @@||mise-versions.jdx.dev^$important
@@ -75,11 +72,6 @@
 
 ! AdGuard
 @@||crlite-records.adtidy.org^$important
-
-! Amarchy Linux
-@@||mise-versions.jdx.dev^$important
-@@||omarchy.org^$important
-@@||tryomarchy.com^$important
 
 ! Music Lyrics Download
 @@||lyrics.paxsenix.org^$important
@@ -227,8 +219,6 @@
 @@||log-*.commbank.com.au^$important
 
 @@||convertico.com^$important
-@@||ct.captcha-delivery.com^$important
-@@||geo.captcha-delivery.com^$important
 
 ! Recent
 @@||*.hls.live-video.net^$important
@@ -1311,7 +1301,7 @@
 ! Spotify
 @@||open.spotify.com^$important
 @@||api-partner.spotify.com^$important
-! SpeedTest
+! SpeedTest Base
 @@||cdn.ziffstatic.com^$important
 @@||turn.speed.cloudflare.com^$important
 ! Fonts for NexusMods.com
