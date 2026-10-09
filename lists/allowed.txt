@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-10-02 22:52:13 +10:00
-! Version: 1.0.1.93
+! Last Modified: 2026-10-09 13:45:50 +11:00
+! Version: 1.0.1.94
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,25 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! Modding
+@@||support.cdprojektred.com^$important
+@@||mod.io^$important
+@@||image.modcdn.io^$important
+@@||assets.modcdn.io^$important
+@@||gog-cdn-cp77.gcdn.co^$important
+
+! Google TV apps
+@@||*.api.amazonvideo.com^$important
+@@||10.com.au^$important
+@@||10play.com.au^$important
+@@||catalogue.pr.sbsod.com^$important
+@@||config.swm.digital^$important
+@@||mylogin-api.abc.net.au^$important
+@@||tv-epg.pr.sbsod.com^$important
+
+! Banking
+@@||netbank.web.commbank.com.au^$important
 
 ! Music Cover Arts
 @@||api.discogs.com^$important
