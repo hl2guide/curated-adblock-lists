@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-10-09 13:45:50 +11:00
-! Version: 1.0.1.94
+! Last Modified: 2026-10-15 20:09:23 +11:00
+! Version: 1.0.1.95
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,26 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! EBAY
+@@||msa-b1.cgi5.ebay.com^$important
+
+! Where Winds Meet PC Game
+@@||*.update.easebar.com^$important
+@@||whoami.nie.easebar.com^$important
+@@||who.easebar.com^$important
+@@||protocol.unisdk.easebar.com^$important
+@@||g0.gsf.easebar.com^$important
+@@||mcount.easebar.com^$important
+@@||*.unisdk.easebar.com^$important
+@@||cfg.cdn.unisdk.easebar.com^$important
+@@||*.proxima.nie.easebar.com^$important
+@@||dns.update.easebar.com^$important
+@@||*.update.easebar.com^$important
+@@||*.update.nieapps.com^$important
+@@||*.gph.easebar.com^$important
+@@||*-ms-prod.easebar.com^$important
+@@||*.fp.ps.easebar.com^$important
 
 ! Modding
 @@||support.cdprojektred.com^$important
