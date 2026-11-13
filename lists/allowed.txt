@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-11-02 19:32:12 +11:00
-! Version: 1.0.1.100
+! Last Modified: 2026-11-13 20:54:02 +11:00
+! Version: 1.0.1.101
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,71 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! 2026-11-13 20:45:23 +11:00
+@@||haveibeenpwned.com^$important
+@@||www.cyber.gov.au^$important
+@@||projectbluefin.io^$important
+@@||veracrypt.io^$important
+@@||veracrypt.jp^$important
+@@||www.kernel.org^$important
+@@||www.shoppingexpress.com.au^$important
+
+@@||www.bendigobank.com.au^$important
+@@||www.bankaust.com.au^$important
+@@||www.rabobank.com.au^$important
+
+@@||css.blackmagicdesign.com^$important
+@@||downloads.blackmagicdesign.com^$important
+@@||images.blackmagicdesign.com^$important
+@@||jslibs.blackmagicdesign.com^$important
+@@||www.blackmagicdesign.com^$important
+
+@@||cron-job.org^$important
+
+@@||www.techbuy.com.au^$important
+@@||www.priceme.com.au^$important
+@@||mwave.com.au^$important
+@@||mwaveau.zendesk.com^$important
+@@||mwave-com-au.myshopify.com^$important
+
+! Invidious
+@@||inv.nadeko.net^$important
+@@||invidious.nerdvpn.de^$important
+@@||invidious.tiekoetter.com^$important
+@@||inv-us2.nadeko.net^$important
+@@||inv-us1.nadeko.net^$important
+
+@@||plainip.com^$important
+@@||dnschecker.org^$important
+
+! Android TV
+@@||go.aftvnews.com^$important
+@@||www.aftvnews.com^$important
+@@||aftvnews.com^$important
+
+@@||www.imdb.com^$important
+
+@@||www.dnscrypt.org^$important
+@@||simplednscrypt.org^$important
+
+! Bankwest
+! @@||sonic.bankwest.com.au^$important
+! @@||identity.bankwest.com.au^$important
+! @@||online.bankwest.com.au^$important
+! @@||499fb7l.au.bankwest.com.au^$important
+! @@||open-consent.bankwest.com.au^$important
+! @@||876dcd59-f9ee-4616-b4ba-db5047762aba-occhannels-acs.australia.communication.azure.com^$important
+! @@||idverification.bankwest.com.au^$important
+! @@||chatbot.bankwest.com.au^$important
+! @@||apply-now.bankwest.com.au^$important
+! @@||bankwest.sc.omtrdc.net^$important
+! @@||43880dw.au.bankwest.com.au^$important
+! @@||signup.bankwest.com.au^$important
+
+! Comparison Supermarkets
+@@||shophop.au^$important
+@@||cartsavvy.com.au^$important
 
 @@||speedtest*.nexthop.net.au^$important
 @@||speedtest-*.empower.net.au^$important
