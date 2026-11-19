@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-11-13 20:54:02 +11:00
-! Version: 1.0.1.101
+! Last Modified: 2026-11-19 18:17:58 +11:00
+! Version: 1.0.1.102
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,33 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! 2026-11-19 18:17:51 +11:00
+@@||wan.metrosg.ru^$important
+@@||api-sdk.datadome.co^$important
+@@||mytechmobile.com.au^$important
+@@||mysupport.razer.com^$important
+@@||synapse.razer.com^$important
+@@||tuta.com^$important
+@@||i.ebayimg.cn^$important
+@@||xbaccessories-bhf7bsbfgxdpbrg4.b02.azurefd.net^$important
+@@||unraid.net^$important
+@@||www.openmediavault.org^$important
+
+@@||r.delonghi.com^$important
+@@||www.delonghi.com^$important
+@@||dam.delonghi.com^$important
+@@||library.delonghigroup.com^$important
+@@||assetbank-eu-west-1.s3.eu-west-1.amazonaws.com^$important
+
+@@||url2478.gigabyte.com^$important
+
+@@||www.hbo.com^$important
+@@||static.hbo.com^$important
+@@||images.cdn.prd.api.discomax.com^$important
+
+@@||www.specsavers.com.au^$important
+@@||content.specsavers.com^$important
 
 ! 2026-11-13 20:45:23 +11:00
 @@||haveibeenpwned.com^$important
