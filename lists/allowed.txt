@@ -1,8 +1,8 @@
 [Adblock Plus 2.0]
 ! Title: ✅ Curated Adblock List - Allowed
 ! Description: A curated adblock list for allowing sites.
-! Last Modified: 2026-11-23 21:00:30 +11:00
-! Version: 1.0.1.103
+! Last Modified: 2026-11-25 18:37:07 +11:00
+! Version: 1.0.1.104
 ! Expires: 1 days (update frequency)
 ! Licence: MIT
 ! Source: https://github.com/hl2guide/curated-adblock-lists
@@ -11,6 +11,15 @@
 ! Copyright: hl2guide
 
 ! LATEST =======================================================================
+
+! 2026-11-25 18:36:51 +11:00
+@@||twinkletray.com^$important
+@@||zenmate.com^$important
+@@||bhphotovideo.com^$important
+@@||origin.com^$important
+@@||www.yubico.com^$important
+@@||wwyk.yubico.com^$important
+@@||resources.yubico.com^$important
 
 ! 2026-11-23 20:58:08 +11:00
 @@||aadcdn.msftauthimages.net^$important
